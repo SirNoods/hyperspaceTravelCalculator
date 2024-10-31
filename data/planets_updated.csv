@@ -1,0 +1,2174 @@
+System,Planet,Region,xcoord,ycoord,wiki
+,Xa Fel,Core,-92.698,33.046,http://starwars.wikia.com/wiki/Xa_Fel
+Orus,Chazwa,Inner Rim,199.857,106.001,http://starwars.wikia.com/wiki/Chazwa
+Truum,Azure,Mid Rim,448.837,172.768,http://starwars.wikia.com/wiki/Azure
+,Lwhekk,Unknown Regions,-815.269,-634.739,http://starwars.wikia.com/wiki/Lwhekk
+Halla,Xoman,Mid Rim,701.869,63.523,http://starwars.wikia.com/wiki/Xoman
+,Prakith,Deep Core,-44.579,-88.82,http://starwars.wikia.com/wiki/Prakith
+,Keeara Major,Deep Core,-7.337,-58.352,http://starwars.wikia.com/wiki/Keeara_Major
+,Symbia,Deep Core,-10.185,-51.878,http://starwars.wikia.com/wiki/Symbia
+,Kuar,Deep Core,-1.898,-45.231,http://starwars.wikia.com/wiki/Kuar
+,Odik,Deep Core,-76.85,-109.79,http://starwars.wikia.com/wiki/Odik
+,Byss,Deep Core,-48.074,-182.068,http://starwars.wikia.com/wiki/Byss
+,Kalist,Deep Core,-13.642,-202.323,http://starwars.wikia.com/wiki/Kalist_VI
+,Zamael,Deep Core,-13.411,-213.257,http://starwars.wikia.com/wiki/Zamael
+,Lialic,Deep Core,-16.634,-226.839,http://starwars.wikia.com/wiki/Lialic
+,Constancia,Deep Core,-14.059,-242.179,http://starwars.wikia.com/wiki/Constancia
+,Dulvoyinn,Deep Core,-3.441,-246.927,http://starwars.wikia.com/wiki/Dulvoyinn
+,Tython,Deep Core,1.279,-78.258,http://starwars.wikia.com/wiki/Tython
+,Had Abbadon,Deep Core,74.369,-78.834,http://starwars.wikia.com/wiki/Had_Abbadon
+,Cambria,Deep Core,93.111,-58.448,http://starwars.wikia.com/wiki/Cambria
+,Vulpter,Deep Core,58.406,-49.045,http://starwars.wikia.com/wiki/Vulpter
+,Besero,Deep Core,49.601,-38.168,http://starwars.wikia.com/wiki/Besero
+,Primus Goluud,Deep Core,36.48,-36.096,http://starwars.wikia.com/wiki/Primus_Goluud
+,Empress Teta,Deep Core,1.987,-52.137,http://starwars.wikia.com/wiki/Empress_Teta
+Baxel,Iope,Outer Rim,943.08,-225.899,http://starwars.wikia.com/wiki/Iope
+,Starswarm Cluster,Deep Core,9.756,-39.965,http://starwars.wikia.com/wiki/Starswarm_Cluster
+,Jerrilek,Deep Core,1.946,-24.051,http://starwars.wikia.com/wiki/Jerrilek
+,Tsoss Beacon,Deep Core,11.408,-105.307,http://starwars.wikia.com/wiki/Tsoss_Beacon
+,Eclipse,Deep Core,99.245,-176.94,http://starwars.wikia.com/wiki/Eclipse
+,Crystan,Deep Core,13.406,-246.885,http://starwars.wikia.com/wiki/Crystan
+,Khomm,Deep Core,12.507,-255.138,http://starwars.wikia.com/wiki/Khomm
+,Dremulae,Deep Core,101.765,-73.526,http://starwars.wikia.com/wiki/Dremulae
+,Ojom,Deep Core,107.856,-163.279,http://starwars.wikia.com/wiki/Ojom
+,Ottabesk,Deep Core,112.906,-159.264,http://starwars.wikia.com/wiki/Ottabesk
+,Hakassi,Deep Core,113.302,-152.812,http://starwars.wikia.com/wiki/Hakassi
+,Ebaq,Deep Core,106.137,-143.229,http://starwars.wikia.com/wiki/Ebaq
+,Thoadeye,Deep Core,118.939,-112.328,http://starwars.wikia.com/wiki/Thoadeye
+,Galactic Center,Deep Core,0,-142.091,http://starwars.wikia.com/wiki/Galactic_Center
+,Kokash,Core,-110.308,-65.502,http://starwars.wikia.com/wiki/Kokash
+,Pollillus,Core,-101.33,-63.89,http://starwars.wikia.com/wiki/Pollillus
+,Osssorck Nebulae,Core,-101.59,-266.91,http://starwars.wikia.com/wiki/Osssorck_Nebulae
+,Questal,Core,-117.741,-273.815,http://starwars.wikia.com/wiki/Questal
+,Kitel Phard,Core,-132.66,-286.761,http://starwars.wikia.com/wiki/Kitel_Phard
+,Inysh,Core,-118.605,-295.761,http://starwars.wikia.com/wiki/Inysh
+,Dahrtag,Core,-105.612,-314.795,http://starwars.wikia.com/wiki/Dahrtag
+,Metellos,Core,-13.508,1.228,http://starwars.wikia.com/wiki/Metellos
+,Ragoon,Core,-81.735,16.126,http://starwars.wikia.com/wiki/Ragoon
+,Merakai,Core,-61.722,51.288,http://starwars.wikia.com/wiki/Merakai
+,Denevar,Core,-48.611,52.89,http://starwars.wikia.com/wiki/Denevar
+,Pantolomin,Core,-37.227,44.441,http://starwars.wikia.com/wiki/Pantolomin
+,Dachat,Core,-59.211,37.88,http://starwars.wikia.com/wiki/Dachat
+,Voon,Core,-37.112,36.844,http://starwars.wikia.com/wiki/Voon
+,Hyabb,Core,-46.78,31.204,http://starwars.wikia.com/wiki/Hyabb
+,Farrfin,Core,-25.163,52.031,http://starwars.wikia.com/wiki/Farrfin
+,Twith,Core,-28.501,42.593,http://starwars.wikia.com/wiki/Twith
+Albarrio,Scipio,Outer Rim,-64.533,481.957,http://starwars.wikia.com/wiki/Scipio
+,Galvoni,Core,-15.034,29.587,http://starwars.wikia.com/wiki/Galvoni
+,Weerden,Core,-13.768,18.076,http://starwars.wikia.com/wiki/Weerden
+,Tanjay,Core,-7.092,11.746,http://starwars.wikia.com/wiki/Tanjay
+,Mamendin,Core,-9.279,58.707,http://starwars.wikia.com/wiki/Mamendin
+,Tamban,Core,-95.23,-45.474,http://starwars.wikia.com/wiki/Tamban
+,Aradia,Core,-90.281,-35,http://starwars.wikia.com/wiki/Aradia
+,Cal-Seti,Core,-73.936,-34.194,http://starwars.wikia.com/wiki/Cal-Seti
+,N'Zoth,Core,-95.69,-57.768,http://starwars.wikia.com/wiki/N'Zoth
+,Fresia,Core,-58.167,-29.475,http://starwars.wikia.com/wiki/Fresia
+,Galand,Core,-53.563,-23.72,http://starwars.wikia.com/wiki/Galand
+,Alland,Core,-45.966,-14.397,http://starwars.wikia.com/wiki/Alland
+,Worru'du,Core,-38.6,-17.85,http://starwars.wikia.com/wiki/Worru'du
+,Salliche,Core,-25.709,-18.54,http://starwars.wikia.com/wiki/Salliche
+,Norkronia,Core,-33.42,-6.829,http://starwars.wikia.com/wiki/Norkronia
+,Stassia,Core,-13.278,-11.433,http://starwars.wikia.com/wiki/Stassia
+,Foerost,Core,-41,-7.404,http://starwars.wikia.com/wiki/Foerost
+,Ruan,Core,-41,-13.85,http://starwars.wikia.com/wiki/Ruan
+,Galantos,Core,-94.577,-55.855,http://starwars.wikia.com/wiki/Galantos
+,J't'p'tan,Core,-96.605,-56.56,http://starwars.wikia.com/wiki/J't'p'tan
+,Botor,Core,-3.862,-270.404,http://starwars.wikia.com/wiki/Botor
+,Thracior,Core,-11.976,-275.982,http://starwars.wikia.com/wiki/Thracior
+,Thebeon,Core,-31.435,-299.213,http://starwars.wikia.com/wiki/Thebeon
+,Gerrard,Core,-3.447,-295.268,http://starwars.wikia.com/wiki/Gerrard
+,Daupherm,Core,-18.489,-267.033,http://starwars.wikia.com/wiki/Daupherm
+,Loedorvia,Core,-87.534,-242.868,http://starwars.wikia.com/wiki/Loedorvia
+,Cortina,Core,-60.163,-277.02,http://starwars.wikia.com/wiki/Cortina
+,Abregado-rae,Core,-4.434,-316.721,http://starwars.wikia.com/wiki/Abregado-rae
+,Dentaal,Core,-4.31,-325.845,http://starwars.wikia.com/wiki/Dentaal
+,Belgaroth,Core,-11.955,-334.352,http://starwars.wikia.com/wiki/Belgaroth
+,Steelious,Core,-18.612,-324.242,http://starwars.wikia.com/wiki/Steelious
+,Cuvacia,Core,-93.206,-304.268,http://starwars.wikia.com/wiki/Cuvacia
+,Illodia,Core,-73.016,-330.885,http://starwars.wikia.com/wiki/Illodia
+,Kidiet Olgo,Core,5.338,61.419,http://starwars.wikia.com/wiki/Kidiet_Olgo
+,Challon,Core,28.395,51.687,http://starwars.wikia.com/wiki/Challon
+,Shawken,Core,28.654,44.953,http://starwars.wikia.com/wiki/Shawken
+,Velusia,Core,6.986,35.889,http://starwars.wikia.com/wiki/Velusia
+,Thorgeld,Core,12.235,29.369,http://starwars.wikia.com/wiki/Thorgeld
+,Thokos,Core,06.02,17.132,http://starwars.wikia.com/wiki/Thokos
+,Ralltiir,Core,74.426,43.836,http://starwars.wikia.com/wiki/Ralltiir
+,Rhinnal,Core,69.362,41.073,http://starwars.wikia.com/wiki/Rhinnal
+,Esseles,Core,64.988,38.311,http://starwars.wikia.com/wiki/Esseles
+,Brentaal,Core,60.499,35.894,http://starwars.wikia.com/wiki/Brentaal
+,Chandrila,Core,55.319,32.556,http://starwars.wikia.com/wiki/Chandrila
+,Corulag,Core,49.679,29.563,http://starwars.wikia.com/wiki/Corulag
+,Anaxes,Core,41.047,24.959,http://starwars.wikia.com/wiki/Anaxes
+,Grizmallt,Core,28.386,17.708,http://starwars.wikia.com/wiki/Grizmallt
+,Alsakan,Core,17.221,10.917,http://starwars.wikia.com/wiki/Alsakan
+,Tepasi,Core,89.481,18.076,http://starwars.wikia.com/wiki/Tepasi
+,Skako,Core,76.187,10.307,http://starwars.wikia.com/wiki/Skako
+,Basilisk,Core,60.924,6.866,http://starwars.wikia.com/wiki/Basilisk
+,Spira,Core,8.67,-16.777,http://starwars.wikia.com/wiki/Spira
+,Yulant,Core,34.421,-16.249,http://starwars.wikia.com/wiki/Yulant
+,Aargau,Core,40.205,-19.875,http://starwars.wikia.com/wiki/Aargau
+,Broest,Core,65.326,-24.45,http://starwars.wikia.com/wiki/Broest
+,Ixtlar,Core,37.098,-4.098,http://starwars.wikia.com/wiki/Ixtlar
+,Vultar,Core,64.809,-5.306,http://starwars.wikia.com/wiki/Vultar
+,Wukkar,Core,56.694,-12.471,http://starwars.wikia.com/wiki/Wukkar
+,Kailor V,Core,69.125,-20.068,https://starwars.fandom.com/wiki/Kailor_V
+,Palawa,Core,92.548,-15.205,http://starwars.wikia.com/wiki/Palawa
+,Xorth,Core,82.506,-28.363,http://starwars.wikia.com/wiki/Xorth
+,Gama,Core,83.707,-246.323,http://starwars.wikia.com/wiki/Gama
+,Balosar,Core,67.596,-251.748,http://starwars.wikia.com/wiki/Balosar
+,Lansono,Core,97.176,-277.948,http://starwars.wikia.com/wiki/Lansono
+,Lujo,Core,49.337,-264.139,http://starwars.wikia.com/wiki/Lujo
+,Shulxi,Core,61.79,-270.427,http://starwars.wikia.com/wiki/Shulxi
+,Azbrian,Core,61.667,-284.606,http://starwars.wikia.com/wiki/Azbrian
+,Thomork,Core,19.194,-266.62,http://starwars.wikia.com/wiki/Thomork
+,Frego,Core,29.363,-306.429,http://starwars.wikia.com/wiki/Frego
+,Iphigin,Core,44.899,-327.883,http://starwars.wikia.com/wiki/Iphigin
+,Andara,Core,97.669,-315.8,http://starwars.wikia.com/wiki/Andara
+,Eamus,Core,5.307,-304.268,http://starwars.wikia.com/wiki/Eamus
+,Plexis,Core,8.759,-311.173,http://starwars.wikia.com/wiki/Plexis
+,Diamal,Core,10.115,-342.49,http://starwars.wikia.com/wiki/Diamal
+,Corann,Core,101.371,35.211,http://starwars.wikia.com/wiki/Corann
+,Korfo,Core,106.703,8.252,http://starwars.wikia.com/wiki/Korfo
+,Caamas,Core,113.696,7.086,http://starwars.wikia.com/wiki/Caamas
+,Aldraig,Core,104.807,-19.867,http://starwars.wikia.com/wiki/Aldraig
+,Alderaan,Core,129.496,-5.968,http://starwars.wikia.com/wiki/Alderaan
+,Vuma,Core,112.651,-59.194,http://starwars.wikia.com/wiki/Vuma
+,Ator,Core,107.472,-73.697,http://starwars.wikia.com/wiki/Ator
+,Leria Kerlsil,Core,125.312,-83.136,http://starwars.wikia.com/wiki/Leria_Kerlsil
+,Tyed Kant,Core,145.455,-23.628,http://starwars.wikia.com/wiki/Tyed_Kant
+,Demophon,Core,119.327,-33.181,http://starwars.wikia.com/wiki/Demophon
+,Glithnos,Core,126.463,-41.584,http://starwars.wikia.com/wiki/Glithnos
+,Fedalle,Core,139.815,-54.475,http://starwars.wikia.com/wiki/Fedalle
+,Raxxa,Core,166.864,-55.511,http://starwars.wikia.com/wiki/Raxxa
+,Kuat,Core,186.813,-59.958,http://starwars.wikia.com/wiki/Kuat
+,Talravin,Core,152.034,-74.474,http://starwars.wikia.com/wiki/Talravin
+,Pria,Core,173.27,-83.711,http://starwars.wikia.com/wiki/Pria
+,Ruul,Core,143.574,-97.005,http://starwars.wikia.com/wiki/Ruul_(planet)
+,Sarapin,Core,160.062,-90.445,http://starwars.wikia.com/wiki/Sarapin
+,Humbarine,Core,188.233,-99.94,http://starwars.wikia.com/wiki/Humbarine
+,Trellen,Core,164.292,-100.458,http://starwars.wikia.com/wiki/Trellen
+,Mawan,Core,168.781,-111.163,http://starwars.wikia.com/wiki/Mawan
+,Seyugi,Core,187.312,-120.544,http://starwars.wikia.com/wiki/Seyugi
+,Recopia,Core,152.782,-123.766,http://starwars.wikia.com/wiki/Recopia
+,Loretto,Core,176.838,-132.629,http://starwars.wikia.com/wiki/Loretto
+,Rendili,Core,163.716,-140.801,http://starwars.wikia.com/wiki/Rendili
+,Perma,Core,134.711,-106.731,http://starwars.wikia.com/wiki/Perma
+,Lolnar,Core,138.394,-117.551,http://starwars.wikia.com/wiki/Lolnar
+,Columus,Core,133.33,-129.521,http://starwars.wikia.com/wiki/Columus
+,Lettow,Core,126.726,-146.533,http://starwars.wikia.com/wiki/Lettow
+,Rehemsa,Core,148.595,-151.022,http://starwars.wikia.com/wiki/Rehemsa
+,Sedratis,Core,152.163,-162.187,http://starwars.wikia.com/wiki/Sedratis
+,Baraboo,Core,181.111,-146.907,http://starwars.wikia.com/wiki/Baraboo
+,Bellassa,Core,183.068,-152.777,http://starwars.wikia.com/wiki/Bellassa
+,Jaciprus,Core,186.866,-166.244,http://starwars.wikia.com/wiki/Jaciprus
+,Voktunma,Core,188.708,-172.345,http://starwars.wikia.com/wiki/Voktunma
+,Samaria,Core,169.716,-169.237,http://starwars.wikia.com/wiki/Samaria
+,Rydonni Prime,Core,155.098,-174.301,http://starwars.wikia.com/wiki/Rydonni_Prime
+,Goorla,Core,154.523,-180.287,http://starwars.wikia.com/wiki/Goorla
+,Sacorria,Core,151.875,-184.545,http://starwars.wikia.com/wiki/Sacorria
+,Corellia,Core,157.553,-186.038,http://starwars.wikia.com/wiki/Corellia
+,Duro,Core,157.102,-186.797,http://starwars.wikia.com/wiki/Duro
+,Nubia,Core,157.609,-186.709,http://starwars.wikia.com/wiki/Nubia
+,Karvoss,Core,117.243,-205.225,http://starwars.wikia.com/wiki/Karvoss
+,Hemei,Core,103.763,-217.226,http://starwars.wikia.com/wiki/Hemei
+,Chasin,Core,158.341,-249.447,http://starwars.wikia.com/wiki/Chasin
+,Chamm,Core,105.407,-250.433,http://starwars.wikia.com/wiki/Chamm
+,Shumogi,Core,114.284,-235.473,http://starwars.wikia.com/wiki/Shumogi
+,Tinnel,Core,170.506,-213.445,http://starwars.wikia.com/wiki/Tinnel
+,Condular,Core,151.108,-274.106,http://starwars.wikia.com/wiki/Condular
+,Gandeal,Core,146.043,-283.287,http://starwars.wikia.com/wiki/Gandeal
+,Danteel,Core,115.793,-261.304,http://starwars.wikia.com/wiki/Danteel
+,Kobaria,Core,111.601,-265.126,http://starwars.wikia.com/wiki/Kobaria
+,Sestria,Core,102.724,-304.827,http://starwars.wikia.com/wiki/Sestria
+,Coruscant,Core,0,0,http://starwars.wikia.com/wiki/Coruscant
+Ollonir Boundaries[,Thrantin,Colonies,-145.977,49.154,http://starwars.wikia.com/wiki/Thrantin
+,Batorine,Colonies,-130.359,89.431,http://starwars.wikia.com/wiki/Batorine
+,Phu,Colonies,-107.075,-374.057,http://starwars.wikia.com/wiki/Phu
+,Trunska,Colonies,-115.624,-357.946,http://starwars.wikia.com/wiki/Trunska
+,Candoria,Colonies,-127.789,-335.424,http://starwars.wikia.com/wiki/Candoria
+,Hjaff,Colonies,-127.46,-304.683,http://starwars.wikia.com/wiki/Hjaff
+,Sif-Uwana,Colonies,-67.725,111.459,http://starwars.wikia.com/wiki/Sif-Uwana
+Fakir,Vakkar,Colonies,-94.686,97.157,http://starwars.wikia.com/wiki/Vakkar
+,Palanhi,Colonies,-66.41,97.65,http://starwars.wikia.com/wiki/Palanhi
+,Venjagga,Colonies,-53.259,66.087,http://starwars.wikia.com/wiki/Venjagga
+,Ord Mirit,Colonies,-47.341,74.142,http://starwars.wikia.com/wiki/Ord_Mirit
+,Borleias,Colonies,-41.258,63.128,http://starwars.wikia.com/wiki/Borleias
+,Noquivzor,Colonies,-46.026,99.459,http://starwars.wikia.com/wiki/Noquivzor
+,Ophideraan,Colonies,-11.234,-387.866,http://starwars.wikia.com/wiki/Ophideraan
+,Whelori,Colonies,-28.66,-389.51,http://starwars.wikia.com/wiki/Whelori
+,Vaykaaris,Colonies,-78.307,-384.742,http://starwars.wikia.com/wiki/Vaykaaris
+,Zenox Cluster,Colonies,-74.197,-361.892,http://starwars.wikia.com/wiki/Zenox_Cluster
+,Omar,Colonies,-53.483,-340.192,http://starwars.wikia.com/wiki/Omar
+,Baradas,Colonies,08.06,115.569,http://starwars.wikia.com/wiki/Baradas
+,Ord Antalaha,Colonies,24.951,102.007,http://starwars.wikia.com/wiki/Ord_Antalaha
+,Nierport,Colonies,64.529,115.569,http://starwars.wikia.com/wiki/Nierport
+,Uviuy Exen,Colonies,55.282,89.184,http://starwars.wikia.com/wiki/Uviuy_Exen
+,Doldrums,Colonies,84.749,88.321,http://starwars.wikia.com/wiki/Doldrums
+,Delle,Colonies,89.064,53.798,http://starwars.wikia.com/wiki/Delle
+,Dankayo,Colonies,47.761,99.664,http://starwars.wikia.com/wiki/Dankayo
+,Kiribi,Colonies,99.668,99.294,http://starwars.wikia.com/wiki/Kiribi
+,Nara,Colonies,27.91,66.744,http://starwars.wikia.com/wiki/Nara
+,Wakeelmui,Colonies,53.556,70.443,http://starwars.wikia.com/wiki/Wakeelmui
+,Jatir,Colonies,92.961,40.536,http://starwars.wikia.com/wiki/Jatir
+,Giju,Colonies,3.068,-354.823,http://starwars.wikia.com/wiki/Giju
+,Cilpar,Colonies,1.26,-367.974,http://starwars.wikia.com/wiki/Cilpar
+,Vindalia,Colonies,14.247,-348.576,http://starwars.wikia.com/wiki/Vindalia
+,Fondor,Colonies,25.261,-369.618,http://starwars.wikia.com/wiki/Fondor
+,Ghorman,Colonies,28.056,-397.729,http://starwars.wikia.com/wiki/Ghorman
+,Mrlsst,Colonies,29.042,-376.851,http://starwars.wikia.com/wiki/Mrlsst
+,Bassadro,Colonies,62.249,-374.221,http://starwars.wikia.com/wiki/Bassadro
+,Teyr Vulvarch,Colonies,84.607,-380.961,http://starwars.wikia.com/wiki/Teyr_Vulvarch
+,Laakteen Depot,Colonies,3.232,-379.482,http://starwars.wikia.com/wiki/Laakteen_Depot
+,Arkania,Colonies,109.634,101.269,http://starwars.wikia.com/wiki/Arkania
+,Kluistar,Colonies,104.631,109.1,http://starwars.wikia.com/wiki/Kluistar
+,Raithal,Colonies,149.412,85.716,http://starwars.wikia.com/wiki/Raithal
+,Castell,Colonies,139.529,80.255,http://starwars.wikia.com/wiki/Castell
+,Shulstine,Colonies,133.755,77.81,http://starwars.wikia.com/wiki/Shulstine
+,Ifmix,Colonies,120.96,71.932,http://starwars.wikia.com/wiki/Ifmix
+,Yabol Opa,Colonies,109.256,64.858,http://starwars.wikia.com/wiki/Yabol_Opa
+,Teardrop,Colonies,105.71,45.715,http://starwars.wikia.com/wiki/Teardrop
+,Shelkonwa,Colonies,116.683,43.126,http://starwars.wikia.com/wiki/Shelkonwa
+,Belnar,Colonies,129.012,62.113,http://starwars.wikia.com/wiki/Belnar
+,Argai Minor,Colonies,140.972,52.496,http://starwars.wikia.com/wiki/Argai_Minor
+,Carida,Colonies,151.698,59.277,http://starwars.wikia.com/wiki/Carida
+,Dakshee,Colonies,153.671,50.893,http://starwars.wikia.com/wiki/Dakshee
+,Hok,Colonies,176.727,38.194,http://starwars.wikia.com/wiki/Hok
+,Grandine,Colonies,172.905,5.274,http://starwars.wikia.com/wiki/Grandine
+,Parkis,Colonies,171.672,-24.07,http://starwars.wikia.com/wiki/Parkis
+,Kattada,Colonies,191.03,-25.056,http://starwars.wikia.com/wiki/Kattada
+,Neimoidia,Colonies,188.564,-59.984,http://starwars.wikia.com/wiki/Neimoidia
+,Balmorra,Colonies,187.596,-58.187,http://starwars.wikia.com/wiki/Balmorra
+,Exodeen,Colonies,198.674,-207.779,http://starwars.wikia.com/wiki/Exodeen
+,Loronar,Colonies,184.248,-247.85,http://starwars.wikia.com/wiki/Loronar
+,Byblos,Colonies,191.646,-264.125,http://starwars.wikia.com/wiki/Byblos
+,Pencael,Colonies,198.674,-275.221,http://starwars.wikia.com/wiki/Pencael
+,Arat Fraca,Colonies,178.207,-265.358,http://starwars.wikia.com/wiki/Arat_Fraca
+,Motexx,Colonies,148.37,-322.813,http://starwars.wikia.com/wiki/Motexx
+,Froswythe,Colonies,151.575,-332.677,http://starwars.wikia.com/wiki/Froswythe
+,Enisca,Colonies,126.67,-334.403,http://starwars.wikia.com/wiki/Enisca
+Kuluur,Kelada,Colonies,121.121,-353.267,http://starwars.wikia.com/wiki/Kelada
+Duluur,Devaron,Colonies,120.382,-373.117,http://starwars.wikia.com/wiki/Devaron
+,Belazura,Colonies,136.533,-308.388,http://starwars.wikia.com/wiki/Belazura
+,Bryexx,Colonies,129.629,-325.279,http://starwars.wikia.com/wiki/Bryexx
+,Sanjin,Colonies,114.073,-311.456,http://starwars.wikia.com/wiki/Sanjin
+,Corroth,Colonies,206.318,34.249,http://starwars.wikia.com/wiki/Corroth
+,Tibro,Colonies,207.304,23.152,http://starwars.wikia.com/wiki/Tibro
+,Manwess,Colonies,215.688,12.549,http://starwars.wikia.com/wiki/Manwess
+,Uquine,Colonies,206.195,-33.687,http://starwars.wikia.com/wiki/Uquine
+,Resht,Colonies,226.908,-25.426,http://starwars.wikia.com/wiki/Resht
+,Xobome,Colonies,234.059,-31.961,http://starwars.wikia.com/wiki/Xobome
+,Foundry,Colonies,203.975,-74.991,http://starwars.wikia.com/wiki/Foundry
+,Faro,Colonies,252.924,-71.415,http://starwars.wikia.com/wiki/Faro
+,Commenor,Colonies,231.1,-98.293,http://starwars.wikia.com/wiki/Commenor
+,Damoria,Colonies,221.977,-107.91,http://starwars.wikia.com/wiki/Damoria
+,Chorax,Colonies,215.072,-116.541,http://starwars.wikia.com/wiki/Chorax
+,Vladet,Colonies,214.456,-129.61,http://starwars.wikia.com/wiki/Vladet
+,Cato Neimoidia,Colonies,216.305,-135.158,http://starwars.wikia.com/wiki/Cato_Neimoidia
+,Hensara,Colonies,218.278,-140.953,http://starwars.wikia.com/wiki/Hensara
+,Darek,Colonies,248.238,-147.488,http://starwars.wikia.com/wiki/Darek
+,Talasea,Colonies,224.319,-155.872,http://starwars.wikia.com/wiki/Talasea
+,Vanjervalis,Colonies,207.674,-193.107,http://starwars.wikia.com/wiki/Vanjervalis
+,Lankashiir,Colonies,234.676,-192.614,http://starwars.wikia.com/wiki/Lankashiir
+,Quellor,Colonies,234.799,-209.382,http://starwars.wikia.com/wiki/Quellor
+,Boudolayz,Colonies,201.14,-212.957,http://starwars.wikia.com/wiki/Boudolayz
+,Herzob,Colonies,203.236,-219.739,http://starwars.wikia.com/wiki/Herzob
+,Besnia,Colonies,207.428,-231.205,http://starwars.wikia.com/wiki/Besnia
+,Koensayr,Colonies,210.264,-241.315,http://starwars.wikia.com/wiki/Koensayr
+,Aquilae,Colonies,215.195,-261.289,http://starwars.wikia.com/wiki/Aquilae
+,Havricus,Colonies,209.894,-291.373,http://starwars.wikia.com/wiki/Havricus
+Koradin,Virgillia,Outer Rim,-247.289,-872.609,http://starwars.wikia.com/wiki/Virgillia
+Koradin,Lipsec,Outer Rim,-275.842,-866.091,http://starwars.wikia.com/wiki/Lipsec
+Koradin,Coveway,Outer Rim,-226.339,-818.45,http://starwars.wikia.com/wiki/Coveway
+Koradin,Sump,Outer Rim,-207.986,-891.331,http://starwars.wikia.com/wiki/Sump
+Koradin,Abridon,Outer Rim,-133.386,-887.816,http://starwars.wikia.com/wiki/Abridon
+Koradin,Keskin,Outer Rim,-163.801,-893.093,http://starwars.wikia.com/wiki/Keskin
+Stensen,Trenwyth,Outer Rim,-285.213,-696.555,http://starwars.wikia.com/wiki/Trenwyth
+Trilon,Gannaria,Outer Rim,-375.84,-544.684,http://starwars.wikia.com/wiki/Gannaria
+Trilon,Zaddja,Outer Rim,-377.081,-514.889,http://starwars.wikia.com/wiki/Zaddja
+Trilon,Rattatak,Outer Rim,-370.046,-608.826,http://starwars.wikia.com/wiki/Rattatak
+Zuma,Abbaji,Outer Rim,-315.836,-682.899,http://starwars.wikia.com/wiki/Abbaji
+Zuma,Firrerre,Outer Rim,-361.356,-655.173,http://starwars.wikia.com/wiki/Firrerre
+Zuma,Houche,Outer Rim,-345.631,-627.034,http://starwars.wikia.com/wiki/Houche
+Moddell,Annaj,Outer Rim,-329.842,-697.931,http://starwars.wikia.com/wiki/Annaj
+Moddell,Endor,Outer Rim,-343.219,-683.025,http://starwars.wikia.com/wiki/Endor
+Moddell,Ast Kikorie,Outer Rim,-347.7,-680.259,http://starwars.wikia.com/wiki/Ast_Kikorie
+Moddell,Sanyassa,Outer Rim,-346.21,-685.71,http://starwars.wikia.com/wiki/Sanyassa
+Moddell,Endor Gate,Outer Rim,-343.775,-683.326,http://starwars.wikia.com/wiki/Endor_Gate
+Moddell,Murk,Outer Rim,-340.262,-684.49,http://starwars.wikia.com/wiki/Murk
+Moddell,UR-3741,Outer Rim,-343.3,-678.625,http://starwars.wikia.com/wiki/UR-3741
+Moddell,Zorbia,Outer Rim,-340.433,-678.422,http://starwars.wikia.com/wiki/Zorbia
+Moddell,Din Pulsar,Outer Rim,-339.812,-682.986,http://starwars.wikia.com/wiki/Din_Pulsar
+Moddell,UR-1060,Outer Rim,-338.578,-675.058,http://starwars.wikia.com/wiki/UR-1060
+Moddell,UR-2650,Outer Rim,-335.562,-673.259,http://starwars.wikia.com/wiki/UR-2650
+Moddell,UR-9353,Outer Rim,-332.81,-673.497,http://starwars.wikia.com/wiki/UR-9353
+Moddell,UR-8827,Outer Rim,-334.424,-676.328,http://starwars.wikia.com/wiki/UR-8827
+Moddell,Vex,Outer Rim,-329.512,-677.475,http://starwars.wikia.com/wiki/Vex
+Moddell,Vasha,Outer Rim,-324.45,-676.037,http://starwars.wikia.com/wiki/Vasha
+Moddell,Trindello,Outer Rim,-335.097,-682.185,http://starwars.wikia.com/wiki/Trindello
+Moddell,Qina,Outer Rim,-329.444,-685.14,http://starwars.wikia.com/wiki/Qina
+Moddell,Maya Kovel,Outer Rim,-322.714,-681.705,http://starwars.wikia.com/wiki/Maya_Kovel
+Moddell,Kuna's Tail,Outer Rim,-342.801,-688.917,http://starwars.wikia.com/wiki/Kuna%27s_Tail
+Moddell,Kuna's Horn,Outer Rim,-338.003,-688.873,http://starwars.wikia.com/wiki/Kuna%27s_Horn
+Moddell,Kuna's Fist,Outer Rim,-338.929,-690.611,http://starwars.wikia.com/wiki/Kuna%27s_Fist
+Moddell,Kuna's Eye,Outer Rim,-337.227,-693.362,http://starwars.wikia.com/wiki/Kuna%27s_Eye
+Moddell,Kuna's Tooth,Outer Rim,-334.943,-691.396,http://starwars.wikia.com/wiki/Kuna%27s_Tooth
+Moddell,Thonner,Outer Rim,-325.171,-689.05,http://starwars.wikia.com/wiki/Thonner
+Moddell,Ovise,Outer Rim,-327.596,-694.288,http://starwars.wikia.com/wiki/Ovise
+Bakura,Timora,Outer Rim,-403.979,-686.623,http://starwars.wikia.com/wiki/Timora
+Pacanth Reach,Bunduki,Outer Rim,-375.012,-630.344,http://starwars.wikia.com/wiki/Bunduki
+Bri'ahl,Lanteeb,Outer Rim,-254.738,-749.55,http://starwars.wikia.com/wiki/Lanteeb
+Kallea,Imynusoph,Outer Rim,-105.409,-1.124.192,http://starwars.wikia.com/wiki/Imynusoph
+Kallea,Terminus,Outer Rim,-72.459,-1.093.647,http://starwars.wikia.com/wiki/Terminus
+Kallea,Delrakkin,Outer Rim,-51.277,-1.125.304,http://starwars.wikia.com/wiki/Delrakkin
+Saijo,Cantros,Outer Rim,-151.033,-1.066.464,http://starwars.wikia.com/wiki/Cantros
+Saijo,Faldos,Outer Rim,-94.107,-1.035.221,http://starwars.wikia.com/wiki/Faldos
+Saijo,Saijo,Outer Rim,-97.65,-1054.36,http://starwars.wikia.com/wiki/Saijo
+Seitia,Barkhesh,Outer Rim,-54.536,-974.433,http://starwars.wikia.com/wiki/Barkhesh
+Seitia,Manpha,Outer Rim,-79.675,-1.014.271,http://starwars.wikia.com/wiki/Manpha
+Rayter,Najarka,Outer Rim,-146.421,-945.234,http://starwars.wikia.com/wiki/Najarka
+Tunka,Absit,Outer Rim,-216.873,-935.612,http://starwars.wikia.com/wiki/Absit
+Tunka,Thakwaa,Outer Rim,-243.875,-918.853,http://starwars.wikia.com/wiki/Thakwaa
+Varada,Skye,Outer Rim,-322.397,-992.098,http://starwars.wikia.com/wiki/Skye
+Subterrel,Fwatna,Outer Rim,-27.534,-1.051.515,http://starwars.wikia.com/wiki/Fwatna
+Subterrel,Polis Massa,Outer Rim,-31.026,-1.073.163,http://starwars.wikia.com/wiki/Polis_Massa
+Subterrel,Subterrel,Outer Rim,13.201,-1.094.776,http://starwars.wikia.com/wiki/Subterrel
+Kriz,Quintas,Outer Rim,-115.074,-913.266,http://starwars.wikia.com/wiki/Black_Hole_of_Quintas
+Kriz,Sil'Lume,Outer Rim,-82.003,-967.915,http://starwars.wikia.com/wiki/Sil'Lume
+Kriz,Berrol's Donn,Outer Rim,-82.753,-921.214,http://starwars.wikia.com/wiki/Berrol%27s_Donn
+Elrood,Elrood,Outer Rim,156.609,-1.005.098,http://starwars.wikia.com/wiki/Elrood
+Tarabba,Tarabba,Outer Rim,162.137,-980.846,http://starwars.wikia.com/wiki/Tarabba
+Tarabba,Skustell Cluster,Outer Rim,223.415,-959.708,http://starwars.wikia.com/wiki/Skustell_Cluster
+Tarabba,Utapau,Outer Rim,205.724,-984.382,http://starwars.wikia.com/wiki/Utapau
+Rseik,Vestar,Outer Rim,260.54,-1.070.384,http://starwars.wikia.com/wiki/Vestar
+Rseik,Cotellier,Outer Rim,273.808,-1.039.891,http://starwars.wikia.com/wiki/Cotellier
+Rseik,Taroon,Outer Rim,292.197,-1.003.578,http://starwars.wikia.com/wiki/Taroon
+Rseik,Ma'ar Shaddam,Outer Rim,274.041,-1.019.174,http://starwars.wikia.com/wiki/Ma'ar_Shaddam
+Rseik,Corva Yag,Outer Rim,222.133,-1.035.468,http://starwars.wikia.com/wiki/Corva_Yag
+Airam,Swellen,Outer Rim,96.321,-1.013.478,http://starwars.wikia.com/wiki/Swellen
+Airam,Skor,Outer Rim,141.013,-1.041.178,http://starwars.wikia.com/wiki/Skor
+Kathol,Kal'Shebbol,Outer Rim,165.9,-1127.83,http://starwars.wikia.com/wiki/Kal'Shebbol
+Minos,Adarlon,Outer Rim,162.641,-1.055.903,http://starwars.wikia.com/wiki/Adarlon
+Minos,Karideph,Outer Rim,162.408,-1.069.869,http://starwars.wikia.com/wiki/Karideph
+Minos,Pergitor,Outer Rim,163.339,-1.083.603,http://starwars.wikia.com/wiki/Pergitor
+Subterrel,Besberra,Outer Rim,41.134,-1.044.032,http://starwars.wikia.com/wiki/Besberra
+Subterrel,Askaj,Outer Rim,122.371,-1.066.145,http://starwars.wikia.com/wiki/Askaj
+Sluis,Praesitlyn,Outer Rim,161.788,-913.284,http://starwars.wikia.com/wiki/Praesitlyn
+Sluis,Sluis Van,Outer Rim,160.741,-917.474,http://starwars.wikia.com/wiki/Sluis_Van
+Sluis,Denab,Outer Rim,158.82,-934.408,http://starwars.wikia.com/wiki/Denab
+Sluis,Dagobah,Outer Rim,164.058,-951.168,http://starwars.wikia.com/wiki/Dagobah
+Danjar,Queyta,Outer Rim,179.796,-927.765,http://starwars.wikia.com/wiki/Queyta
+Atravis,Shumavar,Outer Rim,89.803,-923.162,http://starwars.wikia.com/wiki/Shumavar
+Atravis,Atravis,Outer Rim,71.414,-945.741,http://starwars.wikia.com/wiki/Atravis
+Atravis,Tosste,Outer Rim,33.685,-989.33,http://starwars.wikia.com/wiki/Tosste
+Atravis,Mustafar,Outer Rim,17.856,-984.675,http://starwars.wikia.com/wiki/Mustafar
+Atravis,Dorlo,Outer Rim,23.702,-928.042,http://starwars.wikia.com/wiki/Dorlo
+Atravis,Rutan,Outer Rim,10.873,-1.015.866,http://starwars.wikia.com/wiki/Rutan
+Steniplis,Kelrodo-Ai,Outer Rim,62.346,-894.166,http://starwars.wikia.com/wiki/Kelrodo-Ai
+Wazta,Ryoone,Outer Rim,-235.185,-795.406,http://starwars.wikia.com/wiki/Ryoone
+Wazta,Vassek,Outer Rim,-207.718,-776.318,http://starwars.wikia.com/wiki/Vassek
+Wazta,Koda Station,Outer Rim,-279.179,-810.07,http://starwars.wikia.com/wiki/Koda_Station
+Brema,Cmaoli Di,Outer Rim,183.261,-772.399,http://starwars.wikia.com/wiki/Cmaoli_Di
+Brema,Sullust,Outer Rim,156.027,-781.302,http://starwars.wikia.com/wiki/Sullust
+Brema,Bortras,Outer Rim,144.33,-809.235,http://starwars.wikia.com/wiki/Bortras
+Bozhnee,Belsavis,Outer Rim,40.589,-816.717,http://starwars.wikia.com/wiki/Belsavis
+Bozhnee,Ossel,Outer Rim,43.861,-817.056,http://starwars.wikia.com/wiki/Ossel
+Bozhnee,Garnib,Outer Rim,49.311,-815.336,http://starwars.wikia.com/wiki/Garnib
+Videnda,Dolla,Outer Rim,25.051,-843.57,http://starwars.wikia.com/wiki/Dolla
+Videnda,Dorvalla,Outer Rim,139.442,-839.612,http://starwars.wikia.com/wiki/Dorvalla
+Javin,Lutrillia,Outer Rim,-109.35,-843.916,http://starwars.wikia.com/wiki/Lutrillia
+Javin,,Outer Rim,-105.135,-857.888,
+Javin,,Outer Rim,-112.734,-843.585,
+Javin,,Outer Rim,-115.132,-837.482,
+Javin,,Outer Rim,-115.529,-814.725,
+Javin,,Outer Rim,-118.333,-826.208,
+Javin,,Outer Rim,-104.693,-830.911,
+Javin,Shuldene,Outer Rim,-114.703,-830.999,http://starwars.wikia.com/wiki/Shuldene
+Javin,,Outer Rim,-103.976,-843.452,
+Javin,,Outer Rim,-100.016,-839.814,
+Javin,Gerrenthum,Outer Rim,-90.242,-840.709,http://starwars.wikia.com/wiki/Gerrenthum
+Javin,Bespin,Outer Rim,-95.33,-849.857,http://starwars.wikia.com/wiki/Bespin
+Javin,Hoth,Outer Rim,-94.755,-858.69,http://starwars.wikia.com/wiki/Hoth
+Javin,Isde Naha,Outer Rim,-82.437,-890.816,http://starwars.wikia.com/wiki/Isde_Naha
+Javin,Javin,Outer Rim,-82.324,-811.505,http://starwars.wikia.com/wiki/Javin
+Javin,Aztubek,Outer Rim,-84.763,-815.345,http://starwars.wikia.com/wiki/Aztubek
+Javin,Kumru,Outer Rim,-83.713,-820.434,http://starwars.wikia.com/wiki/Kumru
+Javin,,Outer Rim,-74.929,-813.78,
+Javin,High Chunah,Outer Rim,-84.569,-825.744,http://starwars.wikia.com/wiki/High_Chunah
+Javin,Kirtarkin,Outer Rim,-89.719,-830.982,http://starwars.wikia.com/wiki/Kirtarkin
+Javin,Mexeluine,Outer Rim,-89.704,-835.802,http://starwars.wikia.com/wiki/Mexeluine
+Javin,The Ring,Outer Rim,-84.924,-838.073,http://starwars.wikia.com/wiki/The_Ring
+Javin,Council,Outer Rim,-82.388,-840.776,http://starwars.wikia.com/wiki/Council_(planet)
+Javin,Nothoiin,Outer Rim,-75.222,-843.09,http://starwars.wikia.com/wiki/Nothoiin
+Javin,Saila Na,Outer Rim,-70.275,-842.261,http://starwars.wikia.com/wiki/Saila_Na
+Javin,Bavva,Outer Rim,-65.711,-841.278,http://starwars.wikia.com/wiki/Bavva
+Javin,Zephry,Outer Rim,-69.744,-853.374,http://starwars.wikia.com/wiki/Zephry
+Javin,Polmanar,Outer Rim,-66.913,-863.242,http://starwars.wikia.com/wiki/Polmanar
+Javin,Delphon,Outer Rim,-67.469,-868.296,http://starwars.wikia.com/wiki/Delphon
+Javin,,Outer Rim,-67.654,-871.048,
+Javin,Tinoon,Outer Rim,-66.066,-874.249,http://starwars.wikia.com/wiki/Tinoon
+Javin,,Outer Rim,-69.138,-876.668,
+Javin,Mev,Outer Rim,-66.915,-883.062,http://starwars.wikia.com/wiki/Mev
+Javin,Togominda,Outer Rim,-82.898,-897.783,http://starwars.wikia.com/wiki/Togominda
+Javin,,Outer Rim,-97.538,-894.747,
+Javin,,Outer Rim,-99.763,-882.838,
+Javin,,Outer Rim,-99.507,-871.406,
+Javin,Mijos,Outer Rim,-96.64,-834.897,http://starwars.wikia.com/wiki/Mijos
+Javin,Indellian,Outer Rim,-90.985,-845.786,http://starwars.wikia.com/wiki/Indellian
+Javin,Varonat,Outer Rim,-94.094,-847.937,http://starwars.wikia.com/wiki/Varonat
+Javin,Anoat,Outer Rim,-95.223,-854.071,http://starwars.wikia.com/wiki/Anoat
+Javin,Bendeluum,Outer Rim,-89.517,-849.679,http://starwars.wikia.com/wiki/Bendeluum
+Javin,Ison,Outer Rim,-91.156,-861.241,http://starwars.wikia.com/wiki/Ison
+Javin,Zhanox,Outer Rim,-89.163,-853.907,http://starwars.wikia.com/wiki/Zhanox
+Javin,Ione,Outer Rim,-87.474,-858.066,http://starwars.wikia.com/wiki/Ione
+Javin,Mataou,Outer Rim,-88.722,-861.646,http://starwars.wikia.com/wiki/Mataou
+Javin,Allyuen,Outer Rim,-77.724,-857.391,http://starwars.wikia.com/wiki/Allyuen
+Javin,Burnin Konn,Outer Rim,-81.706,-858.899,http://starwars.wikia.com/wiki/Burnin_Konn
+Javin,Isis,Outer Rim,-82.09,-863.11,http://starwars.wikia.com/wiki/Isis
+Javin,Tokmia,Outer Rim,-78.386,-861.982,http://starwars.wikia.com/wiki/Tokmia
+Javin,Anantapar,Outer Rim,-87.608,-864.511,http://starwars.wikia.com/wiki/Anantapar
+Javin,Shuxl,Outer Rim,-87.449,-867.607,http://starwars.wikia.com/wiki/Shuxl
+Javin,Ertegas,Outer Rim,-87.96,-870.579,http://starwars.wikia.com/wiki/Ertegas
+Javin,Darlyn Boda,Outer Rim,-88.348,-873.507,http://starwars.wikia.com/wiki/Darlyn_Boda
+Javin,Orn Kios,Outer Rim,-87.299,-880.642,http://starwars.wikia.com/wiki/Orn_Kios
+Javin,Ozu,Outer Rim,-88.775,-886.01,http://starwars.wikia.com/wiki/Ozu
+Javin,Bettel,Outer Rim,-74.434,-888.603,http://starwars.wikia.com/wiki/Bettel
+Seswenna,Eriadu,Outer Rim,155.503,-829.311,http://starwars.wikia.com/wiki/Eriadu
+Seswenna,Averam,Outer Rim,145.378,-846.42,http://starwars.wikia.com/wiki/Averam
+Grumani,Darkknell,Outer Rim,188.673,-754.591,http://starwars.wikia.com/wiki/Darkknell
+Grumani,Verdanth,Outer Rim,271.015,-735.89,http://starwars.wikia.com/wiki/Verdanth
+Grumani,Sanrafsix,Outer Rim,223.064,-742.873,http://starwars.wikia.com/wiki/Sanrafsix
+Garis,Syned,Outer Rim,218.409,-768.478,http://starwars.wikia.com/wiki/Syned
+Garis,Omwat,Outer Rim,227.72,-803.394,http://starwars.wikia.com/wiki/Omwat
+Mayagil,Bith,Outer Rim,156.9,-876.797,http://starwars.wikia.com/wiki/Bith_(planet)
+Mayagil,Triton,Outer Rim,160.217,-885.526,http://starwars.wikia.com/wiki/Triton
+Mayagil,Xagobah,Outer Rim,189.24,-871.103,http://starwars.wikia.com/wiki/Xagobah
+Mayagil,Kabal,Outer Rim,233.772,-851.811,http://starwars.wikia.com/wiki/Kabal
+Tamarin,Dravian Station,Outer Rim,251.462,-890.684,http://starwars.wikia.com/wiki/Dravian_Station
+Tamarin,Kirdo,Outer Rim,265.894,-940.264,http://starwars.wikia.com/wiki/Kirdo
+Tamarin,Sevarcos,Outer Rim,229.349,-917.685,http://starwars.wikia.com/wiki/Sevarcos
+Toblain,Shadda-Bi Boran,Outer Rim,323.622,-805.954,http://starwars.wikia.com/wiki/Shadda-Bi_Boran
+Sanbra,Rugosa,Outer Rim,372.557,-757.029,http://starwars.wikia.com/wiki/Rugosa
+Sanbra,Sanbra,Outer Rim,324.373,-757.901,http://starwars.wikia.com/wiki/Sanbra
+Bon'nyuw-Luq,Arbra,Outer Rim,279.861,-768.013,http://starwars.wikia.com/wiki/Arbra
+Bon'nyuw-Luq,Sharlissia,Outer Rim,285.447,-817.593,http://starwars.wikia.com/wiki/Sharlissia
+Svivreni,Svivren,Outer Rim,360.88,-945.283,http://starwars.wikia.com/wiki/Svivren
+Parmic,Spice Terminus,Outer Rim,437.229,-889.728,http://starwars.wikia.com/wiki/Spice_Terminus
+Quence,Elshandruu Pica,Outer Rim,388.095,-876.266,http://starwars.wikia.com/wiki/Elshandruu_Pica
+Quence,Suarbi,Outer Rim,386.64,-915.178,http://starwars.wikia.com/wiki/Suarbi
+Parmel,Vohai,Outer Rim,376.573,-850.952,http://starwars.wikia.com/wiki/Vohai
+Skine,Skynara,Outer Rim,485.122,-930.793,http://starwars.wikia.com/wiki/Skynara
+Sujimis,Meryx Minor,Outer Rim,365.885,-957.678,http://starwars.wikia.com/wiki/Meryx_Minor
+Sujimis,Pantora,Outer Rim,427.86,-936.031,http://starwars.wikia.com/wiki/Pantora
+Sujimis,Alzoc,Outer Rim,443.747,-943.363,http://starwars.wikia.com/wiki/Alzoc
+Sujimis,Karazak,Outer Rim,470.458,-968.502,http://starwars.wikia.com/wiki/Karazak
+Dail,Drexel,Outer Rim,528.98,-854.968,http://starwars.wikia.com/wiki/Drexel
+Merel,Nedij,Outer Rim,532.419,-951.204,http://starwars.wikia.com/wiki/Nedij
+Cor'ric,Reuss,Outer Rim,465.259,-846.588,http://starwars.wikia.com/wiki/Reuss
+Cor'ric,Andalasa,Outer Rim,469.623,-830.701,http://starwars.wikia.com/wiki/Andalasa
+Cadavine,Zhar,Outer Rim,493.89,-718.796,http://starwars.wikia.com/wiki/Zhar
+Cadavine,Daan/Melida,Outer Rim,461.503,-766.976,http://starwars.wikia.com/wiki/Daan
+Cadavine,Trigalis,Outer Rim,409.592,-743.928,http://starwars.wikia.com/wiki/Trigalis
+Bajic,Vergesso,Outer Rim,436.803,-800.848,http://starwars.wikia.com/wiki/Vergesso
+Bajic,Bajic,Outer Rim,429.994,-811.497,http://starwars.wikia.com/wiki/Bajic
+Juris,Stend,Outer Rim,408.172,-752.315,http://starwars.wikia.com/wiki/Stend
+Astal,Bahalian,Outer Rim,475.385,-812.545,http://starwars.wikia.com/wiki/Bahalian
+Kiblini,Socorro,Outer Rim,515.189,-768.9,http://starwars.wikia.com/wiki/Socorro
+Karthakk,Llanic,Outer Rim,527.425,-695.681,http://starwars.wikia.com/wiki/Llanic
+Karthakk,Lok,Outer Rim,551.168,-721.286,http://starwars.wikia.com/wiki/Lok
+Savareen,Christophsis,Outer Rim,576.833,-676.034,http://starwars.wikia.com/wiki/Christophsis
+Savareen,Tythe,Outer Rim,579.566,-699.871,http://starwars.wikia.com/wiki/Tythe
+Savareen,Nelvaan,Outer Rim,585.282,-699.026,http://starwars.wikia.com/wiki/Nelvaan
+Savareen,Rodia,Outer Rim,597.336,-664.554,http://starwars.wikia.com/wiki/Rodia
+Savareen,Orvax,Outer Rim,602.145,-744.796,http://starwars.wikia.com/wiki/Orvax
+Dalchon,Shimia,Outer Rim,643.346,-756.9,http://starwars.wikia.com/wiki/Shimia
+Dalchon,Dalchon,Outer Rim,645.441,-742.701,http://starwars.wikia.com/wiki/Dalchon
+Arkanis,Tatooine,Outer Rim,644.386,-673.274,http://starwars.wikia.com/wiki/Tatooine
+Arkanis,Geonosis,Outer Rim,644.96,-673.297,http://starwars.wikia.com/wiki/Geonosis
+Arkanis,Austan,Outer Rim,621.861,-658.048,http://starwars.wikia.com/wiki/Austan
+Arkanis,Pii,Outer Rim,620.026,-649.81,http://starwars.wikia.com/wiki/Pii_(planet)
+Arkanis,Utaruun,Outer Rim,629.366,-666.814,http://starwars.wikia.com/wiki/Utaruun
+Arkanis,Vuzsa,Outer Rim,642.419,-657.457,http://starwars.wikia.com/wiki/Vuzsa
+Arkanis,Piroket,Outer Rim,660.907,-642.275,http://starwars.wikia.com/wiki/Piroket
+Arkanis,A-Foroon,Outer Rim,660.017,-648.846,http://starwars.wikia.com/wiki/A-Foroon
+Arkanis,B-Foroon,Outer Rim,659.514,-651.218,http://starwars.wikia.com/wiki/B-Foroon
+Arkanis,C-Foroon,Outer Rim,658.905,-653.485,http://starwars.wikia.com/wiki/C-Foroon
+Arkanis,New Ator,Outer Rim,624.429,-692.396,http://starwars.wikia.com/wiki/New_Ator
+Arkanis,Kemal Station,Outer Rim,629.235,-684.194,http://starwars.wikia.com/wiki/Kemal_Station
+Arkanis,Obana,Outer Rim,648.241,-687.722,http://starwars.wikia.com/wiki/Obana
+Arkanis,Andooweel,Outer Rim,637.195,-678.594,http://starwars.wikia.com/wiki/Andooweel
+Arkanis,Ooo-temiuk,Outer Rim,651.848,-667.27,http://starwars.wikia.com/wiki/Ooo-temiuk
+Arkanis,Melnea's World,Outer Rim,671.887,-682.384,http://starwars.wikia.com/wiki/Melnea%27s_World
+Arkanis,Cranan,Outer Rim,663.001,-684.103,http://starwars.wikia.com/wiki/Cranan
+Arkanis,Gedi,Outer Rim,657.031,-692.182,http://starwars.wikia.com/wiki/Gedi
+Arkanis,Vactooine,Outer Rim,666.265,-698.497,http://starwars.wikia.com/wiki/Vactooine
+Arkanis,Arkanis,Outer Rim,614.052,-708.852,http://starwars.wikia.com/wiki/Arkanis
+Arkanis,Gorno,Outer Rim,627.069,-720.659,http://starwars.wikia.com/wiki/Gorno
+Arkanis,Issor,Outer Rim,622.577,-701.044,http://starwars.wikia.com/wiki/Issor
+Arkanis,Huldamun,Outer Rim,625.099,-708.077,http://starwars.wikia.com/wiki/Huldamun
+Arkanis,Najiba,Outer Rim,628.512,-704.77,http://starwars.wikia.com/wiki/Najiba
+Arkanis,Tarnoonga,Outer Rim,671.477,-704.26,http://starwars.wikia.com/wiki/Tarnoonga
+Arkanis,Cirus,Outer Rim,673.958,-712.9,http://starwars.wikia.com/wiki/Cirus
+Arkanis,Khubeaie,Outer Rim,656.738,-715.451,http://starwars.wikia.com/wiki/Khubeaie
+Arkanis,Heffrin,Outer Rim,645.987,-718.626,http://starwars.wikia.com/wiki/Heffrin
+Arkanis,Vor Deo,Outer Rim,650.094,-702.312,http://starwars.wikia.com/wiki/Vor_Deo
+Arkanis,Sirpar,Outer Rim,622.786,-716.713,http://starwars.wikia.com/wiki/Sirpar
+Arkanis,Vasch,Outer Rim,633.241,-715.906,http://starwars.wikia.com/wiki/Vasch
+Arkanis,Mika,Outer Rim,641.285,-715.267,http://starwars.wikia.com/wiki/Mika_(asteroid)
+Hunnovers,Siskeen,Outer Rim,695.591,-702.744,http://starwars.wikia.com/wiki/Siskeen
+Gaulus,Ryloth,Outer Rim,671.278,-762.021,http://starwars.wikia.com/wiki/Ryloth
+Gaulus,Wrea,Outer Rim,710.151,-793.213,http://starwars.wikia.com/wiki/Wrea
+Gaulus,Gaulus,Outer Rim,737.851,-775.522,http://starwars.wikia.com/wiki/Gaulus
+Gaulus,Smuggler's Run,Outer Rim,729.418,-801.85,http://starwars.wikia.com/wiki/Smuggler%27s_Run
+Ferra,Hypori,Outer Rim,724.532,-645.211,http://starwars.wikia.com/wiki/Hypori
+Svetta,Kowak,Outer Rim,791.881,-602.07,http://starwars.wikia.com/wiki/Kowak
+Svetta,Excarga,Outer Rim,826.642,-660.108,http://starwars.wikia.com/wiki/Excarga
+Herios,Pzob,Outer Rim,872.575,-585.621,http://starwars.wikia.com/wiki/Pzob
+Herios,Illarreen,Outer Rim,884.68,-613.243,http://starwars.wikia.com/wiki/Illarreen
+Instrop,Rannon,Outer Rim,817.032,-713.029,http://starwars.wikia.com/wiki/Rannon
+Instrop,Shinbone,Outer Rim,836.236,-735.898,http://starwars.wikia.com/wiki/Shinbone
+Corporate Sector,Lo'Uran,Outer Rim,686.449,622.162,http://starwars.wikia.com/wiki/Lo'Uran
+Corporate Sector,Ninn,Outer Rim,698.63,619.119,http://starwars.wikia.com/wiki/Ninn
+Corporate Sector,Reltooine,Outer Rim,680.837,612.395,http://starwars.wikia.com/wiki/Reltooine
+Corporate Sector,Mall'ordian,Outer Rim,693.696,610.988,http://starwars.wikia.com/wiki/Mall'ordian
+Corporate Sector,Knolstee,Outer Rim,680.383,605.143,http://starwars.wikia.com/wiki/Knolstee
+Corporate Sector,Kail,Outer Rim,681.203,600.513,http://starwars.wikia.com/wiki/Kail
+Corporate Sector,Davirien,Outer Rim,684.396,600.698,http://starwars.wikia.com/wiki/Davirien
+Corporate Sector,Drog,Outer Rim,693.288,599.428,http://starwars.wikia.com/wiki/Drog
+Corporate Sector,Craci,Outer Rim,695.193,587.981,http://starwars.wikia.com/wiki/Craci
+Corporate Sector,Bonadan,Outer Rim,739.782,601.747,http://starwars.wikia.com/wiki/Bonadan
+Corporate Sector,Lythos,Outer Rim,713.223,607.801,http://starwars.wikia.com/wiki/Lythos
+Corporate Sector,D'ian,Outer Rim,732.969,603.85,http://starwars.wikia.com/wiki/D'ian
+Hapes Cluster,,Inner Rim,336.545,49.619,
+Corporate Sector,Atchorb,Outer Rim,734.09,611.382,http://starwars.wikia.com/wiki/Atchorb
+Corporate Sector,Tothis,Outer Rim,741.63,606.937,http://starwars.wikia.com/wiki/Tothis
+Corporate Sector,R'alla,Outer Rim,746.34,601.672,http://starwars.wikia.com/wiki/R'alla
+Corporate Sector,Kir,Outer Rim,748.606,603.083,http://starwars.wikia.com/wiki/Kir
+Corporate Sector,Deltooine,Outer Rim,752.928,602.113,http://starwars.wikia.com/wiki/Deltooine
+Corporate Sector,Fether,Outer Rim,756.112,602.721,http://starwars.wikia.com/wiki/Fether
+Corporate Sector,Ocsin,Outer Rim,757.726,603.189,http://starwars.wikia.com/wiki/Ocsin
+Corporate Sector,Kamar,Outer Rim,759.622,603.735,http://starwars.wikia.com/wiki/Kamar
+Corporate Sector,Brosi,Outer Rim,746.691,619.87,http://starwars.wikia.com/wiki/Brosi
+Corporate Sector,Abo Dreth,Outer Rim,739.794,622.145,http://starwars.wikia.com/wiki/Abo_Dreth
+Corporate Sector,Ulicia,Outer Rim,736.884,623.186,http://starwars.wikia.com/wiki/Ulicia
+Corporate Sector,Perin,Outer Rim,721.847,631.909,http://starwars.wikia.com/wiki/Perin
+Corporate Sector,Fibuli,Outer Rim,711.193,631.953,http://starwars.wikia.com/wiki/Fibuli
+Corporate Sector,Hiit,Outer Rim,712.531,625.55,http://starwars.wikia.com/wiki/Hiit
+Corporate Sector,Etti,Outer Rim,730.248,598.133,http://starwars.wikia.com/wiki/Etti
+Corporate Sector,Jerrist,Outer Rim,713.374,584.934,http://starwars.wikia.com/wiki/Jerrist
+Corporate Sector,Saclas,Outer Rim,718.666,579.576,http://starwars.wikia.com/wiki/Saclas
+Corporate Sector,Duroon,Outer Rim,721.521,581.122,http://starwars.wikia.com/wiki/Duroon
+Corporate Sector,Ammuud,Outer Rim,731.778,577.193,http://starwars.wikia.com/wiki/Ammuud
+Corporate Sector,Biewa,Outer Rim,728.537,586.387,http://starwars.wikia.com/wiki/Biewa
+Corporate Sector,Urdur,Outer Rim,735.28,580.13,http://starwars.wikia.com/wiki/Urdur
+Corporate Sector,Oslumpex,Outer Rim,739.01,581.047,http://starwars.wikia.com/wiki/Oslumpex
+Corporate Sector,Matra,Outer Rim,745.034,579.08,http://starwars.wikia.com/wiki/Matra
+Corporate Sector,Orron,Outer Rim,747.51,576.267,http://starwars.wikia.com/wiki/Orron
+Corporate Sector,Joodrudda,Outer Rim,756.471,582.758,http://starwars.wikia.com/wiki/Joodrudda
+Corporate Sector,Gaurick,Outer Rim,754.548,584.716,http://starwars.wikia.com/wiki/Gaurick
+Corporate Sector,Ban-Satir,Outer Rim,751.426,589.526,http://starwars.wikia.com/wiki/Ban-Satir
+Corporate Sector,Pondut Station,Outer Rim,736.222,587.798,http://starwars.wikia.com/wiki/Pondut_Station
+Corporate Sector,Kalla,Outer Rim,734.034,589.526,http://starwars.wikia.com/wiki/Kalla
+Corporate Sector,Issagra,Outer Rim,747.616,595.418,http://starwars.wikia.com/wiki/Issagra
+Corporate Sector,Saffalore,Outer Rim,736.574,594.465,http://starwars.wikia.com/wiki/Saffalore
+Corporate Sector,Erysthes,Outer Rim,744.609,599.051,http://starwars.wikia.com/wiki/Erysthes
+Corporate Sector,Rampa,Outer Rim,747.555,599.236,http://starwars.wikia.com/wiki/Rampa
+Corporate Sector,Media,Outer Rim,722.498,590.867,http://starwars.wikia.com/wiki/Media
+Corporate Sector,Ession,Outer Rim,730.013,593.089,http://starwars.wikia.com/wiki/Ession
+Corporate Sector,Maryo,Outer Rim,713.655,596.803,http://starwars.wikia.com/wiki/Maryo
+Corporate Sector,Tirsa,Outer Rim,715.666,594.396,http://starwars.wikia.com/wiki/Tirsa
+Aparo,Cadomai,Outer Rim,668.17,612.862,http://starwars.wikia.com/wiki/Cadomai
+Aparo,Lur,Outer Rim,671.775,595.847,http://starwars.wikia.com/wiki/Lur
+Gordian Reach,Kushibah,Outer Rim,486.027,462.297,http://starwars.wikia.com/wiki/Kushibah
+Gordian Reach,Feswe Prime,Outer Rim,411.585,417.05,http://starwars.wikia.com/wiki/Feswe_Prime
+Gordian Reach,Feswe Minor,Outer Rim,406.91,406.819,http://starwars.wikia.com/wiki/Feswe_Minor
+Gordian Reach,Krylon,Outer Rim,441.394,401.616,http://starwars.wikia.com/wiki/Krylon
+Gordian Reach,Ladarra,Outer Rim,453.565,414.227,http://starwars.wikia.com/wiki/Ladarra
+Gordian Reach,Marrovia,Outer Rim,463.531,424.017,http://starwars.wikia.com/wiki/Marrovia
+Gordian Reach,Kli'aar,Outer Rim,475.967,430.896,http://starwars.wikia.com/wiki/Kli%27aar
+Gordian Reach,Mogoshyn,Outer Rim,483.704,452.774,http://starwars.wikia.com/wiki/Mogoshyn
+Gordian Reach,Betshish,Outer Rim,485.204,440.78,http://starwars.wikia.com/wiki/Betshish
+Gordian Reach,Vaal,Outer Rim,487.408,400.034,http://starwars.wikia.com/wiki/Vaal
+Gordian Reach,Glade,Outer Rim,491.554,413.44,http://starwars.wikia.com/wiki/Glade
+Gordian Reach,Feswe Corridor,Outer Rim,428.43,412.023,http://starwars.wikia.com/wiki/Feswe_Corridor
+Gordian Reach,Torque,Outer Rim,461.36,381.023,http://starwars.wikia.com/wiki/Torque
+Gordian Reach,Yavin,Outer Rim,458.395,398.671,http://starwars.wikia.com/wiki/Yavin
+Gordian Reach,Tertiary Feswe,Outer Rim,404.845,393.836,http://starwars.wikia.com/wiki/Tertiary_Feswe
+Gordian Reach,Selitan,Outer Rim,417.051,388.051,http://starwars.wikia.com/wiki/Selitan
+Gordian Reach,Denarii Station,Outer Rim,422.625,377.82,http://starwars.wikia.com/wiki/Denarii_Station
+Gordian Reach,,Outer Rim,432.379,382.577,
+Gordian Reach,Presbalin,Outer Rim,417.386,367.407,http://starwars.wikia.com/wiki/Presbalin
+Gordian Reach,Far Indosa,Outer Rim,432.069,357.3,http://starwars.wikia.com/wiki/Far_Indosa
+Gordian Reach,Near Indosa,Outer Rim,442.441,368.307,http://starwars.wikia.com/wiki/Near_Indosa
+Gordian Reach,Trinovat,Outer Rim,455.458,366.19,http://starwars.wikia.com/wiki/Trinovat
+Gordian Reach,Durgen's Star,Outer Rim,471.757,358.676,http://starwars.wikia.com/wiki/Durgen%27s_Star
+Gordian Reach,Jovan,Outer Rim,481.282,379.208,http://starwars.wikia.com/wiki/Jovan
+Gordian Reach,Xochtl,Outer Rim,487.314,362.592,http://starwars.wikia.com/wiki/Xochtl
+Gordian Reach,Povanaria,Outer Rim,492.606,354.548,http://starwars.wikia.com/wiki/Povanaria
+Gordian Reach,Bronsoon,Outer Rim,497.262,365.026,http://starwars.wikia.com/wiki/Bronsoon
+Gordian Reach,Feena,Outer Rim,549.753,407.225,http://starwars.wikia.com/wiki/Feena
+Gordian Reach,Troos,Outer Rim,535.889,460.213,http://starwars.wikia.com/wiki/Troos
+Gordian Reach,Mannova,Outer Rim,502.313,448.982,http://starwars.wikia.com/wiki/Mannova
+Gordian Reach,Wetyin's Colony,Outer Rim,513.867,429.932,http://starwars.wikia.com/wiki/Wetyin%27s_Colony
+Gordian Reach,Atorra,Outer Rim,539.924,450.722,http://starwars.wikia.com/wiki/Atorra
+Gordian Reach,Elamposnia,Outer Rim,546.909,451.074,http://starwars.wikia.com/wiki/Elamposnia
+Gordian Reach,Chenowei,Outer Rim,544.157,439.433,http://starwars.wikia.com/wiki/Chenowei
+Gordian Reach,B'trilla,Outer Rim,547.332,426.168,http://starwars.wikia.com/wiki/B%27trilla
+Gordian Reach,Arda,Outer Rim,556.434,382.187,http://starwars.wikia.com/wiki/Arda
+Hapes Cluster,,Inner Rim,336.142,53.439,
+Gordian Reach,Vallusk Cluster,Outer Rim,501.355,383.106,http://starwars.wikia.com/wiki/Vallusk_Cluster
+Gordian Reach,Gulvitch,Outer Rim,505.235,369.083,http://starwars.wikia.com/wiki/Gulvitch
+Gordian Reach,Arkuda,Outer Rim,508.498,372.611,http://starwars.wikia.com/wiki/Arkuda
+Gordian Reach,Korphir,Outer Rim,522.61,367.495,http://starwars.wikia.com/wiki/Korphir
+Gordian Reach,Tenara,Outer Rim,526.667,361.939,http://starwars.wikia.com/wiki/Tenara
+Gordian Reach,The Cometwash,Outer Rim,527.725,377.638,http://starwars.wikia.com/wiki/The_Cometwash
+Gordian Reach,Usta,Outer Rim,531.517,392.19,http://starwars.wikia.com/wiki/Usta
+Gordian Reach,Barison,Outer Rim,538.749,398.804,http://starwars.wikia.com/wiki/Barison
+Gordian Reach,Little Capella,Outer Rim,559.828,361.939,http://starwars.wikia.com/wiki/Little_Capella
+Gordian Reach,Capella,Outer Rim,555.33,371.993,http://starwars.wikia.com/wiki/Capella
+Gordian Reach,Kalishik,Outer Rim,550.038,392.543,http://starwars.wikia.com/wiki/Kalishik
+Gordian Reach,Feldwes,Outer Rim,577.643,383.018,http://starwars.wikia.com/wiki/Feldwes
+Gordian Reach,Pygorix,Outer Rim,585.933,385.222,http://starwars.wikia.com/wiki/Pygorix
+Gordian Reach,Karsten's World,Outer Rim,588.756,378.52,http://starwars.wikia.com/wiki/Karsten%27s_World
+Gordian Reach,Spintir,Outer Rim,595.282,388.486,http://starwars.wikia.com/wiki/Spintir
+Kalamith,Sorrus,Outer Rim,391.597,418.772,http://starwars.wikia.com/wiki/Sorrus
+Kalamith,Hynah,Outer Rim,396.768,425.869,http://starwars.wikia.com/wiki/Hynah
+Kalamith,Simpla,Outer Rim,401.885,432.502,http://starwars.wikia.com/wiki/Simpla
+Kalamith,Toprawa,Outer Rim,409.209,443.249,http://starwars.wikia.com/wiki/Toprawa
+Kalamith,Pho Ph'eah,Outer Rim,430.753,475.322,http://starwars.wikia.com/wiki/Pho_Ph%27eah
+Kalamith,Tandun,Outer Rim,432.857,453.068,http://starwars.wikia.com/wiki/Tandun
+Thesme,Thesme,Outer Rim,366.06,407.23,http://starwars.wikia.com/wiki/Thesme
+Thesme,Junction,Outer Rim,383.513,406.384,http://starwars.wikia.com/wiki/Junction
+Thesme,Hijado,Outer Rim,357.642,369.746,http://starwars.wikia.com/wiki/Hijado
+D'Astan,Axxila,Outer Rim,313.01,415.331,http://starwars.wikia.com/wiki/Axxila
+D'Astan,Nez Peron,Outer Rim,345.385,414.248,http://starwars.wikia.com/wiki/Nez_Peron
+D'Astan,Ord Cestus,Outer Rim,329.052,390.712,http://starwars.wikia.com/wiki/Ord_Cestus
+D'Astan,Celanon,Outer Rim,369.078,388.965,http://starwars.wikia.com/wiki/Celanon
+D'Astan,Serenno,Outer Rim,408.588,463.003,http://starwars.wikia.com/wiki/Serenno
+Rolion,Maridun,Outer Rim,512.719,355.977,http://starwars.wikia.com/wiki/Maridun
+Rolion,Indu San,Outer Rim,541.139,278.517,http://starwars.wikia.com/wiki/Indu_San
+Corva,Soullex,Outer Rim,405.998,649.432,http://starwars.wikia.com/wiki/Soullex
+Corva,Eol Sha,Outer Rim,411.08,607.359,http://starwars.wikia.com/wiki/Eol_Sha
+Corva,Ventooine,Outer Rim,475.192,621.642,http://starwars.wikia.com/wiki/Ventooine
+Corva,Betha,Outer Rim,424.894,576.939,http://starwars.wikia.com/wiki/Betha
+Bosph,Bosph,Outer Rim,519.488,649.79,http://starwars.wikia.com/wiki/Bosph
+Dalonbian,Belkadan,Outer Rim,62.096,809.383,http://starwars.wikia.com/wiki/Belkadan
+Dalonbian,Helska,Outer Rim,50.236,731.167,http://starwars.wikia.com/wiki/Helska
+Dalonbian,Sernpidal,Outer Rim,70.355,693.099,http://starwars.wikia.com/wiki/Sernpidal
+Dalonbian,Seline,Outer Rim,115.042,674.833,http://starwars.wikia.com/wiki/Seline
+Dalonbian,Birgis,Outer Rim,182.538,649.997,http://starwars.wikia.com/wiki/Birgis
+Spinward,Xo,Outer Rim,206.668,725.52,http://starwars.wikia.com/wiki/Xo
+Velcar,Bextar,Outer Rim,-113.612,514.828,http://starwars.wikia.com/wiki/Bextar
+Velcar,Ryloon,Outer Rim,-132.095,492.244,http://starwars.wikia.com/wiki/Ryloon
+Velcar,Endex,Outer Rim,-111.633,498.418,http://starwars.wikia.com/wiki/Endex
+Velcar,Churruma,Outer Rim,-122.12,489.113,http://starwars.wikia.com/wiki/Churruma
+Velcar,Entralla,Outer Rim,-92.007,520.908,http://starwars.wikia.com/wiki/Entralla
+Velcar,Capza,Outer Rim,-93.289,514.028,http://starwars.wikia.com/wiki/Capza
+Dynali,Taspir III,Outer Rim,-137.177,598.904,http://starwars.wikia.com/wiki/Taspir_III
+Dynali,Ord Thoden,Outer Rim,-142.881,585.91,http://starwars.wikia.com/wiki/Ord_Thoden
+Carrion,Vexta,Outer Rim,-141.778,576.429,http://starwars.wikia.com/wiki/Vexta
+Carrion,Delephr,Outer Rim,-132.521,567.039,http://starwars.wikia.com/wiki/Delephr
+Carrion,Gelda,Outer Rim,-123.066,555.468,http://starwars.wikia.com/wiki/Gelda
+Perinn,Valc,Outer Rim,-159.141,516.92,http://starwars.wikia.com/wiki/Valc
+Perinn,Brodo Asogi,Outer Rim,-174.149,526.54,http://starwars.wikia.com/wiki/Brodo_Asogi
+Perinn,Cantras Gola,Outer Rim,-153.829,505.938,http://starwars.wikia.com/wiki/Cantras_Gola
+Clacis,Dactruria,Outer Rim,-125.465,534.583,http://starwars.wikia.com/wiki/Dactruria
+Clacis,Bisellia,Outer Rim,-86.801,543.897,http://starwars.wikia.com/wiki/Bisellia
+Clacis,Endoraan,Outer Rim,-89.341,535.853,http://starwars.wikia.com/wiki/Endoraan
+Clacis,Cezith,Outer Rim,-75.604,530.713,http://starwars.wikia.com/wiki/Cezith
+Clacis,Ord Sedra,Outer Rim,-79.978,538.051,http://starwars.wikia.com/wiki/Ord_Sedra
+Clacis,Venestria,Outer Rim,-55.989,542.708,http://starwars.wikia.com/wiki/Venestria
+Clacis,Kwevron,Outer Rim,-34.54,537.063,http://starwars.wikia.com/wiki/Kwevron
+Clacis,Fodro,Outer Rim,-17.325,524.646,http://starwars.wikia.com/wiki/Fodro
+Clacis,Gwori,Outer Rim,-4.625,520.977,http://starwars.wikia.com/wiki/Gwori
+Obtrexta,Dolis,Outer Rim,-112.895,615.675,http://starwars.wikia.com/wiki/Dolis
+Obtrexta,Bescane,Outer Rim,-88.161,608.76,http://starwars.wikia.com/wiki/Bescane
+Obtrexta,Varvrona,Outer Rim,-98.783,600.021,http://starwars.wikia.com/wiki/Varvrona
+Obtrexta,Muunilinst,Outer Rim,-80.501,550.31,http://starwars.wikia.com/wiki/Muunilinst
+Obtrexta,Jaemus,Outer Rim,-86.043,587.795,http://starwars.wikia.com/wiki/Jaemus
+Hapes Cluster,,Inner Rim,356.469,59.198,
+Braxant,Rimcee Station,Outer Rim,-116.863,641.031,http://starwars.wikia.com/wiki/Rimcee_Station
+Braxant,Bastion,Outer Rim,-89.29,646.65,http://starwars.wikia.com/wiki/Bastion
+Braxant,Anorelga,Outer Rim,-83.129,672.12,http://starwars.wikia.com/wiki/Anorelga
+Braxant,Bnar,Outer Rim,-57.552,630.668,http://starwars.wikia.com/wiki/Bnar
+Myto,Dubrillion,Outer Rim,-33.24,624.432,http://starwars.wikia.com/wiki/Dubrillion
+Myto,Criton's Point,Outer Rim,-42.118,649.41,http://starwars.wikia.com/wiki/Criton's_Point
+Myto,Ahakista,Outer Rim,-30.549,615.041,http://starwars.wikia.com/wiki/Ahakista
+Myto,Gabredor,Outer Rim,-44.585,569.21,http://starwars.wikia.com/wiki/Gabredor
+Myto,Angor,Outer Rim,-19.009,562.508,http://starwars.wikia.com/wiki/Angor
+Dantus,Cirrus,Outer Rim,-124.55,349.122,http://starwars.wikia.com/wiki/Cirrus
+Dantus,Troska,Outer Rim,-147.704,372.277,http://starwars.wikia.com/wiki/Troska
+Prefsbelt,Comra,Outer Rim,-129.709,408.604,http://starwars.wikia.com/wiki/Comra
+Prefsbelt,Borosk,Outer Rim,-94.266,456.458,http://starwars.wikia.com/wiki/Borosk
+Prefsbelt,Yaga Minor,Outer Rim,-96.066,479.613,http://starwars.wikia.com/wiki/Yaga_Minor
+Prefsbelt,Ompersan,Outer Rim,-96.72,475.037,http://starwars.wikia.com/wiki/Ompersan
+Prefsbelt,Prefsbelt,Outer Rim,-94.709,465.089,http://starwars.wikia.com/wiki/Prefsbelt
+Fath,Wistril,Outer Rim,-48.311,382.442,http://starwars.wikia.com/wiki/Wistril
+Fath,JanFathal,Outer Rim,-54.24,389.219,http://starwars.wikia.com/wiki/JanFathal
+Fath,Ord Cantrell,Outer Rim,-15.211,374.818,http://starwars.wikia.com/wiki/Ord_Cantrell
+Veragi,Equanus,Outer Rim,-10.615,637.137,http://starwars.wikia.com/wiki/Equanus
+Veragi,Revyia,Outer Rim,21.717,758.274,http://starwars.wikia.com/wiki/Revyia
+Veragi,Plooma,Outer Rim,41.9,654.503,http://starwars.wikia.com/wiki/Plooma
+Veragi,Trassitan,Outer Rim,22.956,662.108,http://starwars.wikia.com/wiki/Trassitan
+Veragi,Veragi,Outer Rim,39.272,673.265,http://starwars.wikia.com/wiki/Veragi
+Veragi,Plesstil,Outer Rim,38.919,684.906,http://starwars.wikia.com/wiki/Plesstil
+Raioballo,Dantooine,Outer Rim,0.98,558.551,http://starwars.wikia.com/wiki/Dantooine
+Raioballo,Gravlex Med,Outer Rim,68.077,561.19,http://starwars.wikia.com/wiki/Gravlex_Med
+Raioballo,Anx Minor,Outer Rim,28.69,541.204,http://starwars.wikia.com/wiki/Anx_Minor
+Raioballo,Sinsang,Outer Rim,19.091,546.985,http://starwars.wikia.com/wiki/Sinsang
+Raioballo,Kesmere,Outer Rim,28.44,557.921,http://starwars.wikia.com/wiki/Kesmere
+Raioballo,Kesmere Minor,Outer Rim,24.559,572.033,http://starwars.wikia.com/wiki/Kesmere_Minor
+Raioballo,Tertiary Kesmere,Outer Rim,20.679,587.026,http://starwars.wikia.com/wiki/Tertiary_Kesmere
+Raioballo,Shusugaunt,Outer Rim,43.786,582.792,http://starwars.wikia.com/wiki/Shusugaunt
+Mieru'kar,Ibanjji,Outer Rim,293.474,582.581,http://starwars.wikia.com/wiki/Ibanjji
+Mieru'kar,Maltha Obex,Outer Rim,352.065,612.442,http://starwars.wikia.com/wiki/Maltha_Obex
+Xappyh,Neelgaimon,Outer Rim,566.573,624.218,http://starwars.wikia.com/wiki/Neelgaimon
+Xappyh,Ruuria,Outer Rim,579.915,607.7,http://starwars.wikia.com/wiki/Ruuria
+Xappyh,Tiss'sharl,Outer Rim,618.035,597.323,http://starwars.wikia.com/wiki/Tiss'sharl
+Mortex,Iliabath,Outer Rim,676.35,524.589,http://starwars.wikia.com/wiki/Iliabath
+Mortex,Ranroon,Outer Rim,685.115,484.444,http://starwars.wikia.com/wiki/Ranroon
+Mortex,Almania,Outer Rim,717.119,494.43,http://starwars.wikia.com/wiki/Almania
+Colundra,Troiken,Outer Rim,761.592,498.243,http://starwars.wikia.com/wiki/Troiken
+Chorlian,Zygerria,Outer Rim,706.318,547.586,http://starwars.wikia.com/wiki/Zygerria
+Chorlian,Vaynai,Outer Rim,745.709,523.673,http://starwars.wikia.com/wiki/Vaynai
+Hapes Cluster,,Inner Rim,337.021,54.54,
+Sith Worlds,Ziost,Outer Rim,617.998,518.502,http://starwars.wikia.com/wiki/Ziost
+Sith Worlds,Begeren,Outer Rim,618.162,501.35,http://starwars.wikia.com/wiki/Begeren
+Sith Worlds,Korriz,Outer Rim,605.379,523.672,http://starwars.wikia.com/wiki/Korriz
+Sith Worlds,Athiss,Outer Rim,616.739,526.353,http://starwars.wikia.com/wiki/Athiss
+Sith Worlds,Svolten,Outer Rim,641.645,527.27,http://starwars.wikia.com/wiki/Svolten
+Sith Worlds,Bhargebba,Outer Rim,638.117,523.46,http://starwars.wikia.com/wiki/Bhargebba
+Sith Worlds,Ch'hodos,Outer Rim,630.427,513.371,http://starwars.wikia.com/wiki/Ch'hodos
+Sith Worlds,Nfolgai,Outer Rim,648.903,516.969,http://starwars.wikia.com/wiki/Nfolgai
+Sith Worlds,Krayiss,Outer Rim,653.066,506.174,http://starwars.wikia.com/wiki/Krayiss
+Sith Worlds,Korriban,Outer Rim,616.975,466.096,http://starwars.wikia.com/wiki/Korriban
+Sith Worlds,Bosthirda,Outer Rim,624.792,477.327,http://starwars.wikia.com/wiki/Bosthirda
+Sith Worlds,Dromund Kaas,Outer Rim,635.376,483.677,http://starwars.wikia.com/wiki/Dromund_Kaas
+Sith Worlds,Nicht Ka,Outer Rim,607.365,487.064,http://starwars.wikia.com/wiki/Nicht_Ka
+Sith Worlds,Rhelg,Outer Rim,655.212,481.109,http://starwars.wikia.com/wiki/Rhelg
+Sith Worlds,Khar Delba,Outer Rim,660.398,493.439,http://starwars.wikia.com/wiki/Khar_Delba
+Sith Worlds,Jaguada,Outer Rim,639.337,490.264,http://starwars.wikia.com/wiki/Jaguada
+Sith Worlds,Ashas Ree,Outer Rim,621.866,491.957,http://starwars.wikia.com/wiki/Ashas_Ree
+Sith Worlds,Kalsunor,Outer Rim,614.061,496.543,http://starwars.wikia.com/wiki/Kalsunor
+Sertar,Elom,Outer Rim,631.561,422.002,http://starwars.wikia.com/wiki/Elom
+Sertar,Syngia,Outer Rim,685.776,449.957,http://starwars.wikia.com/wiki/Syngia
+Sertar,Yutusk,Outer Rim,694.904,457.192,http://starwars.wikia.com/wiki/Yutusk
+Sertar,Sembla,Outer Rim,716.711,435.23,http://starwars.wikia.com/wiki/Sembla
+Kwymar,Telos,Outer Rim,507.946,570.992,http://starwars.wikia.com/wiki/Telos
+Kwymar,Doniphon,Outer Rim,515.411,579.728,http://starwars.wikia.com/wiki/Doniphon
+Kwymar,Tantive,Outer Rim,522.4,585.446,http://starwars.wikia.com/wiki/Tantive
+Kwymar,Listehol,Outer Rim,535.265,591.323,http://starwars.wikia.com/wiki/Listehol
+I-Sector,Thila,Outer Rim,525.577,532.078,http://starwars.wikia.com/wiki/Thila
+I-Sector,Ferro,Outer Rim,539.395,547.961,http://starwars.wikia.com/wiki/Ferro
+I-Sector,Mirial,Outer Rim,544.319,564.956,http://starwars.wikia.com/wiki/Mirial
+I-Sector,Sikurd,Outer Rim,561.155,545.42,http://starwars.wikia.com/wiki/Sikurd
+Esstran,Ord Radama,Outer Rim,503.499,490.782,http://starwars.wikia.com/wiki/Ord_Radama
+Esstran,Thule,Outer Rim,589.721,492.952,http://starwars.wikia.com/wiki/Thule
+Esstran,Corbos,Outer Rim,604.666,452.651,http://starwars.wikia.com/wiki/Corbos
+Tynquay,Thosa,Outer Rim,644.93,573.816,http://starwars.wikia.com/wiki/Thosa
+Tynquay,Gigor,Outer Rim,629.103,558.045,http://starwars.wikia.com/wiki/Gigor
+Wyl,Dra,Outer Rim,691.886,584.77,http://starwars.wikia.com/wiki/Dra
+Wyl,Lafra,Outer Rim,680.187,575.942,http://starwars.wikia.com/wiki/Lafra
+Nembus,Praadost,Outer Rim,460.455,516.512,http://starwars.wikia.com/wiki/Praadost
+Nembus,Carosi,Outer Rim,467.92,552.567,http://starwars.wikia.com/wiki/Carosi
+Meram,Thalassia,Outer Rim,438.854,535.414,http://starwars.wikia.com/wiki/Thalassian_system
+Morshdine,Tangrene,Outer Rim,350.971,506.818,http://starwars.wikia.com/wiki/Tangrene
+Morshdine,Edusa,Outer Rim,363.042,483.152,http://starwars.wikia.com/wiki/Edusa
+Morshdine,Camden,Outer Rim,358.436,465.839,http://starwars.wikia.com/wiki/Camden
+Morshdine,Vandyne,Outer Rim,353.354,444.874,http://starwars.wikia.com/wiki/Vandyne
+Sprizen,Salin,Outer Rim,275.844,422.161,http://starwars.wikia.com/wiki/Salin
+Nilgaard,Toola,Outer Rim,779.805,463.934,http://starwars.wikia.com/wiki/Toola
+Nilgaard,Quermia,Outer Rim,761.75,462.981,http://starwars.wikia.com/wiki/Quermia
+Nilgaard,Makem Te,Outer Rim,749.467,447.84,http://starwars.wikia.com/wiki/Makem_Te
+Nilgaard,Emmer,Outer Rim,750.996,477.3,http://starwars.wikia.com/wiki/Emmer
+Indrexu,Janodral Mizar,Outer Rim,735.65,425.795,http://starwars.wikia.com/wiki/Janodral_Mizar
+Tion Hegemony,Raxus,Outer Rim,770.01,411.043,http://starwars.wikia.com/wiki/Raxus
+Tion Hegemony,Tion,Outer Rim,773.045,407.979,http://starwars.wikia.com/wiki/Tion
+Tion Hegemony,Endregaad,Outer Rim,757.522,413.8,http://starwars.wikia.com/wiki/Endregaad
+Tion Hegemony,Livien,Outer Rim,718.011,403.217,http://starwars.wikia.com/wiki/Livien
+Tion Hegemony,Kanaver,Outer Rim,724.008,406.039,http://starwars.wikia.com/wiki/Kanaver
+Tion Hegemony,Desevro,Outer Rim,719.394,398.44,http://starwars.wikia.com/wiki/Desevro
+Tion Hegemony,Rudrig,Outer Rim,791.036,389.635,http://starwars.wikia.com/wiki/Rudrig
+Tion Hegemony,Caluula,Outer Rim,814.008,331.357,http://starwars.wikia.com/wiki/Caluula
+Tion Hegemony,Dellalt,Outer Rim,827.631,320.22,http://starwars.wikia.com/wiki/Dellalt
+Tion Hegemony,Brigia,Outer Rim,811.041,342.91,http://starwars.wikia.com/wiki/Brigia
+Tion Hegemony,Eredenn,Outer Rim,801.71,361.695,http://starwars.wikia.com/wiki/Eredenn
+Keldrath,Mullan,Outer Rim,819.59,352.681,http://starwars.wikia.com/wiki/Mullan
+Cronese Mandate,Chandaar,Outer Rim,708.932,348.757,http://starwars.wikia.com/wiki/Chandaar
+Cronese Mandate,Algor,Outer Rim,791.744,330.739,http://starwars.wikia.com/wiki/Algor
+Cronese Mandate,Pasmin,Outer Rim,729.346,336.912,http://starwars.wikia.com/wiki/Pasmin
+Cronese Mandate,Duinarbulon,Outer Rim,749.498,338.941,http://starwars.wikia.com/wiki/Duinarbulon
+Cronese Mandate,Eibon,Outer Rim,779.661,337.353,http://starwars.wikia.com/wiki/Eibon
+Cronese Mandate,Derellium,Outer Rim,766.432,343.88,http://starwars.wikia.com/wiki/Derellium
+Cronese Mandate,Corlass,Outer Rim,775.957,358.873,http://starwars.wikia.com/wiki/Corlass
+Cronese Mandate,Nuswatta,Outer Rim,786.54,356.756,http://starwars.wikia.com/wiki/Nuswatta
+Cronese Mandate,Argai,Outer Rim,778.073,369.456,http://starwars.wikia.com/wiki/Argai
+Allied Tion,Jaminere,Outer Rim,763.87,372.235,http://starwars.wikia.com/wiki/Jaminere
+Allied Tion,Cadinth,Outer Rim,728.557,360.64,http://starwars.wikia.com/wiki/Cadinth
+Allied Tion,Lianna,Outer Rim,704.624,371.071,http://starwars.wikia.com/wiki/Lianna
+Allied Tion,Barseg,Outer Rim,710.984,380.643,http://starwars.wikia.com/wiki/Barseg
+Allied Tion,Amarin,Outer Rim,737.372,384.17,http://starwars.wikia.com/wiki/Amarin
+Thanium,Felucia,Outer Rim,680.216,379.912,http://starwars.wikia.com/wiki/Felucia
+Thanium,Galidraan,Outer Rim,682.598,359.105,http://starwars.wikia.com/wiki/Galidraan
+Thanium,Draukyze,Outer Rim,669.083,351.394,http://starwars.wikia.com/wiki/Draukyze
+Thanium,Mossak,Outer Rim,679.375,369.918,http://starwars.wikia.com/wiki/Mossak
+Thanium,Arcan,Outer Rim,699.695,364.979,http://starwars.wikia.com/wiki/Arcan
+Thanium,Thanium,Outer Rim,692.216,386.852,http://starwars.wikia.com/wiki/Thanium
+Belderone,Rhen Var,Outer Rim,662.797,353.175,http://starwars.wikia.com/wiki/Rhen_Var
+Belderone,Belderone,Outer Rim,677.801,312.544,http://starwars.wikia.com/wiki/Belderone
+Vorzyd,Vorzyd,Outer Rim,615.043,344.069,http://starwars.wikia.com/wiki/Vorzyd
+Vorzyd,Columex,Outer Rim,675.472,327.791,http://starwars.wikia.com/wiki/Columex
+Antemeridian,Antemeridias,Outer Rim,644.092,272.432,http://starwars.wikia.com/wiki/Antemeridias
+Meridian,Nam Chorios,Outer Rim,636.22,304.466,http://starwars.wikia.com/wiki/Nam_Chorios
+Meridian,Budpock,Outer Rim,654.77,293.325,http://starwars.wikia.com/wiki/Budpock
+Nuiri,Lucazec,Outer Rim,563.935,328.817,http://starwars.wikia.com/wiki/Lucazec
+Nuiri,Vjun,Outer Rim,546.252,313.887,http://starwars.wikia.com/wiki/Vjun
+Nuiri,Gala,Outer Rim,542.916,299.91,http://starwars.wikia.com/wiki/Gala
+Cassander,Garqi,Outer Rim,-39.212,446.258,http://starwars.wikia.com/wiki/Garqi
+Cassander,Cassander,Outer Rim,-18.814,436.905,http://starwars.wikia.com/wiki/Cassander
+Cassander,Ord Canfre,Outer Rim,-26.224,414.138,http://starwars.wikia.com/wiki/Ord_Canfre
+Cassander,Monhudle,Outer Rim,-62.924,445.13,http://starwars.wikia.com/wiki/Monhudle
+Cassander,Forsen,Outer Rim,-23.13,424.105,http://starwars.wikia.com/wiki/Forsen
+Cassander,New Bakstre,Outer Rim,-8.455,432.572,http://starwars.wikia.com/wiki/New_Bakstre
+Cassander,Biitu,Outer Rim,-43.027,456.137,http://starwars.wikia.com/wiki/Biitu
+Cassander,Minashee,Outer Rim,-55.303,461.782,http://starwars.wikia.com/wiki/Minashee
+Cassander,Isiring,Outer Rim,18.78,425.234,http://starwars.wikia.com/wiki/Isiring
+Cassander,Kalki Nebula,Outer Rim,2.27,440.756,http://starwars.wikia.com/wiki/Kalki_Nebula
+Atrivis,Moltok,Outer Rim,7.237,458.399,http://starwars.wikia.com/wiki/Moltok
+Atrivis,Horuz,Outer Rim,71.159,469.923,http://starwars.wikia.com/wiki/Horuz
+Atrivis,Generis,Outer Rim,86.194,451.34,http://starwars.wikia.com/wiki/Generis
+Atrivis,Fedje,Outer Rim,74.123,425.891,http://starwars.wikia.com/wiki/Fedje
+Atrivis,Spefik,Outer Rim,25.377,448.447,http://starwars.wikia.com/wiki/Spefik
+Atrivis,Vuchelle,Outer Rim,57.938,423.223,http://starwars.wikia.com/wiki/Vuchelle
+Atrivis,Iridium,Outer Rim,59.35,440.439,http://starwars.wikia.com/wiki/Iridium
+Atrivis,Gibbela,Outer Rim,32.679,460.053,http://starwars.wikia.com/wiki/Gibbela
+Atrivis,Fest,Outer Rim,80.499,439.786,http://starwars.wikia.com/wiki/Fest
+Atrivis,Devon,Outer Rim,83.885,445.148,http://starwars.wikia.com/wiki/Devon
+Atrivis,Markbee's Star,Outer Rim,83.462,457.848,http://starwars.wikia.com/wiki/Markbee%27s_Star
+Atrivis,Hethar,Outer Rim,92.352,457.989,http://starwars.wikia.com/wiki/Hethar
+Hapes Cluster,,Inner Rim,341.582,52.286,
+Atrivis,Nam'ta,Outer Rim,87.413,467.02,http://starwars.wikia.com/wiki/Nam'ta
+Atrivis,Mantooine,Outer Rim,55.804,472.665,http://starwars.wikia.com/wiki/Mantooine
+Kanz,Bimmiel,Outer Rim,232.006,561.615,http://starwars.wikia.com/wiki/Bimmiel
+Kanz,Ereesus,Outer Rim,257.737,540.491,http://starwars.wikia.com/wiki/Ereesus
+Kanz,Jerne,Outer Rim,235.977,529.69,http://starwars.wikia.com/wiki/Jerne
+Kanz,Argazda,Outer Rim,250.272,524.925,http://starwars.wikia.com/wiki/Argazda
+Kanz,Lorrd,Outer Rim,274.573,544.303,http://starwars.wikia.com/wiki/Lorrd
+Kanz,Kol Huro,Outer Rim,274.573,531.278,http://starwars.wikia.com/wiki/Kol_Huro
+Tragan Cluster,Shaum Hii,Outer Rim,217.711,455.515,http://starwars.wikia.com/wiki/Shaum_Hii
+Lahara,Agamar,Outer Rim,145.739,419.714,http://starwars.wikia.com/wiki/Agamar
+Lahara,Gandolo,Outer Rim,149.079,469.419,http://starwars.wikia.com/wiki/Gandolo
+Oplovis,Ketaris,Outer Rim,96.835,408.245,http://starwars.wikia.com/wiki/Ketaris
+Oplovis,Akuria,Outer Rim,134.447,488.259,http://starwars.wikia.com/wiki/Akuria
+Cademimu,Phaeda,Outer Rim,55.664,366.912,http://starwars.wikia.com/wiki/Phaeda
+Cademimu,Cademimu,Outer Rim,133.315,371.712,http://starwars.wikia.com/wiki/Cademimu
+Halthor,Noonar,Outer Rim,119.479,339.804,http://starwars.wikia.com/wiki/Noonar
+Relgim,Ord Trasi,Outer Rim,14.957,511.324,http://starwars.wikia.com/wiki/Ord_Trasi
+Relgim,Ord Biniir,Outer Rim,1.166,466.658,http://starwars.wikia.com/wiki/Ord_Biniir
+Relgim,Vykos,Outer Rim,5.253,486.828,http://starwars.wikia.com/wiki/Vykos
+Albarrio,Marmoth,Outer Rim,-62.904,516.179,http://starwars.wikia.com/wiki/Marmoth
+Albarrio,Mygeeto,Outer Rim,-50.923,493.977,http://starwars.wikia.com/wiki/Mygeeto
+Albarrio,Anemcoro,Outer Rim,-3.516,461.499,http://starwars.wikia.com/wiki/Anemcoro
+Albarrio,Haverling,Outer Rim,-32.302,478.151,http://starwars.wikia.com/wiki/Haverling
+Albarrio,Morishim,Outer Rim,-31.315,489.157,http://starwars.wikia.com/wiki/Morishim
+Albarrio,Aris,Outer Rim,-31.153,497.552,http://starwars.wikia.com/wiki/Aris
+Albarrio,Malestrom Nebula,Outer Rim,-11.257,488.944,http://starwars.wikia.com/wiki/Malestrom_Nebula
+Calamari,Eridicon,Outer Rim,877.697,336.045,http://starwars.wikia.com/wiki/Eridicon
+Calamari,Minntooine,Outer Rim,897.752,322.128,http://starwars.wikia.com/wiki/Minntooine
+Calamari,Ruisto,Outer Rim,900.284,336.088,http://starwars.wikia.com/wiki/Ruisto
+Calamari,Mon Calamari,Outer Rim,907.208,330.121,http://starwars.wikia.com/wiki/Dac
+Calamari,New Heurkea,Outer Rim,916.585,309.58,http://starwars.wikia.com/wiki/New_Heurkea
+Calamari,Mantan,Outer Rim,911.54,314.202,http://starwars.wikia.com/wiki/Mantan
+Calamari,Hinakuu,Outer Rim,945.812,304.853,http://starwars.wikia.com/wiki/Hinakuu
+Calamari,Krinemonen,Outer Rim,940.662,321.204,http://starwars.wikia.com/wiki/Krinemonen
+Calamari,Buchich,Outer Rim,951.386,325.544,http://starwars.wikia.com/wiki/Buchich
+Calamari,Pammant,Outer Rim,910.323,325.455,http://starwars.wikia.com/wiki/Pammant
+Calamari,Pinperu,Outer Rim,924.934,332.887,http://starwars.wikia.com/wiki/Pinperu
+Calamari,Damendine,Outer Rim,924.404,348.357,http://starwars.wikia.com/wiki/Damendine
+Calamari,Kamdon,Outer Rim,928.787,290.578,http://starwars.wikia.com/wiki/Kamdon
+Calamari,Poseidenna,Outer Rim,901.45,294.658,http://starwars.wikia.com/wiki/Poseidenna
+Calamari,Sanctuary,Outer Rim,920.112,295.469,http://starwars.wikia.com/wiki/Sanctuary
+Ash Worlds,Wyndigal,Outer Rim,752.55,290.804,http://starwars.wikia.com/wiki/Wyndigal
+Ash Worlds,Altratonne,Outer Rim,771.6,263.552,http://starwars.wikia.com/wiki/Altratonne
+Ash Worlds,New Alderaan,Outer Rim,868.824,306.305,http://starwars.wikia.com/wiki/New_Alderaan
+Ash Worlds,Cophrigin,Outer Rim,832.29,269.833,http://starwars.wikia.com/wiki/Cophrigin
+Ash Worlds,Iego,Outer Rim,827.649,249.558,http://starwars.wikia.com/wiki/Iego
+Ash Worlds,OHS1782-03,Outer Rim,815.521,229.421,http://starwars.wikia.com/wiki/OHS1782-03
+Ash Worlds,Agon,Outer Rim,814.498,245.948,http://starwars.wikia.com/wiki/Agon
+Ash Worlds,OHS3842-03,Outer Rim,807.054,269.373,http://starwars.wikia.com/wiki/OHS3842-03
+Ash Worlds,OHS4140-02,Outer Rim,816.015,285.071,http://starwars.wikia.com/wiki/OHS4140-02
+Ash Worlds,OHS2132-04,Outer Rim,874.664,299.694,http://starwars.wikia.com/wiki/OHS2132-04
+Ash Worlds,Chiron,Outer Rim,894.409,262.814,http://starwars.wikia.com/wiki/Chiron
+Ash Worlds,Nyny,Outer Rim,838.241,276.422,http://starwars.wikia.com/wiki/Nyny
+Dominus,Baros,Outer Rim,942.665,256.315,http://starwars.wikia.com/wiki/Baros
+Dominus,Dornea,Outer Rim,939.864,282.817,http://starwars.wikia.com/wiki/Dornea
+Shadola,Gand,Outer Rim,872.685,177.441,http://starwars.wikia.com/wiki/Gand_(planet)
+Shadola,Skeebo,Outer Rim,924.148,176.384,http://starwars.wikia.com/wiki/Skeebo
+Shadola,Maldra,Outer Rim,932.063,190.414,http://starwars.wikia.com/wiki/Maldra
+Shadola,Baummu,Outer Rim,922.834,177.814,http://starwars.wikia.com/wiki/Baummu
+Jubilar,Jubilar,Outer Rim,817.625,218.579,http://starwars.wikia.com/wiki/Jubilar
+Jubilar,Toong'l,Outer Rim,886.028,225.992,http://starwars.wikia.com/wiki/Toong%27L
+Centrality,Oseon,Outer Rim,860.614,150.898,http://starwars.wikia.com/wiki/Oseon
+Centrality,Erilnar,Outer Rim,863.535,148.974,http://starwars.wikia.com/wiki/Erilnar
+Centrality,Rafa,Outer Rim,871.986,149.117,http://starwars.wikia.com/wiki/Rafa
+Centrality,Ringneldia,Outer Rim,893.706,155.471,http://starwars.wikia.com/wiki/Ringneldia
+Centrality,Arleen,Outer Rim,870.837,153.689,http://starwars.wikia.com/wiki/Arleen_system
+Centrality,Scillal,Outer Rim,866.604,143.591,http://starwars.wikia.com/wiki/Scillal
+Centrality,Lekua,Outer Rim,874.436,139.199,http://starwars.wikia.com/wiki/Lekua
+Centrality,Cadma,Outer Rim,881.597,135.477,http://starwars.wikia.com/wiki/Cadma
+Centrality,Zebitrope,Outer Rim,886.712,127.319,http://starwars.wikia.com/wiki/Zebitrope
+Centrality,Dela,Outer Rim,872.651,145.538,http://starwars.wikia.com/wiki/Dela
+Centrality,Tund,Outer Rim,955.544,145.444,http://starwars.wikia.com/wiki/Tund
+Centrality,ThonBoka,Outer Rim,919.968,129.403,http://starwars.wikia.com/wiki/ThonBoka
+Centrality,Renatasia,Outer Rim,909.306,124.107,http://starwars.wikia.com/wiki/Renatasia
+Centrality,Hosrel,Outer Rim,930.695,135.415,http://starwars.wikia.com/wiki/Hosrel
+Centrality,Trammis,Outer Rim,934.293,144.27,http://starwars.wikia.com/wiki/Trammis
+Centrality,Douglas,Outer Rim,947.796,134.119,http://starwars.wikia.com/wiki/Douglas
+Centrality,Paulking,Outer Rim,943.571,140.883,http://starwars.wikia.com/wiki/Paulking
+Centrality,Antipose,Outer Rim,937.098,148.221,http://starwars.wikia.com/wiki/Antipose
+Centrality,Falko,Outer Rim,933.288,149.773,http://starwars.wikia.com/wiki/Falko
+Centrality,Uaua,Outer Rim,924.486,151.625,http://starwars.wikia.com/wiki/Uaua
+Hapes Cluster,,Inner Rim,356.215,60.224,
+Centrality,Dilonexa,Outer Rim,913.25,155.365,http://starwars.wikia.com/wiki/Dilonexa
+Cadma,Dagelin Minor,Outer Rim,834.181,157.907,http://starwars.wikia.com/wiki/Dagelin_Minor
+Tharin,Taskeed,Outer Rim,758.752,208.343,http://starwars.wikia.com/wiki/Taskeed
+Tharin,Dennogra,Outer Rim,776.153,190.447,http://starwars.wikia.com/wiki/Dennogra
+Tharin,Junkfort Station,Outer Rim,805.955,163.226,http://starwars.wikia.com/wiki/Junkfort_Station
+Tharin,Tammar,Outer Rim,805.424,119.018,http://starwars.wikia.com/wiki/Tammar
+Tharin,Nimat,Outer Rim,805.73,153.559,http://starwars.wikia.com/wiki/Nimat
+Periphery,Af'El,Outer Rim,773.879,118.911,http://starwars.wikia.com/wiki/Af%27El
+Periphery,Vaathkree,Outer Rim,770.702,114.464,http://starwars.wikia.com/wiki/Vaathkree
+Periphery,Sriluur,Outer Rim,775.679,112.982,http://starwars.wikia.com/wiki/Sriluur
+Periphery,Lant,Outer Rim,764.624,107.602,http://starwars.wikia.com/wiki/Lant
+Periphery,Yoribuunt,Outer Rim,798.667,101.841,http://starwars.wikia.com/wiki/Yoribuunt
+Iotra,Iotra,Outer Rim,747.345,110.609,http://starwars.wikia.com/wiki/Iotra
+Auril,Ossus,Outer Rim,699.508,319.002,http://starwars.wikia.com/wiki/Ossus
+Auril,Murkhana,Outer Rim,732.64,326.715,http://starwars.wikia.com/wiki/Murkhana
+Jospro,Trogan,Outer Rim,674.57,284.218,http://starwars.wikia.com/wiki/Trogan
+Jospro,Jomark,Outer Rim,681.559,266.747,http://starwars.wikia.com/wiki/Jomark
+Jospro,Sy Myrth,Outer Rim,700.107,250.897,http://starwars.wikia.com/wiki/Sy_Myrth
+Jospro,Kile,Outer Rim,709.091,234.398,http://starwars.wikia.com/wiki/Kile
+Suolriep,Saleucami,Outer Rim,733.126,168.177,http://starwars.wikia.com/wiki/Saleucami
+Suolriep,Boonta,Outer Rim,745.663,149.337,http://starwars.wikia.com/wiki/Boonta
+Suolriep,Komnor,Outer Rim,743.716,198.07,http://starwars.wikia.com/wiki/Komnor
+Calaron,Kegan,Outer Rim,861.737,89.57,http://starwars.wikia.com/wiki/Kegan
+Calaron,Akrit'tar,Outer Rim,890.476,67.159,http://starwars.wikia.com/wiki/Akrit'tar
+Calaron,Kubindi,Outer Rim,869.118,27.378,http://starwars.wikia.com/wiki/Kubindi
+Calaron,Delacrix,Outer Rim,853.139,85.765,http://starwars.wikia.com/wiki/Delacrix
+Calaron,Gestrex,Outer Rim,862.563,52.26,http://starwars.wikia.com/wiki/Gestrex
+Calaron,Norval,Outer Rim,863.086,44.055,http://starwars.wikia.com/wiki/Norval
+Calaron,Lowick,Outer Rim,907.52,21.964,http://starwars.wikia.com/wiki/Lowick
+Bheriz,Droxu,Outer Rim,894.145,-139.779,http://starwars.wikia.com/wiki/Droxu
+Bheriz,Bheriz,Outer Rim,915.23,-49.647,http://starwars.wikia.com/wiki/Bheriz
+Bheriz,Aduba,Outer Rim,933.907,-114.941,http://starwars.wikia.com/wiki/Aduba
+Baxel,Nadiem,Outer Rim,942.03,-183.507,http://starwars.wikia.com/wiki/Nadiem
+Hapes Cluster,,Inner Rim,341.995,51.661,
+Baxel,Glottal,Outer Rim,926.929,-151.996,http://starwars.wikia.com/wiki/Glottal
+Baxel,Teth,Outer Rim,911.875,-210.191,http://starwars.wikia.com/wiki/Teth
+Baxel,Rinn,Outer Rim,930.924,-210.909,http://starwars.wikia.com/wiki/Rinn
+Baxel,Dilbana,Outer Rim,912.021,-265.407,http://starwars.wikia.com/wiki/Dilbana
+Baxel,Rampa Minor,Outer Rim,912.701,-228.942,http://starwars.wikia.com/wiki/Rampa_Minor
+Baxel,Lirra,Outer Rim,905.238,-213.622,http://starwars.wikia.com/wiki/Lirra
+Albanin,Dubrava,Outer Rim,891.217,-321.67,http://starwars.wikia.com/wiki/Dubrava
+Albanin,Clantaano,Outer Rim,911.992,-272.051,http://starwars.wikia.com/wiki/Clantaano
+Albanin,Barab,Outer Rim,904.776,-295.852,http://starwars.wikia.com/wiki/Barab
+Albanin,Daluuj,Outer Rim,932.786,-314.26,http://starwars.wikia.com/wiki/Daluuj
+Zoraster,Altor,Outer Rim,924.406,-373.229,http://starwars.wikia.com/wiki/Altor
+Tammuz,Tammuz-an,Outer Rim,875.679,-448.337,http://starwars.wikia.com/wiki/Tammuz-an
+Tammuz,Shiffrin,Outer Rim,843.091,-509.582,http://starwars.wikia.com/wiki/Shiffrin
+Tammuz,Shola,Outer Rim,919.13,-421.025,http://starwars.wikia.com/wiki/Shola
+Quiberon,Lyran,Outer Rim,790.95,-513.617,http://starwars.wikia.com/wiki/Lyran
+Quiberon,R-Duba,Outer Rim,849.919,-520.755,http://starwars.wikia.com/wiki/R-Duba
+Quiberon,Rothana,Outer Rim,858.299,-555.826,http://starwars.wikia.com/wiki/Rothana
+Galov,Arami,Outer Rim,836.67,-383.335,http://starwars.wikia.com/wiki/Arami
+Galov,Gamorr,Outer Rim,845.478,-431.556,http://starwars.wikia.com/wiki/Gamorr
+Abrion,Hishyim,Outer Rim,707.462,-509.892,http://starwars.wikia.com/wiki/Hishyim
+Abrion,Rishi,Outer Rim,717.704,-520.755,http://starwars.wikia.com/wiki/Rishi
+Abrion,Ukio,Outer Rim,732.912,-533.48,http://starwars.wikia.com/wiki/Ukio
+Abrion,Varristad,Outer Rim,719.256,-542.791,http://starwars.wikia.com/wiki/Varristad
+Abrion,Molavar,Outer Rim,732.291,-558.309,http://starwars.wikia.com/wiki/Molavar
+Abrion,Roon,Outer Rim,704.048,-583.448,http://starwars.wikia.com/wiki/Roon
+Yminis,Kolanda Station,Outer Rim,762.086,-445.544,http://starwars.wikia.com/wiki/Kolanda_Station
+Oricho,Polus,Outer Rim,147.685,354.399,http://starwars.wikia.com/wiki/Polus
+Oricho,Borgo Prime,Outer Rim,172.957,373.137,http://starwars.wikia.com/wiki/Borgo_Prime
+Noonian,Er'Kit,Outer Rim,174.934,332.476,http://starwars.wikia.com/wiki/Er%27Kit
+Noonian,Pallaxides,Outer Rim,213.349,293.227,http://starwars.wikia.com/wiki/Pallaxides
+Quelii,Vinsoth,Outer Rim,278.226,410.089,http://starwars.wikia.com/wiki/Vinsoth
+Quelii,Cathar,Outer Rim,284.579,374.828,http://starwars.wikia.com/wiki/Cathar
+Quelii,Halmad,Outer Rim,289.352,333.662,http://starwars.wikia.com/wiki/Halmad
+Quelii,Dathomir,Outer Rim,314.44,362.44,http://starwars.wikia.com/wiki/Dathomir
+Quelii,Drackmar,Outer Rim,334.294,372.922,http://starwars.wikia.com/wiki/Drackmar
+Weneen,G'wenee,Outer Rim,249.689,331.144,http://starwars.wikia.com/wiki/G'wenee
+Ojoster,Wayland,Outer Rim,274.605,243.244,http://starwars.wikia.com/wiki/Wayland
+Ojoster,Taris,Outer Rim,271.806,290.318,http://starwars.wikia.com/wiki/Taris
+Meerian,Bandomeer,Outer Rim,319.046,322.255,http://starwars.wikia.com/wiki/Bandomeer
+Mandalore,Gargon,Outer Rim,322.013,288.042,http://starwars.wikia.com/wiki/Gargon
+Demetras,Phindar,Outer Rim,422.287,301.766,http://starwars.wikia.com/wiki/Phindar
+Mandalore,Mandalore,Outer Rim,363.452,272.211,http://starwars.wikia.com/wiki/Mandalore
+Belsmuth,Harloen,Outer Rim,328.417,330.832,http://starwars.wikia.com/wiki/Harloen
+Belsmuth,Botajef,Outer Rim,344.777,351.48,http://starwars.wikia.com/wiki/Botajef
+Kessel,Kessel,Outer Rim,836.339,-11.369,http://starwars.wikia.com/wiki/Kessel
+Kessel,Honoghr,Outer Rim,847.744,-29.564,http://starwars.wikia.com/wiki/Honoghr
+Kessel,Formos,Outer Rim,893.654,-25.297,http://starwars.wikia.com/wiki/Formos
+Kessel,Zerm,Outer Rim,826.724,-20.32,http://starwars.wikia.com/wiki/Zerm
+Kessel,Rnda,Outer Rim,814.709,-14.94,http://starwars.wikia.com/wiki/Rnda
+Kessel,Aeneid,Outer Rim,845.642,-19.703,http://starwars.wikia.com/wiki/Aeneid
+Kessel,Little Kessel,Outer Rim,863.457,-21.07,http://starwars.wikia.com/wiki/Little_Kessel
+Kessel,Prishella,Outer Rim,881.603,-24.124,http://starwars.wikia.com/wiki/Prishella
+Kessel,Drualkiin,Outer Rim,892.848,-2.391,http://starwars.wikia.com/wiki/Drualkiin
+Phelleem,Handooine,Outer Rim,736.407,248.899,http://starwars.wikia.com/wiki/Handooine
+Phelleem,Jabiim,Outer Rim,755.185,227.579,http://starwars.wikia.com/wiki/Jabiim
+Al-Nasrl,Syvris,Outer Rim,848.677,-344.773,http://starwars.wikia.com/wiki/Syvris
+Al-Nasrl,Unagin,Outer Rim,840.975,-339.92,http://starwars.wikia.com/wiki/Unagin
+Grohl,Koiogra,Outer Rim,670.839,-616.968,http://starwars.wikia.com/wiki/Koiogra
+Khuiumin,Ord Grovner,Outer Rim,338.752,-878.347,http://starwars.wikia.com/wiki/Ord_Grovner
+Pakuuni,Florn,Outer Rim,811.513,440.167,http://starwars.wikia.com/wiki/Florn
+Pakuuni,Pakuuni,Outer Rim,851.873,386.329,http://starwars.wikia.com/wiki/Pakuuni
+Pakuuni,Munto Codru,Outer Rim,895.225,364.89,http://starwars.wikia.com/wiki/Munto_Codru
+Pakuuni,Reginard,Outer Rim,897.06,357.502,http://starwars.wikia.com/wiki/Reginard
+Pakuuni,Refnar,Outer Rim,857.99,363.5,http://starwars.wikia.com/wiki/Refnar
+Pakuuni,Turkana,Outer Rim,875.717,375.847,http://starwars.wikia.com/wiki/Turkana
+Pakuuni,Shaylin,Outer Rim,868.308,378.846,http://starwars.wikia.com/wiki/Shaylin
+Pakuuni,Gbu,Outer Rim,839.345,374.236,http://starwars.wikia.com/wiki/Gbu
+Spadja,Stenos,Outer Rim,624.548,407.517,http://starwars.wikia.com/wiki/Stenos
+Spadja,Tandankin,Outer Rim,671.799,395.954,http://starwars.wikia.com/wiki/Tandankin
+Ciutric,Corvis Minor,Outer Rim,251.86,493.159,http://starwars.wikia.com/wiki/Corvis_Minor
+Ciutric,Ciutric,Outer Rim,251.701,475.211,http://starwars.wikia.com/wiki/Ciutric
+Gree,Asation,Outer Rim,-9.554,694.671,http://starwars.wikia.com/wiki/Asation
+Gree,Gree,Outer Rim,5.622,709.425,http://starwars.wikia.com/wiki/Gree
+Cantons of Lahag,Lahag Erli,Expansion Regions,-155.071,-577.765,http://starwars.wikia.com/wiki/Lahag_Erli
+Mintitian Grant,Montitia,Expansion Regions,-166.507,-555.37,http://starwars.wikia.com/wiki/Montitia
+Har Worlds,Har Binande,Expansion Regions,-117.587,-631.45,http://starwars.wikia.com/wiki/Har_Binande
+Chitarghar,Solibus,Expansion Regions,-51.513,-570.617,http://starwars.wikia.com/wiki/Solibus
+Chitarghar,Gholondreine,Expansion Regions,-37.377,-584.912,http://starwars.wikia.com/wiki/Gholondreine
+Piryn SHar,Noe'ha'on,Expansion Regions,-82.803,-623.032,http://starwars.wikia.com/wiki/Noe%27ha%27on
+Piryn SHar,Natalon,Expansion Regions,-96.939,-627.638,http://starwars.wikia.com/wiki/Natalon
+Vatha,Copperline,Expansion Regions,-32.77,-619.855,http://starwars.wikia.com/wiki/Copperline
+Arc d'Stot,New Balosar,Expansion Regions,-32.135,-600.16,http://starwars.wikia.com/wiki/New_Balosar
+Itopol,Llon Nebulae,Expansion Regions,-10.375,-554.099,http://starwars.wikia.com/wiki/Llon_Nebulae
+Andirma,Quesaya,Expansion Regions,28.857,-536.468,http://starwars.wikia.com/wiki/Quesaya
+Vensensor,Pendari,Expansion Regions,-10.534,-614.773,http://starwars.wikia.com/wiki/Pendari
+Vensensor,Tar Mordren,Expansion Regions,-39.6,-650.192,http://starwars.wikia.com/wiki/Tar_Mordren
+Vensensor,Calonica,Expansion Regions,-43.412,-656.069,http://starwars.wikia.com/wiki/Calonica
+Epsi Collective,Vandelhelm,Expansion Regions,120.344,-584.912,http://starwars.wikia.com/wiki/Vandelhelm
+Woostri,Woostri,Expansion Regions,129.715,-615.408,http://starwars.wikia.com/wiki/Woostri
+Woostri,Daemen,Expansion Regions,134.004,-635.421,http://starwars.wikia.com/wiki/Daemen
+Parnabe,Qat Chrystac,Expansion Regions,92.39,-656.069,http://starwars.wikia.com/wiki/Qat_Chrystac
+Alchenaut,Nkllon,Expansion Regions,58.558,-614.773,http://starwars.wikia.com/wiki/Nkllon
+Rocantor,Rainos CLuster,Expansion Regions,62.688,-569.664,http://starwars.wikia.com/wiki/Rainos_CLuster
+Rocantor,Ord Vaug,Expansion Regions,83.336,-587.93,http://starwars.wikia.com/wiki/Ord_Vaug
+Bes Ber Bikade,Epica,Expansion Regions,61.417,-536.786,http://starwars.wikia.com/wiki/Epica
+Bes Ber Bikade,Roona,Expansion Regions,54.111,-547.904,http://starwars.wikia.com/wiki/Roona
+Bes Ber Bikade,Borkyne,Expansion Regions,46.963,-556.322,http://starwars.wikia.com/wiki/Borkyne
+Bes Ber Bikade,Kinyen,Expansion Regions,10.75,-593.966,http://starwars.wikia.com/wiki/Kinyen
+Tregillis,Tregillis,Expansion Regions,107.002,-548.381,http://starwars.wikia.com/wiki/Tregillis
+Boeus,Lohopa,Expansion Regions,157.511,-562.517,http://starwars.wikia.com/wiki/Lohopa
+Boeus,Droecil,Expansion Regions,108.114,-525.668,http://starwars.wikia.com/wiki/Droecil
+Mikaster,Derra,Expansion Regions,205.002,-519.315,http://starwars.wikia.com/wiki/Derra
+Baroli,Vernet,Expansion Regions,268.641,-479.289,http://starwars.wikia.com/wiki/Vernet
+Baroli,Baroli,Expansion Regions,233.433,-478.653,http://starwars.wikia.com/wiki/Baroli
+Baroli,Gacerian,Expansion Regions,232.639,-512.802,http://starwars.wikia.com/wiki/Gacerian
+Kira,Kira,Expansion Regions,252.334,-599.048,http://starwars.wikia.com/wiki/Kira
+Kira,Lazerian,Expansion Regions,251.54,-596.507,http://starwars.wikia.com/wiki/Lazerian
+Kira,Kerkoidia,Expansion Regions,284.306,-594.089,http://starwars.wikia.com/wiki/Kerkoidia
+Kira,Arrgaw,Expansion Regions,221.997,-605.719,http://starwars.wikia.com/wiki/Arrgaw
+Kira,Pax,Expansion Regions,220.408,-620.967,http://starwars.wikia.com/wiki/Pax
+Kira,Ropagi,Expansion Regions,252.175,-601.907,http://starwars.wikia.com/wiki/Ropagi
+Jurzan,Jurzan,Expansion Regions,193.407,-590.313,http://starwars.wikia.com/wiki/Jurzan
+Mbandamonte,Aguarl,Expansion Regions,268.376,-519.791,http://starwars.wikia.com/wiki/Aguarl
+Mbandamonte,Cerenia,Expansion Regions,293.789,-579.989,http://starwars.wikia.com/wiki/Cerenia
+Majoor,Bimin Three,Expansion Regions,236.927,-567.6,http://starwars.wikia.com/wiki/Bimin_Three
+Majoor,Ragith,Expansion Regions,230.891,-525.827,http://starwars.wikia.com/wiki/Ragith
+Majoor,Majoor,Expansion Regions,230.097,-542.504,http://starwars.wikia.com/wiki/Majoor
+Majoor,Ramordia,Expansion Regions,228.668,-556.481,http://starwars.wikia.com/wiki/Ramordia
+Majoor,M'haeli,Expansion Regions,215.802,-577.765,http://starwars.wikia.com/wiki/M%27haeli
+Brevost,Cheku,Expansion Regions,338.527,-504.067,http://starwars.wikia.com/wiki/Cheku
+Brevost,Sika,Expansion Regions,346.574,-512.961,http://starwars.wikia.com/wiki/Sika
+Brevost,Coonee,Expansion Regions,345.304,-519.95,http://starwars.wikia.com/wiki/Coonee
+Brevost,Krann,Expansion Regions,338.58,-542.822,http://starwars.wikia.com/wiki/Krann
+Brevost,Momansi,Expansion Regions,333.656,-550.446,http://starwars.wikia.com/wiki/Momansi
+Brevost,Brevost,Expansion Regions,318.408,-566.647,http://starwars.wikia.com/wiki/Brevost
+Zarracina,Vendaxa,Expansion Regions,320.173,-456.629,http://starwars.wikia.com/wiki/Vendaxa
+Zarracina,Selsor,Expansion Regions,334.503,-494.325,http://starwars.wikia.com/wiki/Selsor
+Immerian Outback,Pamorjal,Expansion Regions,281.629,-442.016,http://starwars.wikia.com/wiki/Pamorjal
+Vardoss,Glom Tho,Expansion Regions,-208.623,191.798,http://starwars.wikia.com/wiki/Glom_Tho
+Hijoan Space,Hijo,Expansion Regions,-173.258,174.311,http://starwars.wikia.com/wiki/Hijo
+Sarla,Belassar,Expansion Regions,-155.504,181.544,http://starwars.wikia.com/wiki/Belassar
+Mandress,Mondress,Expansion Regions,-189.204,209.656,http://starwars.wikia.com/wiki/Mondress
+Trestis,Muzara,Expansion Regions,-76.507,182.407,http://starwars.wikia.com/wiki/Muzara
+Drannik,Barenth,Expansion Regions,-59.706,191.77,http://starwars.wikia.com/wiki/Barenth
+Deadalis,Myomar,Expansion Regions,-126.285,205.71,http://starwars.wikia.com/wiki/Myomar
+Deadalis,Dorin,Expansion Regions,-141.695,192.723,http://starwars.wikia.com/wiki/Dorin
+Fellwe,Yinchorr,Expansion Regions,33.038,178.672,http://starwars.wikia.com/wiki/Yinchorr
+Fellwe,Golden Nyss,Expansion Regions,43.642,190.138,http://starwars.wikia.com/wiki/Golden_Nyss
+Immalia,Immalia,Expansion Regions,-6.651,168.519,http://starwars.wikia.com/wiki/Immalia
+Immalia,Mayvitch,Expansion Regions,7.64,166.959,http://starwars.wikia.com/wiki/Mayvitch
+Citlik,Nivek,Expansion Regions,349.186,-486.277,http://starwars.wikia.com/wiki/Nivek
+Tynna,Tynna,Expansion Regions,287.136,-404.955,http://starwars.wikia.com/wiki/Tynna
+Tynna,Allanteen,Expansion Regions,319.114,-409.403,http://starwars.wikia.com/wiki/Allanteen
+Merthian,Rhommamool,Expansion Regions,279.512,-362.812,http://starwars.wikia.com/wiki/Rhommamool
+Kailion,Bovo Yagen,Expansion Regions,319.749,-372.13,http://starwars.wikia.com/wiki/Bovo_Yagen
+Kailion,Tlactehon,Expansion Regions,305.348,-395.425,http://starwars.wikia.com/wiki/Tlactehon
+Kailion,Tarmidia,Expansion Regions,325.891,-395.849,http://starwars.wikia.com/wiki/Tarmidia
+Treffani,Ryvellia,Expansion Regions,388.153,-439.051,http://starwars.wikia.com/wiki/Ryvellia
+Thaere,Thaere,Expansion Regions,383.706,-476.324,http://starwars.wikia.com/wiki/Thaere
+Thaere,Cularin,Expansion Regions,409.542,-451.758,http://starwars.wikia.com/wiki/Cularin
+Chaykin,Merren,Expansion Regions,359.563,-436.298,http://starwars.wikia.com/wiki/Merren
+Hapes Cluster,,Inner Rim,341.699,50.063,
+Chaykin,Gamor,Expansion Regions,350.245,-441.381,http://starwars.wikia.com/wiki/Gamor
+Chaykin,Milagro,Expansion Regions,360.199,-450.911,http://starwars.wikia.com/wiki/Milagro
+Brak,Bacrana,Expansion Regions,382.435,-465.947,http://starwars.wikia.com/wiki/Bacrana
+Hilo,Hilo,Expansion Regions,390.059,-389.072,http://starwars.wikia.com/wiki/Hilo
+Charra,Charra,Expansion Regions,407.425,-408.979,http://starwars.wikia.com/wiki/Charra
+Venzeiia,Sarko,Expansion Regions,303.789,-277.245,http://starwars.wikia.com/wiki/Sarko
+Venzeiia,Terrijo,Expansion Regions,323.023,-292.657,http://starwars.wikia.com/wiki/Terrijo
+Surron,Mek va Uil,Expansion Regions,387.63,-308.931,http://starwars.wikia.com/wiki/Mek_va_Uil
+Surron,Surron,Expansion Regions,359.025,-329.645,http://starwars.wikia.com/wiki/Surron
+Altier,Altier,Expansion Regions,349.822,-350.529,http://starwars.wikia.com/wiki/Altier
+Narvath,Iktotchon,Expansion Regions,346.01,-406.438,http://starwars.wikia.com/wiki/Iktotchon
+Narvath,Aridus,Expansion Regions,366.128,-420.838,http://starwars.wikia.com/wiki/Aridus
+Parcelus,Parcellus Minor,Expansion Regions,327.708,-258.997,https://starwars.fandom.com/wiki/Parcellus_Minor
+Circarpous,Mimban,Expansion Regions,370.862,-200.679,http://starwars.wikia.com/wiki/Mimban
+Circarpous,Gyndine,Expansion Regions,313.036,-223.488,http://starwars.wikia.com/wiki/Gyndine
+Circarpous,Ishanna,Expansion Regions,363.587,-214.241,http://starwars.wikia.com/wiki/Ishanna
+Circarpous,Fabrin,Expansion Regions,371.231,-235.818,http://starwars.wikia.com/wiki/Fabrin
+Noori,Celegia,Expansion Regions,387.876,-66.493,http://starwars.wikia.com/wiki/Celegia
+Couronne,Quas Killam,Expansion Regions,441.38,-3.49,http://starwars.wikia.com/wiki/Quas_Killam
+Ghost Nebula,Umbara,Expansion Regions,407.537,-18.49,http://starwars.wikia.com/wiki/Umbara
+Dona Laza,Nazzri,Expansion Regions,424.64,69.668,http://starwars.wikia.com/wiki/Nazzri
+Nojic,Valgauth,Expansion Regions,405.663,83,http://starwars.wikia.com/wiki/Valgauth
+Nojic,Vena,Expansion Regions,401.3,58.32,http://starwars.wikia.com/wiki/Vena
+Belasco,Belasco,Expansion Regions,386.027,-136.812,http://starwars.wikia.com/wiki/Belasco
+Belasco,Zirulast,Expansion Regions,408.41,-110.229,http://starwars.wikia.com/wiki/Zirulast
+Harron,Trammen,Expansion Regions,365.437,-160.608,http://starwars.wikia.com/wiki/Trammen
+Harron,Chanosant,Expansion Regions,354.587,-167.512,http://starwars.wikia.com/wiki/Chanosant
+Harron,Tarhassan,Expansion Regions,370.862,-182.554,http://starwars.wikia.com/wiki/Tarhassan
+Harron,Reytha,Expansion Regions,333.75,-203.761,http://starwars.wikia.com/wiki/Reytha
+Cyrillian Protectorate,Prazhi,Expansion Regions,377.026,-265.532,http://starwars.wikia.com/wiki/Prazhi
+Cyrillian Protectorate,Cyrillia,Expansion Regions,370.122,-292.657,http://starwars.wikia.com/wiki/Cyrillia
+Askarian,Zaloriis,Expansion Regions,406.001,-222.995,http://starwars.wikia.com/wiki/Zaloriis
+Nuon e Safyd,T'surr,Expansion Regions,441.879,-243.585,http://starwars.wikia.com/wiki/T%27surr
+Ombakond,Yutan,Expansion Regions,417.714,-294.383,http://starwars.wikia.com/wiki/Yutan
+Tolemses,Dica,Expansion Regions,464.977,-122.715,http://starwars.wikia.com/wiki/Dica
+Hangshan,Erai,Expansion Regions,438.427,-155.923,http://starwars.wikia.com/wiki/Erai
+Hangshan,Artesia,Expansion Regions,468.018,-164.307,http://starwars.wikia.com/wiki/Artesia
+Hangshan,Ulda Frav,Expansion Regions,440.03,-173.307,http://starwars.wikia.com/wiki/Ulda_Frav
+Authala,Mordagon,Expansion Regions,489.224,-233.475,http://starwars.wikia.com/wiki/Mordagon
+Authala,Emberlene,Expansion Regions,463.086,-256.408,http://starwars.wikia.com/wiki/Emberlene
+Inra-su-Mar,Scardia,Expansion Regions,458.524,-261.956,http://starwars.wikia.com/wiki/Scardia
+Ehosiq,Shili,Expansion Regions,70.273,189.645,http://starwars.wikia.com/wiki/Shili
+Corpheli,Jestan,Expansion Regions,121.071,206.66,http://starwars.wikia.com/wiki/Jestan
+Lostar,Draria,Expansion Regions,147.949,211.345,http://starwars.wikia.com/wiki/Draria
+Lostar,Adin,Expansion Regions,155.1,215.414,http://starwars.wikia.com/wiki/Adin
+Lostar,Nessem,Expansion Regions,112.81,186.193,http://starwars.wikia.com/wiki/Nessem
+Lostar,Kidriff,Expansion Regions,120.701,192.481,http://starwars.wikia.com/wiki/Kidriff
+Lostar,Jazbina,Expansion Regions,152.881,196.55,http://starwars.wikia.com/wiki/Jazbina
+Greater Plooriod,Corsin,Expansion Regions,189.869,233.415,http://starwars.wikia.com/wiki/Corsin
+Ploo,Ploo,Expansion Regions,234.872,235.388,http://starwars.wikia.com/wiki/Ploo
+Ploo,Serroco,Expansion Regions,254.722,241.552,http://starwars.wikia.com/wiki/Serroco
+Sumitra,Boordii,Expansion Regions,274.08,236.497,http://starwars.wikia.com/wiki/Boordii
+Sumitra,Aquaris,Expansion Regions,298.985,220.346,http://starwars.wikia.com/wiki/Aquaris
+Sumitra,Thustra,Expansion Regions,303.177,227.743,http://starwars.wikia.com/wiki/Thustra
+Dentari,Tierfon,Expansion Regions,333.508,208.263,http://starwars.wikia.com/wiki/Tierfon
+Farstey,Jendorn,Expansion Regions,346.577,187.426,http://starwars.wikia.com/wiki/Jendorn
+Farstey,Alpheridies,Expansion Regions,361.126,183.357,http://starwars.wikia.com/wiki/Alpheridies
+Farstey,Thisspias,Expansion Regions,351.139,174.11,http://starwars.wikia.com/wiki/Thisspias
+Prackla,Cartao,Expansion Regions,376.908,141.19,http://starwars.wikia.com/wiki/Cartao
+Locris,Von-Alai,Expansion Regions,383.196,149.821,http://starwars.wikia.com/wiki/Von-Alai
+Locris,Sermeria,Expansion Regions,372.839,109.75,http://starwars.wikia.com/wiki/Sermeria
+Locris,Carcel,Expansion Regions,378.51,109.997,http://starwars.wikia.com/wiki/Carcel
+Locris,Pirin,Expansion Regions,389.484,111.6,http://starwars.wikia.com/wiki/Pirin
+Locris,Gizer,Expansion Regions,406.108,115.209,http://starwars.wikia.com/wiki/Gizer
+Hali,Donovia,Expansion Regions,394.169,99.27,http://starwars.wikia.com/wiki/Donovia
+Hali,Illoud,Expansion Regions,393.429,92.859,http://starwars.wikia.com/wiki/Illoud
+Hocatar,Attahox,Expansion Regions,474.429,-218.31,http://starwars.wikia.com/wiki/Attahox
+Sepan,Sepan,Expansion Regions,426.098,-311.891,http://starwars.wikia.com/wiki/Sepan
+Sepan,Wann Tsir,Expansion Regions,427.331,-325.083,http://starwars.wikia.com/wiki/Wann_Tsir
+Freestanding Subsectors,Roxuli,Expansion Regions,-227.364,160.071,http://starwars.wikia.com/wiki/Roxuli
+Freestanding Subsectors,Mendicat,Expansion Regions,-238.378,166.646,http://starwars.wikia.com/wiki/Mendicat
+Freestanding Subsectors,Celdaru,Expansion Regions,-242.653,180.291,http://starwars.wikia.com/wiki/Celdaru
+Freestanding Subsectors,Aruza,Expansion Regions,-223.846,-478.971,http://starwars.wikia.com/wiki/Aruza
+Freestanding Subsectors,Lequabis,Expansion Regions,-213.045,-471.347,http://starwars.wikia.com/wiki/Lequabis
+Freestanding Subsectors,Kayri,Expansion Regions,-207.804,-514.391,http://starwars.wikia.com/wiki/Kayri
+Freestanding Subsectors,Taloraan,Expansion Regions,-242.27,-509.149,http://starwars.wikia.com/wiki/Taloraan
+Freestanding Subsectors,Soun,Expansion Regions,-199.691,145.951,http://starwars.wikia.com/wiki/Soun
+Freestanding Subsectors,Poviduze,Expansion Regions,-190.809,-489.454,http://starwars.wikia.com/wiki/Poviduze
+,Selvaris,Inner Rim,-209.389,65.597,http://starwars.wikia.com/wiki/Selvaris
+,Reecee,Inner Rim,-133.549,104.613,http://starwars.wikia.com/wiki/Reecee
+,Rondai,Inner Rim,-127.631,172.782,http://starwars.wikia.com/wiki/Rondai
+,Bengat,Inner Rim,-110.534,157.219,http://starwars.wikia.com/wiki/Bengat
+,Bilbringi,Inner Rim,-121.384,161.274,http://starwars.wikia.com/wiki/Bilbringi
+Seventh Security Zone,Walalla,Inner Rim,-154.839,-395.851,http://starwars.wikia.com/wiki/Walalla
+Bamula,Donadus,Inner Rim,-157.799,-382.659,http://starwars.wikia.com/wiki/Donadus
+,Mindabaal,Inner Rim,-160.018,-374.028,http://starwars.wikia.com/wiki/Mindabaal
+,K'taktaxka,Inner Rim,-196.267,-467.239,http://starwars.wikia.com/wiki/K'taktaxka
+,Shasfath,Inner Rim,-185.786,-457.006,http://starwars.wikia.com/wiki/Shasfath
+,Jandur,Inner Rim,-128.085,-434.813,http://starwars.wikia.com/wiki/Jandur
+,Korbin,Inner Rim,-108.727,-408.181,http://starwars.wikia.com/wiki/Korbin
+,Tasariq,Inner Rim,-160.881,-417.305,http://starwars.wikia.com/wiki/Tasariq
+,Neshtab,Inner Rim,-91.848,152.452,http://starwars.wikia.com/wiki/Neshtab
+,Aphran,Inner Rim,-97.93,147.191,http://starwars.wikia.com/wiki/Aphran
+,Meastrinnar,Inner Rim,-94.314,142.095,http://starwars.wikia.com/wiki/Meastrinnar
+,Voltare,Inner Rim,-93.82,135.683,http://starwars.wikia.com/wiki/Voltare
+,Carratos,Inner Rim,-90.039,124.998,http://starwars.wikia.com/wiki/Carratos
+,Dulin,Inner Rim,-42.025,-487.09,http://starwars.wikia.com/wiki/Dulin_system
+,Pa Tho,Inner Rim,-55.957,-475.377,http://starwars.wikia.com/wiki/Pa_Tho_(planet)
+,Trevura,Inner Rim,-68.287,-471.431,http://starwars.wikia.com/wiki/Trevura
+,Yn,Inner Rim,-38.942,-421.127,http://starwars.wikia.com/wiki/Yn
+,Fennesa,Inner Rim,-42.518,-412.25,http://starwars.wikia.com/wiki/Fennesa
+,Ord Lithone,Inner Rim,9.29,162.778,http://starwars.wikia.com/wiki/Ord_Lithone
+,Datar,Inner Rim,55.895,162.569,http://starwars.wikia.com/wiki/Datar
+,Milvayne,Inner Rim,50.047,153.369,http://starwars.wikia.com/wiki/Milvayne
+Marcol,Barlok,Inner Rim,45.608,132.532,http://starwars.wikia.com/wiki/Barlok
+,Paqualis III,Inner Rim,96.032,165.802,http://starwars.wikia.com/wiki/Paqualis_III
+,Per Lupelo,Inner Rim,87.648,154.336,http://starwars.wikia.com/wiki/Per_Lupelo
+,Drearia,Inner Rim,79.387,142.499,http://starwars.wikia.com/wiki/Drearia
+,Champala,Inner Rim,71.373,129.307,http://starwars.wikia.com/wiki/Champala
+,Tomo-Reth,Inner Rim,85.092,-405.807,http://starwars.wikia.com/wiki/Tomo-Reth
+,Norah,Inner Rim,74.92,-421.712,http://starwars.wikia.com/wiki/Norah
+,Mechis III,Inner Rim,92.767,-466.284,http://starwars.wikia.com/wiki/Mechis_III
+,Renillis,Inner Rim,89.438,-479.599,http://starwars.wikia.com/wiki/Renillis_system
+Givin Domain,Yag'Dhul,Inner Rim,86.479,-489.864,http://starwars.wikia.com/wiki/Yag%27Dhul
+,Sukkult,Inner Rim,90.548,-497.631,http://starwars.wikia.com/wiki/Sukkult
+,Laertos,Inner Rim,51.803,-476.455,http://starwars.wikia.com/wiki/Laertos
+Jaso,Tauber,Inner Rim,74.273,-456.944,http://starwars.wikia.com/wiki/Tauber
+Jaso,Thyferra,Inner Rim,65.951,-442.241,http://starwars.wikia.com/wiki/Thyferra
+,Vanik,Inner Rim,38.949,-411.263,http://starwars.wikia.com/wiki/Vanik_system
+Kiffu,Kiffu,Inner Rim,28.038,-431.329,http://starwars.wikia.com/wiki/Kiffu
+,Janara,Inner Rim,5.32,-458.485,http://starwars.wikia.com/wiki/Janara_III
+,Pitrolea,Inner Rim,6.184,-471.431,http://starwars.wikia.com/wiki/Pitrolea
+,Ketal,Inner Rim,7.54,-482.651,http://starwars.wikia.com/wiki/Ketal
+,Wroona,Inner Rim,97.298,-517.513,http://starwars.wikia.com/wiki/Wroona
+Harrin,Harrin,Inner Rim,81.578,-502.162,http://starwars.wikia.com/wiki/Harrin
+,Moorja,Inner Rim,75.753,-515.478,http://starwars.wikia.com/wiki/Moorja
+,Calus,Inner Rim,68.17,-525.835,http://starwars.wikia.com/wiki/Calus
+,Ukatis,Inner Rim,32.014,-515.571,http://starwars.wikia.com/wiki/Ukatis
+,Shalam,Inner Rim,187.023,205.01,http://starwars.wikia.com/wiki/Shalam
+,Bogden,Inner Rim,105.91,177.988,http://starwars.wikia.com/wiki/Bogden
+,Omonoth,Inner Rim,126.979,106.621,http://starwars.wikia.com/wiki/Omonoth
+,Mindor,Inner Rim,134.253,147.061,http://starwars.wikia.com/wiki/Mindor
+,Tala,Inner Rim,209.474,60.043,http://starwars.wikia.com/wiki/Tala_system
+Orus,Mantessa,Inner Rim,157.556,127.951,http://starwars.wikia.com/wiki/Mantessa
+,Ejolus,Inner Rim,153.364,188.365,http://starwars.wikia.com/wiki/Ejolus
+Orus,Poderis,Inner Rim,179.626,117.594,http://starwars.wikia.com/wiki/Poderis
+Orus,Hijarna,Inner Rim,172.228,104.031,http://starwars.wikia.com/wiki/Hijarna
+,Dagary Minor,Inner Rim,193.928,182.94,http://starwars.wikia.com/wiki/Dagary_Minor
+Orus,Joiol,Inner Rim,185.894,101.008,http://starwars.wikia.com/wiki/Joiol
+Darlonn,Vurdon Ka,Inner Rim,169.022,94.414,http://starwars.wikia.com/wiki/Vurdon_Ka
+Adari,Adari,Inner Rim,169.804,77.983,http://starwars.wikia.com/wiki/Adari
+,Sochi,Inner Rim,193.292,64.667,http://starwars.wikia.com/wiki/Sochi
+Bright Jewel,Aleen,Mid Rim,37.917,232.62,http://starwars.wikia.com/wiki/Aleen
+,Hillindor,Inner Rim,164.381,-364.185,http://starwars.wikia.com/wiki/Hillindor_system
+,Atzerri,Inner Rim,189.4,-394.434,http://starwars.wikia.com/wiki/Atzerri
+,Las Lagon,Inner Rim,144.551,-391.474,http://starwars.wikia.com/wiki/Las_Lagon
+,Affa,Inner Rim,153.058,-391.937,http://starwars.wikia.com/wiki/Affa
+,Foless,Colonies,110.228,-381.838,http://starwars.wikia.com/wiki/Foless
+,Kooriva,Inner Rim,158.514,-424.394,http://starwars.wikia.com/wiki/Kooriva
+,Heptalia,Inner Rim,180.707,-452.598,http://starwars.wikia.com/wiki/Heptalia
+,Borao,Inner Rim,174.512,-460.088,http://starwars.wikia.com/wiki/Borao
+,Vaklin,Inner Rim,190.232,-472.387,http://starwars.wikia.com/wiki/Vaklin
+,Roundtree,Inner Rim,136.136,-466.653,http://starwars.wikia.com/wiki/Roundtree_system
+,Arkam,Inner Rim,140.112,-472.479,http://starwars.wikia.com/wiki/Arkam_system
+,Xeron,Inner Rim,133.824,-479.784,http://starwars.wikia.com/wiki/Xeron
+,Beltrix III,Inner Rim,115.145,-436.415,http://starwars.wikia.com/wiki/Beltrix_III
+,Bestine,Inner Rim,105.991,-410.801,http://starwars.wikia.com/wiki/Bestine
+,Myrkr,Inner Rim,270.755,234.947,http://starwars.wikia.com/wiki/Myrkr
+Nouane,Comkin V,Inner Rim,212.208,216.997,http://starwars.wikia.com/wiki/Comkin_V
+Nouane,Telerath,Inner Rim,223.766,210.709,http://starwars.wikia.com/wiki/Telerath
+Shataum,Kroctar,Inner Rim,234.216,206.271,http://starwars.wikia.com/wiki/Kroctar
+Nouane,Nouane,Inner Rim,203.298,193.543,http://starwars.wikia.com/wiki/Nouane
+,Phateem,Inner Rim,210.203,184.543,http://starwars.wikia.com/wiki/Phateem
+,Levian,Inner Rim,258.443,192.77,http://starwars.wikia.com/wiki/Levian_Two
+,Carest,Inner Rim,293.582,188.146,http://starwars.wikia.com/wiki/Carest_1
+,Obroa-skai,Inner Rim,291.64,175.016,http://starwars.wikia.com/wiki/Obroa-skai
+,Asrat,Inner Rim,271.944,156.706,http://starwars.wikia.com/wiki/Asrat
+Larrin,Filordis,Inner Rim,238.839,146.997,http://starwars.wikia.com/wiki/Filordis
+Zeemacht Cluster,Tirahnn,Inner Rim,262.46,119.502,http://starwars.wikia.com/wiki/Tirahnn
+,Relatta,Inner Rim,224.27,113.214,http://starwars.wikia.com/wiki/Relatta_system
+Anthos,Berchest,Inner Rim,209.844,127.455,http://starwars.wikia.com/wiki/Berchest
+Ktilac Regions,Ktil,Inner Rim,285.948,87.6,http://starwars.wikia.com/wiki/Ktil
+,Colla IV,Inner Rim,242.394,93.055,http://starwars.wikia.com/wiki/Colla_IV
+,Berri,Inner Rim,224.362,66.331,http://starwars.wikia.com/wiki/Berri
+,Kloper,Inner Rim,207.031,37.029,http://starwars.wikia.com/wiki/Kloper
+Zaric,Korev VII,Inner Rim,224.604,33.68,http://starwars.wikia.com/wiki/Korev_VII
+,Vorsia,Inner Rim,234.868,21.844,http://starwars.wikia.com/wiki/Vorsia_system
+Neshig,Corvanni IV,Inner Rim,231.539,16.203,http://starwars.wikia.com/wiki/Corvanni_IV
+,Gelviddis Cluster,Inner Rim,258.818,26.745,http://starwars.wikia.com/wiki/Gelviddis_Cluster
+,Manress,Inner Rim,291.738,26.375,http://starwars.wikia.com/wiki/Manress
+,H'ratth,Inner Rim,247.324,-13.901,http://starwars.wikia.com/wiki/H%27ratth
+,Pavo Prime,Inner Rim,265.356,-15.381,http://starwars.wikia.com/wiki/Pavo_Prime
+,Telti,Inner Rim,286.902,-6.966,http://starwars.wikia.com/wiki/Telti
+,Dartessex IV,Inner Rim,258.328,-45.526,http://starwars.wikia.com/wiki/Dartessex_IV
+,Mokk IX,Inner Rim,285.7,-52.092,http://starwars.wikia.com/wiki/Mokk_IX
+,Fadden,Inner Rim,296.889,-131.617,http://starwars.wikia.com/wiki/Fadden
+,Antar,Inner Rim,282.833,-210.402,http://starwars.wikia.com/wiki/Antar
+,Ailon,Inner Rim,258.791,-243.507,http://starwars.wikia.com/wiki/Ailon
+,Atapap I,Inner Rim,255.554,-249.333,http://starwars.wikia.com/wiki/Atapap_I
+,Gendrah-Narvin,Inner Rim,244.088,-303.891,http://starwars.wikia.com/wiki/Gendrah-Narvin_system
+Iseno,Iseno,Inner Rim,220.323,-307.682,http://starwars.wikia.com/wiki/Iseno
+,Denon,Inner Rim,227.905,-316.559,http://starwars.wikia.com/wiki/Denon
+,Perithal VI,Inner Rim,243.533,-330.152,http://starwars.wikia.com/wiki/Perithal_VI
+,Sagar,Inner Rim,230.124,-335.608,http://starwars.wikia.com/wiki/Sagar_system
+,Spirana,Inner Rim,257.126,-343.561,http://starwars.wikia.com/wiki/Spirana
+,Ronyards,Inner Rim,230.864,-350.681,http://starwars.wikia.com/wiki/Ronyards
+,Genon,Inner Rim,249.451,-359.188,http://starwars.wikia.com/wiki/Genon
+Callia,Ord Vaxal,Inner Rim,257.588,-376.943,http://starwars.wikia.com/wiki/Ord_Vaxal
+,Chardaan,Inner Rim,233.868,-399.16,http://starwars.wikia.com/wiki/Chardaan
+,Babbadod,Inner Rim,234.063,-406.085,http://starwars.wikia.com/wiki/Babbadod
+,Itani,Inner Rim,222.874,-415.239,http://starwars.wikia.com/wiki/Itani_system
+,Shibric,Inner Rim,235.173,-437.248,http://starwars.wikia.com/wiki/Shibric
+,Dargulli,Inner Rim,206.044,-441.964,http://starwars.wikia.com/wiki/Dargulli
+,Paonid,Inner Rim,321.416,166.138,http://starwars.wikia.com/wiki/Paonid_system
+,Gravan Seven,Inner Rim,339.54,160.682,http://starwars.wikia.com/wiki/Gravan_Seven
+,Korda Six,Inner Rim,327.704,145.98,http://starwars.wikia.com/wiki/Korda_Six
+,Pengalan,Inner Rim,332.738,133.465,http://starwars.wikia.com/wiki/Pengalan
+,Dalcretti,Inner Rim,313.227,117.375,http://starwars.wikia.com/wiki/Dalcretti_system
+,Taanab,Inner Rim,353.359,110.162,http://starwars.wikia.com/wiki/Taanab
+Hapes Cluster,Hapes,Inner Rim,350.642,53.377,http://starwars.wikia.com/wiki/Hapes
+Japrael,Onderon & Dxun,Inner Rim,370.615,17.405,http://starwars.wikia.com/wiki/Onderon
+Hapes Cluster,Telkur Station,Inner Rim,336.289,41.925,http://starwars.wikia.com/wiki/Telkur_Station
+Hapes Cluster,Chosper,Inner Rim,339.499,41.113,http://starwars.wikia.com/wiki/Chosper
+Hapes Cluster,,Inner Rim,356.437,58.298,
+Hapes Cluster,Andalia,Inner Rim,334.631,46.14,http://starwars.wikia.com/wiki/Andalia
+Hapes Cluster,Sennex,Inner Rim,335.171,48.359,http://starwars.wikia.com/wiki/Sennex
+Hapes Cluster,Daruvvia,Inner Rim,336.247,50.582,http://starwars.wikia.com/wiki/Daruvvia
+Hapes Cluster,Ket,Inner Rim,336.565,52.222,http://starwars.wikia.com/wiki/Ket
+Hapes Cluster,Lovola,Inner Rim,337.641,55.503,http://starwars.wikia.com/wiki/Lovola
+Hapes Cluster,Maires,Inner Rim,337.923,57.267,http://starwars.wikia.com/wiki/Maires
+Hapes Cluster,Vergill,Inner Rim,338.487,58.166,http://starwars.wikia.com/wiki/Vergill
+Hapes Cluster,Modus,Inner Rim,339.951,58.872,http://starwars.wikia.com/wiki/Modus
+Hapes Cluster,Charubah,Inner Rim,339.898,57.267,http://starwars.wikia.com/wiki/Charubah
+Hapes Cluster,Cheruba,Inner Rim,342.809,56.985,http://starwars.wikia.com/wiki/Cheruba
+Hapes Cluster,Relephon,Inner Rim,344.273,55.979,http://starwars.wikia.com/wiki/Relephon
+Hapes Cluster,Wodan,Inner Rim,343.55,55.115,http://starwars.wikia.com/wiki/Wodan
+Hapes Cluster,Divora,Inner Rim,341.609,53.704,http://starwars.wikia.com/wiki/Divora
+Hapes Cluster,Algnadesh,Inner Rim,343.338,54.286,http://starwars.wikia.com/wiki/Algnadesh
+Hapes Cluster,Sargon,Inner Rim,342.862,60.565,http://starwars.wikia.com/wiki/Sargon
+Hapes Cluster,Febrini,Inner Rim,347.695,59.93,http://starwars.wikia.com/wiki/Febrini
+Hapes Cluster,Zadaria,Inner Rim,348.453,58.854,http://starwars.wikia.com/wiki/Zadaria
+Hapes Cluster,Phelope,Inner Rim,348.418,57.919,http://starwars.wikia.com/wiki/Phelope
+Hapes Cluster,Jodaka,Inner Rim,341.383,49.158,http://starwars.wikia.com/wiki/Jodaka
+Hapes Cluster,Stalsinek,Inner Rim,341.736,46.971,http://starwars.wikia.com/wiki/Stalsinek
+Hapes Cluster,Nantuker,Inner Rim,344.092,44.87,http://starwars.wikia.com/wiki/Nantuker
+Hapes Cluster,k'Farri,Inner Rim,347.496,42.348,http://starwars.wikia.com/wiki/k%27Farri
+Hapes Cluster,Calfa,Inner Rim,356.104,47.04,http://starwars.wikia.com/wiki/Calfa
+Hapes Cluster,Dreena,Inner Rim,358.468,49.333,http://starwars.wikia.com/wiki/Dreena
+Hapes Cluster,Reboam,Inner Rim,360.144,53.672,http://starwars.wikia.com/wiki/Reboam
+Hapes Cluster,Shedu Maad,Inner Rim,358.38,59.51,http://starwars.wikia.com/wiki/Shedu_Maad
+Hapes Cluster,Terephon,Inner Rim,355.857,60.78,http://starwars.wikia.com/wiki/Terephon
+Hapes Cluster,Zalori,Inner Rim,355.628,61.451,http://starwars.wikia.com/wiki/Zalori
+Hapes Cluster,Orelon,Inner Rim,351.351,64.62,http://starwars.wikia.com/wiki/Orelon
+Hapes Cluster,Rynmar,Inner Rim,353.594,62.461,http://starwars.wikia.com/wiki/Rynmar
+Hapes Cluster,Rainboh,Inner Rim,356.007,63.534,http://starwars.wikia.com/wiki/Rainboh
+Hapes Cluster,Roqoo Depot,Inner Rim,362.227,62.382,http://starwars.wikia.com/wiki/Roqoo_Depot
+Hapes Cluster,Talcharaim,Inner Rim,345.801,51.708,http://starwars.wikia.com/wiki/Talcharaim
+Hapes Cluster,Sivoria,Inner Rim,345.575,52.695,http://starwars.wikia.com/wiki/Sivoria
+Hapes Cluster,Farnica,Inner Rim,345.604,53.627,http://starwars.wikia.com/wiki/Farnica
+Hapes Cluster,Novi,Inner Rim,345.745,54.488,http://starwars.wikia.com/wiki/Novi
+Hapes Cluster,Gallinore,Inner Rim,346.14,55.334,http://starwars.wikia.com/wiki/Gallinore
+Hapes Cluster,Baldavia,Inner Rim,346.902,54.812,http://starwars.wikia.com/wiki/Baldavia
+Hapes Cluster,Theselon,Inner Rim,347.763,54.586,http://starwars.wikia.com/wiki/Theselon
+Hapes Cluster,Millinar,Inner Rim,347.636,53.57,http://starwars.wikia.com/wiki/Millinar
+Hapes Cluster,Lalmy'ash,Inner Rim,347.805,52.667,http://starwars.wikia.com/wiki/Lalmy'ash
+Hapes Cluster,Archais,Inner Rim,348.242,51.976,http://starwars.wikia.com/wiki/Archais
+Hapes Cluster,Selab,Inner Rim,349.343,51.609,http://starwars.wikia.com/wiki/Selab
+Hapes Cluster,Jovaria,Inner Rim,350.811,51.355,http://starwars.wikia.com/wiki/Jovaria
+Hapes Cluster,Thrakia,Inner Rim,351.714,50.762,http://starwars.wikia.com/wiki/Thrakia
+Hapes Cluster,Lemmi,Inner Rim,351.742,51.778,http://starwars.wikia.com/wiki/Lemmi
+Hapes Cluster,Harterra,Inner Rim,349.893,52.06,http://starwars.wikia.com/wiki/Harterra
+Hapes Cluster,Ut,Inner Rim,350.387,52.625,http://starwars.wikia.com/wiki/Ut
+Hapes Cluster,Arabanth,Inner Rim,350.317,54.219,http://starwars.wikia.com/wiki/Arabanth
+Hapes Cluster,Carlania,Inner Rim,350.049,55.236,http://starwars.wikia.com/wiki/Carlania
+Hapes Cluster,Ediorung,Inner Rim,349.442,56.195,http://starwars.wikia.com/wiki/Ediorung
+Hapes Cluster,Tumani,Inner Rim,350.698,56.11,http://starwars.wikia.com/wiki/Tumani
+Hapes Cluster,Tinta,Inner Rim,351.657,55.687,http://starwars.wikia.com/wiki/Tinta
+Hapes Cluster,Rbollea,Inner Rim,352.165,55.264,http://starwars.wikia.com/wiki/Rbollea
+,Porus Vida,Inner Rim,385.484,37.137,http://starwars.wikia.com/wiki/Porus_Vida
+Hapes Cluster,,Inner Rim,342.048,48.158,
+Hapes Cluster,,Inner Rim,342.672,46.359,
+Hapes Cluster,,Inner Rim,343.191,45.283,
+Hapes Cluster,,Inner Rim,343.946,43.914,
+Hapes Cluster,,Inner Rim,344.08,45.763,
+Hapes Cluster,,Inner Rim,345.004,44.197,
+Hapes Cluster,,Inner Rim,345.731,43.181,
+Hapes Cluster,,Inner Rim,346.832,42.948,
+Hapes Cluster,,Inner Rim,348.267,42.617,
+Hapes Cluster,,Inner Rim,348.954,43.376,
+Hapes Cluster,,Inner Rim,350.198,44.707,
+Hapes Cluster,,Inner Rim,351.759,45.536,
+Hapes Cluster,,Inner Rim,353.029,46.065,
+Hapes Cluster,,Inner Rim,355.005,46.551,
+Hapes Cluster,,Inner Rim,356.326,48,
+Hapes Cluster,,Inner Rim,357.278,48.84,
+Hapes Cluster,,Inner Rim,358.534,50.322,
+Hapes Cluster,,Inner Rim,358.492,51.317,
+Hapes Cluster,,Inner Rim,359.76,53.102,
+Hapes Cluster,,Inner Rim,359.749,54.329,
+Hapes Cluster,,Inner Rim,359.231,54.858,
+Hapes Cluster,,Inner Rim,358.744,55.356,
+Hapes Cluster,,Inner Rim,357.897,55.896,
+Hapes Cluster,,Inner Rim,357.463,56.52,
+Hapes Cluster,,Inner Rim,357.167,57.663,
+Hapes Cluster,,Inner Rim,356.903,60.489,
+Hapes Cluster,,Inner Rim,357.675,60.319,
+Hapes Cluster,,Inner Rim,358.437,60.531,
+Hapes Cluster,,Inner Rim,359.103,60.878,
+Hapes Cluster,,Inner Rim,354.711,61.919,
+Hapes Cluster,,Inner Rim,352.171,62.995,
+Hapes Cluster,,Inner Rim,356.537,63.224,
+Hapes Cluster,,Inner Rim,355.39,63.083,
+Hapes Cluster,,Inner Rim,354.773,62.977,
+Hapes Cluster,,Inner Rim,353.944,63.215,
+Hapes Cluster,,Inner Rim,353.212,63.939,
+Hapes Cluster,,Inner Rim,352.409,64.088,
+Hapes Cluster,,Inner Rim,348.978,56.834,
+Hapes Cluster,,Inner Rim,349.481,60.239,
+Hapes Cluster,,Inner Rim,348.652,59.868,
+Hapes Cluster,,Inner Rim,345.054,56.665,
+Hapes Cluster,,Inner Rim,345.957,57.145,
+Hapes Cluster,,Inner Rim,346.126,59.65,
+Hapes Cluster,,Inner Rim,345.145,59.748,
+Hapes Cluster,,Inner Rim,344.193,59.805,
+Hapes Cluster,,Inner Rim,347.17,59.156,
+Hapes Cluster,,Inner Rim,345.928,58.937,
+Hapes Cluster,,Inner Rim,345.653,60.729,
+Hapes Cluster,,Inner Rim,342.577,59.36,
+Hapes Cluster,,Inner Rim,342.64,50.439,
+Hapes Cluster,,Inner Rim,340.905,50.523,
+Hapes Cluster,,Inner Rim,340.481,51.497,
+Hapes Cluster,,Inner Rim,342.492,52.735,
+Hapes Cluster,,Inner Rim,342.884,53.529,
+Hapes Cluster,,Inner Rim,342.069,54.471,
+Hapes Cluster,,Inner Rim,342.757,54.841,
+Hapes Cluster,,Inner Rim,341.307,58.143,
+Hapes Cluster,,Inner Rim,338.513,56.503,
+Hapes Cluster,,Inner Rim,336.893,56.027,
+Hapes Cluster,,Inner Rim,337.433,53.614,
+Hapes Cluster,,Inner Rim,341.411,59.782,
+Hapes Cluster,,Inner Rim,338.827,59.738,
+Hapes Cluster,,Inner Rim,338.58,60.646,
+Hapes Cluster,,Inner Rim,339.735,60.831,
+Hapes Cluster,,Inner Rim,340.017,59.897,
+Hapes Cluster,,Inner Rim,341.12,61.096,
+Hapes Cluster,,Inner Rim,335.567,45.399,
+Hapes Cluster,,Inner Rim,336.498,44.729,
+Hapes Cluster,,Inner Rim,337.162,43.614,
+Hapes Cluster,,Inner Rim,337.726,42.676,
+Hapes Cluster,,Inner Rim,338.58,42.083,
+Hapes Cluster,,Inner Rim,338.474,41.145,
+Hapes Cluster,,Inner Rim,337.373,41.85,
+Hapes Cluster,,Inner Rim,335.073,42.528,
+Hapes Cluster,,Inner Rim,334.255,43.106,
+Hapes Cluster,,Inner Rim,336.209,43.586,
+Hapes Cluster,,Inner Rim,347.279,41.194,
+Hapes Cluster,,Inner Rim,347.364,44.341,
+Hapes Cluster,,Inner Rim,348.182,45.329,
+Hapes Cluster,,Inner Rim,350.059,42.873,
+Hapes Cluster,,Inner Rim,350.13,43.748,
+Hapes Cluster,,Inner Rim,351.16,44.129,
+Hapes Cluster,,Inner Rim,355.224,43.48,
+Hapes Cluster,,Inner Rim,353.77,44.976,
+Hapes Cluster,,Inner Rim,355.591,48.419,
+Hapes Cluster,,Inner Rim,356.466,49.491,
+Hapes Cluster,,Inner Rim,357.693,47.897,
+Hapes Cluster,,Inner Rim,359.245,50.437,
+Hapes Cluster,,Inner Rim,357.309,52.127,
+Hapes Cluster,,Inner Rim,357.933,52.889,
+Hapes Cluster,,Inner Rim,357.732,55.079,
+Hapes Cluster,,Inner Rim,356.6,56.646,
+Hapes Cluster,,Inner Rim,356.303,57.09,
+Hapes Cluster,,Inner Rim,355.996,57.535,
+Hapes Cluster,,Inner Rim,355.044,60.339,
+Hapes Cluster,,Inner Rim,353.887,61.285,
+Hapes Cluster,,Inner Rim,335.302,49.84,
+Hapes Cluster,,Inner Rim,349.673,60.332,
+Hapes Cluster,,Inner Rim,346.46,51.081,
+Hapes Cluster,,Inner Rim,347.349,50.837,
+Airon,Ambria,Inner Rim,370.708,-14.22,http://starwars.wikia.com/wiki/Ambria
+Airon,Taboon,Inner Rim,368.951,-23.097,http://starwars.wikia.com/wiki/Taboon
+Airon,Ithull,Inner Rim,376.164,-24.392,http://starwars.wikia.com/wiki/Ithull
+Airon,Merson,Inner Rim,367.379,-36.505,http://starwars.wikia.com/wiki/Merson
+,Virujansi,Inner Rim,369.413,-52.503,http://starwars.wikia.com/wiki/Virujansi
+,Zeltros,Inner Rim,353.019,-69.569,http://starwars.wikia.com/wiki/Zeltros
+,Mattri,Inner Rim,347.933,-90.097,http://starwars.wikia.com/wiki/Mattri_system
+,Rasterous,Inner Rim,306.691,-90.745,http://starwars.wikia.com/wiki/Rasterous
+Inner Cluster,Cona,Inner Rim,326.942,-120.151,http://starwars.wikia.com/wiki/Cona
+,Manaan,Inner Rim,317.972,-144.193,http://starwars.wikia.com/wiki/Manaan
+,Truuine,Inner Rim,305.026,-186.175,http://starwars.wikia.com/wiki/Truuine
+Hutt Space,Tal Nami,Hutt Space,692.492,3.797,http://starwars.wikia.com/wiki/Tal_Nami
+Hutt Space,Alee,Hutt Space,684.377,27.873,http://starwars.wikia.com/wiki/Alee
+Hutt Space,Keldooine,Hutt Space,656.919,-84.046,http://starwars.wikia.com/wiki/Keldooine
+Hutt Space,Nar Bo Sholla,Hutt Space,685.92,-93.735,http://starwars.wikia.com/wiki/Nar_Bo_Sholla
+Hutt Space,Ilos,Hutt Space,677.863,-26.352,http://starwars.wikia.com/wiki/Ilos
+Hutt Space,Ilos Minor,Hutt Space,691.515,-30.562,http://starwars.wikia.com/wiki/Ilos_Minor
+Hutt Space,Kleeva,Hutt Space,687.331,-187.311,http://starwars.wikia.com/wiki/Kleeva
+Hutt Space,Toydaria,Hutt Space,671.357,-170.813,http://starwars.wikia.com/wiki/Toydaria
+Hutt Space,Tol Amn,Hutt Space,636.659,-160.469,http://starwars.wikia.com/wiki/Tol_Amn
+Hutt Space,Runaway Prince,Hutt Space,647.919,-139.389,http://starwars.wikia.com/wiki/Runaway_Prince
+Hutt Space,Jilrua,Hutt Space,651.261,-211.107,http://starwars.wikia.com/wiki/Jilrua
+Hutt Space,Ganath,Hutt Space,686.526,-219.661,http://starwars.wikia.com/wiki/Ganath
+Hutt Space,Ques,Hutt Space,775.797,103.063,http://starwars.wikia.com/wiki/Ques
+Hutt Space,Terman,Hutt Space,771.673,105.898,http://starwars.wikia.com/wiki/Terman
+Hutt Space,Cyborrea,Hutt Space,735.978,18.605,http://starwars.wikia.com/wiki/Cyborrea
+Hutt Space,Dirha,Hutt Space,755.201,76.915,http://starwars.wikia.com/wiki/Dirha
+Hutt Space,Kafane,Hutt Space,778.9,49.55,http://starwars.wikia.com/wiki/Kafane
+Hutt Space,Klatooine,Hutt Space,774.4,96.254,http://starwars.wikia.com/wiki/Klatooine
+Hutt Space,Nimia,Hutt Space,780.685,98,http://starwars.wikia.com/wiki/Nimia
+Hutt Space,Vontor,Hutt Space,775.541,96.157,http://starwars.wikia.com/wiki/Vontor
+Hutt Space,Nar Kreeta,Hutt Space,709.26,-35.558,http://starwars.wikia.com/wiki/Nar_Kreeta
+Hutt Space,Nimban,Hutt Space,723.207,-33.631,http://starwars.wikia.com/wiki/Nimban
+Hutt Space,Sionia,Hutt Space,731.614,-17.183,http://starwars.wikia.com/wiki/Sionia
+Hutt Space,Mulatan,Hutt Space,759.099,-84.105,http://starwars.wikia.com/wiki/Mulatan
+Hutt Space,Langoona,Hutt Space,780.311,-96.773,http://starwars.wikia.com/wiki/Langoona
+Hutt Space,Zisia,Hutt Space,797.703,-46.276,http://starwars.wikia.com/wiki/Zisia
+Hutt Space,Ulmatra,Hutt Space,796.197,-17.688,http://starwars.wikia.com/wiki/Ulmatra
+Hutt Space,Sleheyron,Hutt Space,769.783,-22.63,http://starwars.wikia.com/wiki/Sleheyron
+Hutt Space,Kor Nasirii,Hutt Space,741.377,-57.225,http://starwars.wikia.com/wiki/Kor_Nasirii
+Hutt Space,Kor Vosadii,Hutt Space,738.37,-69.965,http://starwars.wikia.com/wiki/Kor_Vosadii
+Hutt Space,Kor Besadii,Hutt Space,748.101,-71.115,http://starwars.wikia.com/wiki/Kor_Besadii
+Hutt Space,Kor Hestilic,Hutt Space,747.039,-80.758,http://starwars.wikia.com/wiki/Kor_Hestilic
+Hutt Space,Kor Nijiladii,Hutt Space,755.267,-74.034,http://starwars.wikia.com/wiki/Kor_Nijiladii
+Hutt Space,Nar Chunna,Hutt Space,748.543,-96.416,http://starwars.wikia.com/wiki/Nar_Chunna
+Hutt Space,Bootana Shagplan,Hutt Space,787.292,-96.77,http://starwars.wikia.com/wiki/Bootana_Shagplan
+Hutt Space,Du Hutta,Hutt Space,713.125,-171.861,http://starwars.wikia.com/wiki/Du_Hutta
+Hutt Space,Hosko,Hutt Space,743.633,-181.681,http://starwars.wikia.com/wiki/Hosko
+Hutt Space,Varl,Hutt Space,770.065,-155.661,http://starwars.wikia.com/wiki/Varl
+Hutt Space,Sakiya,Hutt Space,772.553,-128.819,http://starwars.wikia.com/wiki/Sakiya
+Hutt Space,Gos Hutta,Hutt Space,758.543,-117.428,http://starwars.wikia.com/wiki/Gos_Hutta
+Hutt Space,Da Soocha,Hutt Space,789.312,-142.305,http://starwars.wikia.com/wiki/Da_Soocha
+Hutt Space,Irith,Hutt Space,704.541,-129.903,http://starwars.wikia.com/wiki/Irith
+Hutt Space,Kor Utoradii,Hutt Space,739.077,-111.456,http://starwars.wikia.com/wiki/Kor_Utoradii
+Hutt Space,Kor Hunamma,Hutt Space,745.093,-125.611,http://starwars.wikia.com/wiki/Kor_Hunamma
+Hutt Space,Kor Usilic,Hutt Space,751.463,-112.694,http://starwars.wikia.com/wiki/Kor_Usilic
+Hutt Space,Pybus,Hutt Space,749.516,-137.908,http://starwars.wikia.com/wiki/Pybus
+Hutt Space,Kor Oktanivii,Hutt Space,752.524,-125.257,http://starwars.wikia.com/wiki/Kor_Oktanivii
+Hutt Space,Kor Desilijic,Hutt Space,765.529,-109.687,http://starwars.wikia.com/wiki/Kor_Desilijic
+Hutt Space,Huloon,Hutt Space,770.395,-105.263,http://starwars.wikia.com/wiki/Huloon
+Hutt Space,Kor Anjiliac,Hutt Space,776.676,-101.901,http://starwars.wikia.com/wiki/Kor_Anjiliac
+Hutt Space,Groth,Hutt Space,771.545,-118.091,http://starwars.wikia.com/wiki/Groth
+Hutt Space,Kor Jiramma,Hutt Space,777.914,-113.048,http://starwars.wikia.com/wiki/Kor_Jiramma
+Hutt Space,Kor Gejalli,Hutt Space,777.914,-122.957,http://starwars.wikia.com/wiki/Kor_Gejalli
+Hutt Space,Kor Trinivii,Hutt Space,786.761,-117.029,http://starwars.wikia.com/wiki/Kor_Trinivii
+Hutt Space,Sakidopa,Hutt Space,779.772,-134.634,http://starwars.wikia.com/wiki/Sakidopa
+Hutt Space,Sakiduba,Hutt Space,774.199,-138.704,http://starwars.wikia.com/wiki/Sakiduba
+Hutt Space,Nal Hutta & Nar Shaddaa,Hutt Space,703.988,-205.807,http://starwars.wikia.com/wiki/Nal_Hutta
+Hutt Space,Circumtore,Hutt Space,708.697,-244.452,http://starwars.wikia.com/wiki/Circumtore
+Hutt Space,Carnovia,Hutt Space,708.523,-291.239,http://starwars.wikia.com/wiki/Carnovia
+Hutt Space,Affavan,Hutt Space,734.011,-259.116,http://starwars.wikia.com/wiki/Affavan
+Hutt Space,Hollastin,Hutt Space,759.325,-269.766,http://starwars.wikia.com/wiki/Hollastin
+Hutt Space,Aylayl,Hutt Space,788.951,-289.467,http://starwars.wikia.com/wiki/Aylayl
+Hutt Space,Rorak,Hutt Space,736.976,-228.396,http://starwars.wikia.com/wiki/Rorak_4
+Hutt Space,Diyu,Hutt Space,785.625,-217.689,http://starwars.wikia.com/wiki/Diyu
+Hutt Space,Nar Kaaga,Hutt Space,704.507,-331.043,http://starwars.wikia.com/wiki/Nar_Kaaga
+Hutt Space,Xolu,Hutt Space,753.913,-327.377,http://starwars.wikia.com/wiki/Xolu
+Hutt Space,Far Pando,Hutt Space,764.039,-368.403,http://starwars.wikia.com/wiki/Far_Pando
+Hutt Space,Near Pando,Hutt Space,779.45,-411.86,http://starwars.wikia.com/wiki/Near_Pando
+Hutt Space,Elgit,Hutt Space,805.45,-77.427,http://starwars.wikia.com/wiki/Elgit
+Hutt Space,Usk,Hutt Space,830.197,-85.382,http://starwars.wikia.com/wiki/Usk
+Hutt Space,Moralan,Hutt Space,833.143,-69.277,http://starwars.wikia.com/wiki/Moralan
+Hutt Space,Tisht,Hutt Space,849.416,-177.31,http://starwars.wikia.com/wiki/Tisht
+Hutt Space,Nar Haaska,Hutt Space,881.015,-149.028,http://starwars.wikia.com/wiki/Nar_Haaska
+Hutt Space,Saqqar,Hutt Space,850.463,-136.109,http://starwars.wikia.com/wiki/Saqqar
+Hutt Space,M'Hanna,Hutt Space,815.024,-162.994,http://starwars.wikia.com/wiki/M%27Hanna
+Hutt Space,The Godsheart,Hutt Space,830.037,-132.618,http://starwars.wikia.com/wiki/The_Godsheart
+Hutt Space,Sakifwanna,Hutt Space,803.388,-118.083,http://starwars.wikia.com/wiki/Sakifwanna
+Hutt Space,Ylesia,Hutt Space,845.229,-213.964,http://starwars.wikia.com/wiki/Ylesia
+Hutt Space,Riileb,Hutt Space,831.548,-251.234,http://starwars.wikia.com/wiki/Riileb
+Hutt Space,Poytta,Hutt Space,855.999,-209.905,http://starwars.wikia.com/wiki/Poytta
+Hutt Space,Ziugen,Hutt Space,875.384,-217.288,http://starwars.wikia.com/wiki/Ziugen
+Hutt Space,Outland Transit,Hutt Space,896.072,-215.586,http://starwars.wikia.com/wiki/Outland_Transit
+Hutt Space,Tsyk,Hutt Space,806.583,-310.067,http://starwars.wikia.com/wiki/Tsyk
+Semagi,Cerea,Mid Rim,-242.428,-664.301,http://starwars.wikia.com/wiki/Cerea
+Semagi,Cheelit,Mid Rim,-228.45,-678.913,http://starwars.wikia.com/wiki/Cheelit
+Marzoon,Marzoon,Mid Rim,-268.794,-634.123,http://starwars.wikia.com/wiki/Marzoon
+Graador,Bastooine,Mid Rim,-224.638,-737.205,http://starwars.wikia.com/wiki/Bastooine
+Corbett,Corbett CLuster,Mid Rim,-238.457,-711.315,http://starwars.wikia.com/wiki/Corbett_Cluster
+Narrant,Koba,Mid Rim,-195.572,-690.191,http://starwars.wikia.com/wiki/Koba
+Narrant,Riflor,Mid Rim,-183.183,-698.291,http://starwars.wikia.com/wiki/Riflor
+Tashtor,Chalcedon,Mid Rim,-211.455,-638.729,http://starwars.wikia.com/wiki/Chalcedon
+Tashtor,Tashtor Seneca,Mid Rim,-196.366,-633.487,http://starwars.wikia.com/wiki/Tashtor_Seneca
+Aldino,Iast,Mid Rim,-155.388,-778.184,http://starwars.wikia.com/wiki/Iast
+Halm,Halm,Mid Rim,-170.953,-630.152,http://starwars.wikia.com/wiki/Halm
+Halm,Petabys Station,Mid Rim,-186.519,-631.264,http://starwars.wikia.com/wiki/Petabys_Station
+Yushan,Kaal,Mid Rim,-73.217,-742.332,http://starwars.wikia.com/wiki/Kaal
+Yushan,Abraxas,Mid Rim,-46.374,-750.115,http://starwars.wikia.com/wiki/Abraxas
+Yushan,Dalisor,Mid Rim,-76.076,-761.074,http://starwars.wikia.com/wiki/Dalisor
+Yushan,Rrulinn,Mid Rim,-88.147,-768.857,http://starwars.wikia.com/wiki/Rrulinn
+Yushan,Jiroch,Mid Rim,-73.058,-780.928,http://starwars.wikia.com/wiki/Jiroch
+Bruanii,Quamar,Mid Rim,-72.899,-796.494,http://starwars.wikia.com/wiki/Quamar
+Bruanii,Mugaar,Mid Rim,-81.511,-809.884,http://starwars.wikia.com/wiki/Mugaar
+Bruanii,Cargamalis,Mid Rim,-79.85,-808.016,http://starwars.wikia.com/wiki/Cargamalis
+Gendius,Lorta,Mid Rim,-106.149,-777.866,http://starwars.wikia.com/wiki/Lorta
+Gendius,Quaensan Prime,Mid Rim,-103.29,-760.394,http://starwars.wikia.com/wiki/Quaensan_Prime
+Elbaran,Porchello,Mid Rim,-147.128,-765.954,http://starwars.wikia.com/wiki/Porchello
+Elbaran,Elbara,Mid Rim,-120.127,-732.758,http://starwars.wikia.com/wiki/Elbara
+Elbaran,Hirsi,Mid Rim,-127.115,-727.357,http://starwars.wikia.com/wiki/Hirsi
+Sombure,Barcaria,Mid Rim,-85.501,-669.383,http://starwars.wikia.com/wiki/Barcaria
+Sombure,Balis-Baurgh,Mid Rim,-83.754,-677.643,http://starwars.wikia.com/wiki/Balis-Baurgh
+Sombure,Ichtor,Mid Rim,-95.349,-689.396,http://starwars.wikia.com/wiki/Ichtor
+Sombure,D'rinba,Mid Rim,-72.422,-705.96,http://starwars.wikia.com/wiki/D'rinba
+Sombure,Chibias,Mid Rim,-67.34,-717.554,http://starwars.wikia.com/wiki/Chibias
+Irnaj,Miztoc,Mid Rim,-14.607,-729.626,http://starwars.wikia.com/wiki/Miztoc
+Wornal,Bomis Koori,Mid Rim,-60.351,-687.535,http://starwars.wikia.com/wiki/Bomis_Koori
+Wornal,Kriselist,Mid Rim,-62.257,-697.859,http://starwars.wikia.com/wiki/Kriselist
+Spirva,Naalol,Mid Rim,20.653,-707.707,http://starwars.wikia.com/wiki/Naalol
+Spirva,Cyphar,Mid Rim,9.059,-744.715,http://starwars.wikia.com/wiki/Cyphar
+D'Aelgoth,Feenix,Mid Rim,-3.013,-738.838,http://starwars.wikia.com/wiki/Feenix
+D'Aelgoth,Ogem,Mid Rim,8.252,-772.356,http://starwars.wikia.com/wiki/Ogem
+D'Aelgoth,Tarsa,Mid Rim,1.144,-775.802,http://starwars.wikia.com/wiki/Tarsa
+D'Aelgoth,Selenius,Mid Rim,11.154,-777.433,http://starwars.wikia.com/wiki/Selenius
+D'Aelgoth,New Cylimba,Mid Rim,32.025,-776.875,http://starwars.wikia.com/wiki/New_Cylimba
+Agarix,Dasoor,Mid Rim,-5.954,-814.104,http://starwars.wikia.com/wiki/Dasoor
+Senex,Mussubir,Mid Rim,19.841,-780.843,http://starwars.wikia.com/wiki/Mussubir
+Senex,Skartis,Mid Rim,24.586,-784.098,http://starwars.wikia.com/wiki/Skartis
+Senex,Cyimarra,Mid Rim,26.086,-780.821,http://starwars.wikia.com/wiki/Cyimarra
+Senex,Veron,Mid Rim,31.443,-782.325,http://starwars.wikia.com/wiki/Veron
+Senex,Presteen,Mid Rim,31.717,-785.756,http://starwars.wikia.com/wiki/Presteen
+Senex,Paramatan,Mid Rim,26.146,-788.416,http://starwars.wikia.com/wiki/Paramatan
+Senex,Nantama,Mid Rim,25.065,-792.23,http://starwars.wikia.com/wiki/Nantama
+Senex,Rulaar,Mid Rim,28.13,-790.973,http://starwars.wikia.com/wiki/Rulaar
+Senex,Aquella,Mid Rim,29.651,-793.95,http://starwars.wikia.com/wiki/Aquella
+Senex,Caltinia,Mid Rim,33.157,-791.326,http://starwars.wikia.com/wiki/Caltinia
+Senex,Adoris,Mid Rim,36.729,-792.693,http://starwars.wikia.com/wiki/Adoris
+Senex,Knores,Mid Rim,42.77,-791.833,http://starwars.wikia.com/wiki/Knores
+Senex,Nepoy,Mid Rim,35.5,-795.852,http://starwars.wikia.com/wiki/Nepoy
+Senex,Nars,Mid Rim,40.496,-796.778,http://starwars.wikia.com/wiki/Nars
+Senex,Neelanon,Mid Rim,44.706,-796.461,http://starwars.wikia.com/wiki/Neelanon
+Senex,Senex,Mid Rim,44.686,-790.851,http://starwars.wikia.com/wiki/Senex
+Senex,Crovna,Mid Rim,47.486,-798.112,http://starwars.wikia.com/wiki/Crovna
+Senex,Asmeru,Mid Rim,48.853,-797.706,http://starwars.wikia.com/wiki/Asmeru
+Senex,Asmeru Anomaly,Mid Rim,48.825,-797.803,http://starwars.wikia.com/wiki/Asmeru_Anomaly
+Senex,Karfeddion,Mid Rim,38.44,-805.829,http://starwars.wikia.com/wiki/Karfeddion
+Senex,Hutlar,Mid Rim,37.811,-800.504,http://starwars.wikia.com/wiki/Hutlar
+Senex,Fengrine,Mid Rim,42.485,-802.16,http://starwars.wikia.com/wiki/Fengrine
+Senex,Angratha,Mid Rim,48.438,-802.187,http://starwars.wikia.com/wiki/Angratha
+Senex,Hestria,Mid Rim,48.174,-806.367,http://starwars.wikia.com/wiki/Hestria
+Senex,Kedorzha,Mid Rim,49.629,-810.6,http://starwars.wikia.com/wiki/Kedorzha
+Senex,Simoom,Mid Rim,45.898,-808.563,http://starwars.wikia.com/wiki/Simoom
+Senex,Hovan,Mid Rim,43.464,-811.923,http://starwars.wikia.com/wiki/Hovan
+Senex,Serat,Mid Rim,41.559,-810.362,http://starwars.wikia.com/wiki/Serat
+Senex,Yetoom,Mid Rim,31.677,-815.769,http://starwars.wikia.com/wiki/Yetoom
+Senex,Tekurr'k,Mid Rim,34.852,-811.469,http://starwars.wikia.com/wiki/Tekurr'k
+Senex,Port Evokk,Mid Rim,36.329,-809.494,http://starwars.wikia.com/wiki/Port_Evokk
+Senex,Antiquity,Mid Rim,32.956,-810.786,http://starwars.wikia.com/wiki/Antiquity
+Senex,Atron,Mid Rim,37.414,-807.743,http://starwars.wikia.com/wiki/Atron
+Senex,Jalarren,Mid Rim,34.04,-807.694,http://starwars.wikia.com/wiki/Jalarren
+Senex,Boro-borosa,Mid Rim,38.732,-811.293,http://starwars.wikia.com/wiki/Boro-borosa
+Senex,Shoon,Mid Rim,29.472,-810.212,http://starwars.wikia.com/wiki/Shoon
+Senex,Osmani,Mid Rim,28.127,-810.19,http://starwars.wikia.com/wiki/Osmani
+Senex,Kamur,Mid Rim,25.322,-813.308,http://starwars.wikia.com/wiki/Kamur
+Senex,Voorsbain,Mid Rim,34.856,-805.406,http://starwars.wikia.com/wiki/Voorsbain
+Senex,Varadan,Mid Rim,25.12,-811.033,http://starwars.wikia.com/wiki/Varadan
+Senex,Suliana,Mid Rim,30.451,-807.192,http://starwars.wikia.com/wiki/Suliana
+Senex,Tranthellix,Mid Rim,26.046,-809.225,http://starwars.wikia.com/wiki/Tranthellix
+Senex,Usnia,Mid Rim,24.699,-807.508,http://starwars.wikia.com/wiki/Usnia
+Senex,Doreen,Mid Rim,24.436,-805.542,http://starwars.wikia.com/wiki/Doreen
+Senex,Bator Bai,Mid Rim,26.641,-804.841,http://starwars.wikia.com/wiki/Bator_Bai
+Senex,Kalgo,Mid Rim,25.305,-802.257,http://starwars.wikia.com/wiki/Kalgo
+Senex,Denebia,Mid Rim,30.614,-803.245,http://starwars.wikia.com/wiki/Denebia
+Senex,Anturus,Mid Rim,36.047,-804.374,http://starwars.wikia.com/wiki/Anturus
+Juvex,Umthyg,Mid Rim,-1.417,-813.927,http://starwars.wikia.com/wiki/Umthyg
+Juvex,Arporatal-Lanin,Mid Rim,-1.836,-811.103,http://starwars.wikia.com/wiki/Arporatal-Lanin
+Juvex,Farstone,Mid Rim,-923,-816.039,http://starwars.wikia.com/wiki/Farstone
+Juvex,Thull's Vault,Mid Rim,-999,-808.087,http://starwars.wikia.com/wiki/Thull's_Vault
+Juvex,Talhovi,Mid Rim,-712,-806.036,http://starwars.wikia.com/wiki/Talhovi
+Juvex,Little Talhovi,Mid Rim,-791,-801.962,http://starwars.wikia.com/wiki/Little_Talhovi
+Juvex,Valorsi,Mid Rim,3.594,-797.103,http://starwars.wikia.com/wiki/Valorsi
+Juvex,Carsanza,Mid Rim,6.002,-798.565,http://starwars.wikia.com/wiki/Carsanza
+Juvex,Malador,Mid Rim,10.177,-798.612,http://starwars.wikia.com/wiki/Malador
+Juvex,Yhifar,Mid Rim,7.272,-788.76,http://starwars.wikia.com/wiki/Yhifar
+Juvex,Kardura,Mid Rim,4.856,-789.986,http://starwars.wikia.com/wiki/Kardura
+Juvex,Dioll,Mid Rim,4.053,-792.491,http://starwars.wikia.com/wiki/Dioll
+Juvex,Thermon,Mid Rim,5.623,-793.32,http://starwars.wikia.com/wiki/Thermon
+Juvex,Ossiathora,Mid Rim,14.372,-789.466,http://starwars.wikia.com/wiki/Ossiathora
+Juvex,Zaria,Mid Rim,13.375,-795.128,http://starwars.wikia.com/wiki/Zaria
+Juvex,Anstares,Mid Rim,15.51,-793.84,http://starwars.wikia.com/wiki/Anstares
+Juvex,Kassido,Mid Rim,11.735,-787.799,http://starwars.wikia.com/wiki/Kassido
+Juvex,Deminol,Mid Rim,17.512,-791.777,http://starwars.wikia.com/wiki/Deminol
+Juvex,Manforgon,Mid Rim,15.412,-785.151,http://starwars.wikia.com/wiki/Manforgon
+Juvex,Velga,Mid Rim,10.438,-812.689,http://starwars.wikia.com/wiki/Velga
+Juvex,Dramassia,Mid Rim,4.327,-813.574,http://starwars.wikia.com/wiki/Dramassia
+Juvex,Q'mara,Mid Rim,9.984,-815.633,http://starwars.wikia.com/wiki/Q'mara
+Juvex,Pieldi,Mid Rim,6.666,-811.382,http://starwars.wikia.com/wiki/Pieldi
+Juvex,K'ath,Mid Rim,1.609,-808.652,http://starwars.wikia.com/wiki/K'ath
+Juvex,Pirralor,Mid Rim,5.887,-807.093,http://starwars.wikia.com/wiki/Pirralor
+Juvex,Zyluria,Mid Rim,4.231,-800.47,http://starwars.wikia.com/wiki/Zyluria
+Juvex,Resti Kel,Mid Rim,8.496,-801.836,http://starwars.wikia.com/wiki/Resti_Kel
+Juvex,Tyluun,Mid Rim,12.226,-804.083,http://starwars.wikia.com/wiki/Tyluun
+Juvex,Loovria,Mid Rim,16.15,-809.463,http://starwars.wikia.com/wiki/Loovria
+Juvex,Vulcar,Mid Rim,14.695,-804.48,http://starwars.wikia.com/wiki/Vulcar
+Juvex,Tinallis,Mid Rim,17.941,-806.676,http://starwars.wikia.com/wiki/Tinallis
+Juvex,Kimm Cresh,Mid Rim,19.03,-804.661,http://starwars.wikia.com/wiki/Kimm_Cresh
+Juvex,Kimm Besh,Mid Rim,19.572,-804.202,http://starwars.wikia.com/wiki/Kimm_Besh
+Juvex,Kimm Aurek,Mid Rim,20.048,-803.664,http://starwars.wikia.com/wiki/Kimm_Aurek
+Juvex,Juvex,Mid Rim,23.025,-802.376,http://starwars.wikia.com/wiki/Juvex
+Ado,Eiattu,Mid Rim,88.728,-753.928,http://starwars.wikia.com/wiki/Eiattu
+Ado,Medth,Mid Rim,149.878,-728.038,http://starwars.wikia.com/wiki/Medth
+Ado,Indupar,Mid Rim,142.254,-729.626,http://starwars.wikia.com/wiki/Indupar
+Ado,Tshindral,Mid Rim,152.102,-745.192,http://starwars.wikia.com/wiki/Tshindral
+Ado,StarForge Nebula,Mid Rim,106.199,-745.668,http://starwars.wikia.com/wiki/StarForge_Nebula
+Hadar,Echnos,Mid Rim,93.997,-787.011,http://starwars.wikia.com/wiki/Echnos
+Hadar,Rindao,Mid Rim,45.66,-787.05,http://starwars.wikia.com/wiki/Rindao
+Hadar,Parada,Mid Rim,47.353,-782.923,http://starwars.wikia.com/wiki/Parada
+Hadar,Tibrin,Mid Rim,71.583,-801.534,http://starwars.wikia.com/wiki/Tibrin
+Var Hagen,Opiteihr,Mid Rim,185.457,-651.64,http://starwars.wikia.com/wiki/Opiteihr
+Var Hagen,Vogel,Mid Rim,167.191,-675.623,http://starwars.wikia.com/wiki/Vogel
+Var Hagen,Alakatha,Mid Rim,139.395,-659.263,http://starwars.wikia.com/wiki/Alakatha
+Var Hagen,Lanthe,Mid Rim,142.89,-675.623,http://starwars.wikia.com/wiki/Lanthe
+Var Hagen,Vondarc,Mid Rim,146.702,-692.936,http://starwars.wikia.com/wiki/Vondarc
+Dustig,Chryya,Mid Rim,197.21,-729.944,http://starwars.wikia.com/wiki/Chryya
+Dustig,Haruun Kal,Mid Rim,179.58,-707.231,http://starwars.wikia.com/wiki/Haruun_Kal
+Dustig,Kath,Mid Rim,171.956,-707.231,http://starwars.wikia.com/wiki/Kath
+Dustig,Demos,Mid Rim,222.147,-653.228,http://starwars.wikia.com/wiki/Demos
+Dustig,ZeHeth,Mid Rim,212.299,-668.158,http://starwars.wikia.com/wiki/ZeHeth
+Dustig,Malastare,Mid Rim,208.329,-683.565,http://starwars.wikia.com/wiki/Malastare
+Dustig,Nuvar,Mid Rim,217.859,-711.837,http://starwars.wikia.com/wiki/Nuvar
+Tyus,Nuralee,Mid Rim,244.066,-631.15,http://starwars.wikia.com/wiki/Nuralee
+Tyus,Tyus Cluster,Mid Rim,208.646,-639.251,http://starwars.wikia.com/wiki/Tyus_Cluster
+Mulgard,Umgul,Mid Rim,259.949,-671.494,http://starwars.wikia.com/wiki/Umgul
+Quess,Trevi,Mid Rim,266.144,-722.32,http://starwars.wikia.com/wiki/Trevi
+Quess,Old Mankoo,Mid Rim,244.225,-702.784,http://starwars.wikia.com/wiki/Old_Mankoo
+Chommel,Karlinus,Mid Rim,322.053,-692.936,http://starwars.wikia.com/wiki/Karlinus
+Chommel,Naboo,Mid Rim,334.442,-707.231,http://starwars.wikia.com/wiki/Naboo
+Alui,Enarc,Mid Rim,340.795,-716.125,http://starwars.wikia.com/wiki/Enarc
+Alui,Alui,Mid Rim,308.393,-727.403,http://starwars.wikia.com/wiki/Alui
+Churnis,Ansion,Mid Rim,-206.649,300.047,http://starwars.wikia.com/wiki/Ansion
+Churnis,Namadii,Mid Rim,-207.602,314.183,http://starwars.wikia.com/wiki/Namadii
+Churnis,Gilatter,Mid Rim,-219.673,288.77,http://starwars.wikia.com/wiki/Gilatter
+Churnis,Rustibar,Mid Rim,-183.142,288.453,http://starwars.wikia.com/wiki/Rustibar
+Churnis,Kalaan,Mid Rim,-197.596,272.569,http://starwars.wikia.com/wiki/Kalaan
+Rago,Rago,Mid Rim,-256.681,254.145,http://starwars.wikia.com/wiki/Rago
+Rago,Sinton,Mid Rim,-235.398,275.587,http://starwars.wikia.com/wiki/Sinton
+Outer Jalor,Kril'Dor,Mid Rim,-239.527,250.492,http://starwars.wikia.com/wiki/Kril%27Dor
+Belshar,Ord Varee,Mid Rim,-193.307,263.357,http://starwars.wikia.com/wiki/Ord_Varee
+Jalor,Glee Anselm,Mid Rim,-180.283,239.215,http://starwars.wikia.com/wiki/Glee_Anselm
+Jalor,Vaced,Mid Rim,-164.558,221.108,http://starwars.wikia.com/wiki/Vaced
+Barsa,Uba,Mid Rim,-108.783,337.755,http://starwars.wikia.com/wiki/Uba
+Ariarch,Dalron,Mid Rim,-154.646,331.799,http://starwars.wikia.com/wiki/Dalron
+Ariarch,Keitum,Mid Rim,-163.581,319.291,http://starwars.wikia.com/wiki/Keitum
+Clythe,Iridonia,Mid Rim,-115.454,293.56,http://starwars.wikia.com/wiki/Iridonia
+Clythe,Valrar,Mid Rim,-118.79,273.547,http://starwars.wikia.com/wiki/Valrar
+Clythe,Fornax,Mid Rim,-100.207,263.422,http://starwars.wikia.com/wiki/Fornax
+Clythe,Vortex,Mid Rim,-91.505,221.147,http://starwars.wikia.com/wiki/Vortex
+Clythe,Nentan,Mid Rim,-69.711,232.211,http://starwars.wikia.com/wiki/Nentan
+Vorc,Vicondor,Mid Rim,-124.339,207.746,http://starwars.wikia.com/wiki/Vicondor
+Kesh,Ebra,Mid Rim,68.473,332.633,http://starwars.wikia.com/wiki/Ebra
+Vorc,Station 88,Mid Rim,-119.783,209.488,http://starwars.wikia.com/wiki/Station_88
+Corthenia,Baltizaar,Mid Rim,-62.087,277.24,http://starwars.wikia.com/wiki/Baltizaar
+Irishi,Orinda,Mid Rim,-26.23,349.31,http://starwars.wikia.com/wiki/Orinda
+Irishi,Obredaan,Mid Rim,-13.008,320.959,http://starwars.wikia.com/wiki/Obredaan
+Irishi,Gonmore,Mid Rim,-11.459,314.169,http://starwars.wikia.com/wiki/Gonmore
+Irishi,Ord Tessebok,Mid Rim,-9.196,308.212,http://starwars.wikia.com/wiki/Ord_Tessebok
+Dohu,Dohu,Mid Rim,-24.563,243.885,http://starwars.wikia.com/wiki/Dohu
+Druess,Ank Kit'aar,Mid Rim,347.466,-589.854,http://starwars.wikia.com/wiki/Ank_Kit%27aar
+Druess,Sedesia,Mid Rim,332.694,-608.119,http://starwars.wikia.com/wiki/Sedesia
+Ryndellian,Kaliida Shoals,Mid Rim,385.268,-731.691,http://starwars.wikia.com/wiki/Kaliida_Shoals
+Ryndellian,Ryndellia,Mid Rim,377.009,-706.119,http://starwars.wikia.com/wiki/Ryndellia
+Ryndellian,Farstine,Mid Rim,408.457,-708.184,http://starwars.wikia.com/wiki/Farstine
+Ryndellian,Ninzan,Mid Rim,412.587,-723.114,http://starwars.wikia.com/wiki/Ninzan
+Lambda,Andosha,Mid Rim,494.703,-595.572,http://starwars.wikia.com/wiki/Andosha
+Lambda,Argus,Mid Rim,481.997,-615.743,http://starwars.wikia.com/wiki/Argus
+Lambda,Zolan,Mid Rim,471.037,-627.815,http://starwars.wikia.com/wiki/Zolan
+Lambda,Rintonne,Mid Rim,455.313,-637.186,http://starwars.wikia.com/wiki/Rintonne
+Lambda,Ando,Mid Rim,525.835,-597.637,http://starwars.wikia.com/wiki/Ando
+Lambda,Mon Gazza,Mid Rim,516.146,-614.473,http://starwars.wikia.com/wiki/Mon_Gazza
+Hevvrol,Triffis,Mid Rim,383.521,-556.817,http://starwars.wikia.com/wiki/Triffis
+Hevvrol,Bannistar Station,Mid Rim,383.997,-572.7,http://starwars.wikia.com/wiki/Bannistar_Station
+Hevvrol,Kalarba,Mid Rim,404.01,-516.95,http://starwars.wikia.com/wiki/Kalarba
+Corweillian,Kabray,Mid Rim,469.29,-567.3,http://starwars.wikia.com/wiki/Kabray
+Corweillian,Algara,Mid Rim,482.156,-579.688,http://starwars.wikia.com/wiki/Algara
+Xan,Thape,Mid Rim,530.917,-580.006,http://starwars.wikia.com/wiki/Thape
+Haserian,Haseria,Mid Rim,491.844,-518.856,http://starwars.wikia.com/wiki/Haseria
+Haserian,Monastery,Mid Rim,510.587,-496.301,http://starwars.wikia.com/wiki/Monastery
+Churba,Lelmra,Mid Rim,444.83,-484.389,http://starwars.wikia.com/wiki/Lelmra
+Churba,New Cov,Mid Rim,404.328,-495.984,http://starwars.wikia.com/wiki/New_Cov
+Sloo,Lorahns,Mid Rim,452.454,-424.986,http://starwars.wikia.com/wiki/Lorahns
+Sloo,Sanza,Mid Rim,441.971,-452.623,http://starwars.wikia.com/wiki/Sanza
+Trans'Vulta,Null,Mid Rim,225.241,268.663,http://starwars.wikia.com/wiki/Null
+Trans'Vulta,Skorrupon,Mid Rim,225.837,252.343,http://starwars.wikia.com/wiki/Skorrupon
+Trans'Vulta,Vulta,Mid Rim,253.116,253.058,http://starwars.wikia.com/wiki/Vulta
+Trans'Vulta,Geris,Mid Rim,317.443,234.474,http://starwars.wikia.com/wiki/Geris
+Trans'Vulta,Surcaris,Mid Rim,324.591,223.158,http://starwars.wikia.com/wiki/Surcaris
+Strabin,Djurmo,Mid Rim,169.491,282.362,http://starwars.wikia.com/wiki/Djurmo
+Strabin,Lavisar,Mid Rim,196.651,291.058,http://starwars.wikia.com/wiki/Lavisar
+Droma,Lonnaw,Mid Rim,-20.036,335.73,http://starwars.wikia.com/wiki/Lonnaw
+Kesh,Entuur,Mid Rim,64.781,327.272,http://starwars.wikia.com/wiki/Entuur
+Ottega,Ithor,Mid Rim,110.882,321.673,http://starwars.wikia.com/wiki/Ithor
+Hewett,Hewett,Mid Rim,153.766,308.808,http://starwars.wikia.com/wiki/Hewett
+M'shinni,Ylix,Mid Rim,101.947,268.187,http://starwars.wikia.com/wiki/Ylix
+M'shinni,Genassa,Mid Rim,111.835,295.943,http://starwars.wikia.com/wiki/Genassa
+Urce,Urce,Mid Rim,73.834,309.761,http://starwars.wikia.com/wiki/Urce
+Qiilura,Yout,Mid Rim,811,277.597,http://starwars.wikia.com/wiki/Yout
+Bright Jewel,Qiilura,Mid Rim,1.287,253.773,http://starwars.wikia.com/wiki/Qiilura
+Bright Jewel,Jarnollen,Mid Rim,3.789,239.478,http://starwars.wikia.com/wiki/Jarnollen
+Bright Jewel,Anobis,Mid Rim,17.488,241.86,http://starwars.wikia.com/wiki/Anobis
+Bright Jewel,Ord Mantell,Mid Rim,4.742,254.964,http://starwars.wikia.com/wiki/Ord_Mantell
+Kordu,Korvaii,Mid Rim,42.862,271.403,http://starwars.wikia.com/wiki/Korvaii
+Shiwal,Walinor,Mid Rim,113.979,221.252,http://starwars.wikia.com/wiki/Walinor
+Homon,Triewahl,Mid Rim,163.892,241.979,http://starwars.wikia.com/wiki/Triewahl
+Onatos,Somov Rit,Mid Rim,629.076,-534.739,http://starwars.wikia.com/wiki/Somov_Rit
+Onatos,Lahsbane,Mid Rim,636.7,-548.557,http://starwars.wikia.com/wiki/Lahsbane
+Onatos,Grakouine,Mid Rim,642.576,-587.63,http://starwars.wikia.com/wiki/Grakouine
+Yucrales,Leritor,Mid Rim,578.249,-533.945,http://starwars.wikia.com/wiki/Leritor
+Manda,Thoran,Mid Rim,632.411,-465.329,http://starwars.wikia.com/wiki/Thoran
+Manda,Zygia,Mid Rim,650.2,-473.271,http://starwars.wikia.com/wiki/Zygia
+Manda,Holess,Mid Rim,666.242,-485.183,http://starwars.wikia.com/wiki/Holess
+Manda,Boranda,Mid Rim,670.531,-491.219,http://starwars.wikia.com/wiki/Boranda
+Manda,Manda,Mid Rim,682.126,-504.243,http://starwars.wikia.com/wiki/Manda
+Manda,Dennaskar,Mid Rim,699.597,-507.42,http://starwars.wikia.com/wiki/Dennaskar
+Bothan Space,Tarsunt,Mid Rim,605.727,-416.885,http://starwars.wikia.com/wiki/Tarsunt_system
+Bothan Space,Mandell,Mid Rim,619.705,-407.832,http://starwars.wikia.com/wiki/Mandell
+Bothan Space,Moonus,Mid Rim,620.816,-404.655,http://starwars.wikia.com/wiki/Moonus
+Bothan Space,Bothawui,Mid Rim,622.213,-433.998,http://starwars.wikia.com/wiki/Bothawui
+Bothan Space,Krant,Mid Rim,636.382,-446.905,http://starwars.wikia.com/wiki/Krant
+Bothan Space,Kothlis,Mid Rim,624.311,-458.658,http://starwars.wikia.com/wiki/Kothlis
+Hertae,Nexus Ortai,Mid Rim,547.912,-454.37,http://starwars.wikia.com/wiki/Nexus_Ortai
+Hertae,Masterra,Mid Rim,537.429,-462.947,http://starwars.wikia.com/wiki/Masterra
+Fel Hu,Hoylin,Mid Rim,492.003,-371.777,http://starwars.wikia.com/wiki/Hoylin
+Fel Hu,Aikhibba,Mid Rim,471.355,-394.331,http://starwars.wikia.com/wiki/Aikhibba
+Fel Hu,Beris,Mid Rim,501.374,-363.518,http://starwars.wikia.com/wiki/Beris
+Maldrood,Centares,Mid Rim,638.651,265.363,http://starwars.wikia.com/wiki/Centares
+Maldrood,The Wheel,Mid Rim,628.962,251.862,http://starwars.wikia.com/wiki/The_Wheel
+Maldrood,Abhean,Mid Rim,619.909,238.52,http://starwars.wikia.com/wiki/Abhean
+Maldrood,New Holstice,Mid Rim,652.31,225.972,http://starwars.wikia.com/wiki/New_Holstice
+Bryx,Anzat,Mid Rim,680.14,208.253,http://starwars.wikia.com/wiki/Anzat
+Bryx,Bryx,Mid Rim,634.998,193.253,http://starwars.wikia.com/wiki/Bryx
+Bortele,Ingo,Mid Rim,681.325,169.689,http://starwars.wikia.com/wiki/Ingo
+Bortele,Ultaar,Mid Rim,646.275,149.733,http://starwars.wikia.com/wiki/Ultaar
+Bortele,Zchtek,Mid Rim,679.153,134.326,http://starwars.wikia.com/wiki/Zchtek
+Bortele,Pusat Station,Mid Rim,697.101,121.937,http://starwars.wikia.com/wiki/Pusat_Station
+Bortele,Kalkovak,Mid Rim,708.696,170.063,http://starwars.wikia.com/wiki/Kalkovak
+Halla,Peg Shar,Mid Rim,692.177,110.978,http://starwars.wikia.com/wiki/Peg_Shar
+Halla,Bimmisaari,Mid Rim,678.593,85.29,http://starwars.wikia.com/wiki/Bimmisaari
+Halla,Boz Pity,Mid Rim,704.28,59.806,http://starwars.wikia.com/wiki/Boz_Pity
+Halla,Danuta,Mid Rim,707.584,80.562,http://starwars.wikia.com/wiki/Danuta
+Eucer,Euceron,Mid Rim,594.019,210.407,http://starwars.wikia.com/wiki/Euceron
+Talcene,Talcene,Mid Rim,578.136,194.047,http://starwars.wikia.com/wiki/Talcene
+Talcene,Orleon,Mid Rim,564.635,183.405,http://starwars.wikia.com/wiki/Orleon
+Talcene,Metalorn,Mid Rim,610.061,177.37,http://starwars.wikia.com/wiki/Metalorn
+Perkell,Gromas,Mid Rim,544.781,271.24,http://starwars.wikia.com/wiki/Gromas
+Perkell,Trancret,Mid Rim,537.316,262.98,http://starwars.wikia.com/wiki/Trancret
+Perkell,Aargonar,Mid Rim,573.688,251.068,http://starwars.wikia.com/wiki/Aargonar
+Mandalore,Concord Dawn,Outer Rim,349.792,249.014,http://starwars.wikia.com/wiki/Concord_Dawn
+Msst,Bseto,Mid Rim,431.445,254.011,http://starwars.wikia.com/wiki/Bseto
+Msst,Msst,Mid Rim,405.119,231.02,http://starwars.wikia.com/wiki/Msst
+Msst,Garos,Mid Rim,447.408,243.885,http://starwars.wikia.com/wiki/Garos
+Esuain,Anteevy,Mid Rim,459.678,263.898,http://starwars.wikia.com/wiki/Anteevy
+Esuain,Kromus,Mid Rim,466.944,236.261,http://starwars.wikia.com/wiki/Kromus
+Venaarian,Kiva,Mid Rim,390.824,207.671,http://starwars.wikia.com/wiki/Kiva
+Venaarian,Venaari,Mid Rim,376.886,188.969,http://starwars.wikia.com/wiki/Venaari
+Vensori,Katarr,Mid Rim,386.654,169.313,http://starwars.wikia.com/wiki/Katarr
+Eclorar,Nixor,Mid Rim,530.175,-240.546,https://starwars.fandom.com/wiki/Nixor_(planet)
+Kurost,Farquar,Mid Rim,510.036,-171.545,http://starwars.wikia.com/wiki/Farquar
+Kurost,Sev Tok,Mid Rim,507.495,-192.352,http://starwars.wikia.com/wiki/Sev_Tok
+Kurost,Nanth'ri,Mid Rim,529.285,-207.285,http://starwars.wikia.com/wiki/Nanth%27ri
+Teraab,Ruusan,Mid Rim,491.294,-100.971,http://starwars.wikia.com/wiki/Ruusan
+Teraab,Pesmenben,Mid Rim,504.159,-116.272,http://starwars.wikia.com/wiki/Pesmenben
+Teraab,Drogheda,Mid Rim,514.642,-118.336,http://starwars.wikia.com/wiki/Drogheda
+Dohlbani,Dohlban,Mid Rim,679.743,-390.837,http://starwars.wikia.com/wiki/Dohlban
+Dohlbani,Void Station,Mid Rim,653.194,-411.548,http://starwars.wikia.com/wiki/Void_Station
+Essaga,Rettna,Mid Rim,569.122,-137.873,http://starwars.wikia.com/wiki/Rettna
+Daalang,Daalang,Mid Rim,567.039,-271.976,http://starwars.wikia.com/wiki/Daalang
+Vilonis,Kalinda,Mid Rim,324.117,-622.097,http://starwars.wikia.com/wiki/Kalinda
+Vilonis,Alassa Major,Mid Rim,337.142,-648.463,http://starwars.wikia.com/wiki/Alassa_Major
+Vish,Nigel,Mid Rim,299.34,-608.755,http://starwars.wikia.com/wiki/Nigel
+Vish,Roldalna,Mid Rim,285.045,-606.213,http://starwars.wikia.com/wiki/Roldalna
+Vish,Seltos,Mid Rim,285.362,-635.915,http://starwars.wikia.com/wiki/Seltos
+Dufilvian,Womrik,Mid Rim,584.444,-557.77,http://starwars.wikia.com/wiki/Womrik
+Dufilvian,Blenjeel,Mid Rim,562.207,-570,http://starwars.wikia.com/wiki/Blenjeel
+Dufilvian,Algarian,Mid Rim,580.314,-594.142,http://starwars.wikia.com/wiki/Algarian
+Dufilvian,Talay,Mid Rim,592.068,-611.455,http://starwars.wikia.com/wiki/Talay
+Dufilvian,Ord Pardron,Mid Rim,651.789,-599.86,http://starwars.wikia.com/wiki/Ord_Pardron
+Tennuutta,Casfield,Mid Rim,540.175,222.002,http://starwars.wikia.com/wiki/Casfield
+Tennuutta,Ord Tiddell,Mid Rim,554.628,220.255,http://starwars.wikia.com/wiki/Ord_Tiddell
+Tennuutta,Salvara,Mid Rim,582.106,199.13,http://starwars.wikia.com/wiki/Salvara
+Romintine,Romin,Mid Rim,533.504,187.376,http://starwars.wikia.com/wiki/Romin
+Romintine,Low'n,Mid Rim,519.685,181.817,http://starwars.wikia.com/wiki/Low%27n
+Romintine,Gavryn,Mid Rim,513.967,166.093,http://starwars.wikia.com/wiki/Gavryn
+Halori,Velmor,Mid Rim,465.991,207.552,http://starwars.wikia.com/wiki/Velmor
+Truum,Contruum,Mid Rim,397.275,139.217,http://starwars.wikia.com/wiki/Contruum
+Roche,Jeyell,Mid Rim,514.126,146.556,http://starwars.wikia.com/wiki/Jeyell
+Roche,Roche,Mid Rim,529.215,155.61,http://starwars.wikia.com/wiki/Roche_system
+Sarka,Trasse,Mid Rim,558.123,145.286,http://starwars.wikia.com/wiki/Trasse
+Sarka,Sarka,Mid Rim,588.301,151.004,http://starwars.wikia.com/wiki/Sarka
+Lantillian,Dulathia,Mid Rim,454.436,147.514,http://starwars.wikia.com/wiki/Dulathia
+Lantillian,Lantillies,Mid Rim,430.989,121.946,http://starwars.wikia.com/wiki/Lantillies
+Lantillian,Phaseera,Mid Rim,453.52,106.222,http://starwars.wikia.com/wiki/Phaseera
+Lantillian,Uyter,Mid Rim,452.871,71.904,http://starwars.wikia.com/wiki/Uyter
+Lantillian,Avenelle,Mid Rim,437.513,70.765,http://starwars.wikia.com/wiki/Avenelle
+Terr'skiar,New Apsolon,Mid Rim,457.834,-40.456,http://starwars.wikia.com/wiki/New_Apsolon
+Terr'skiar,Coachelle,Mid Rim,496.783,-34.579,http://starwars.wikia.com/wiki/Coachelle
+Terr'skiar,Terr'Skiar,Mid Rim,479.454,-32.27,http://starwars.wikia.com/wiki/Terr%27Skiar
+Terr'skiar,Pizilis,Mid Rim,479.03,-19.993,http://starwars.wikia.com/wiki/Pizilis
+Terr'skiar,Rorgam,Mid Rim,499.139,-25.073,http://starwars.wikia.com/wiki/Rorgam
+Terr'skiar,Torn Station,Mid Rim,457.467,-527,http://starwars.wikia.com/wiki/Torn_Station
+Mytaranor,Kashyyyk,Mid Rim,472.517,11.164,http://starwars.wikia.com/wiki/Kashyyyk
+Mytaranor,Rakhuuun,Mid Rim,489.746,4.024,http://starwars.wikia.com/wiki/Rakhuuun
+Mytaranor,Mytaranor,Mid Rim,477.864,-10.101,http://starwars.wikia.com/wiki/Mytaranor
+Mytaranor,Tholatin,Mid Rim,475.247,-315,http://starwars.wikia.com/wiki/Tholatin
+Mytaranor,Kwookrrr,Mid Rim,523.734,4.949,http://starwars.wikia.com/wiki/Kwookrrr
+Mytaranor,Ota,Mid Rim,513.178,-35.902,http://starwars.wikia.com/wiki/Ota
+Mytaranor,Randon,Mid Rim,526.463,-34.888,http://starwars.wikia.com/wiki/Randon
+Mytaranor,Messert,Mid Rim,515.966,-24.121,http://starwars.wikia.com/wiki/Messert
+Mytaranor,Chamble,Mid Rim,504.986,-13.015,http://starwars.wikia.com/wiki/Chamble
+Trax,Deysum,Mid Rim,530.153,-58.306,http://starwars.wikia.com/wiki/Deysum_system
+Trax,Lexrul,Mid Rim,529.605,-75.052,http://starwars.wikia.com/wiki/Lexrul
+Trax,Uogo'cor,Mid Rim,536.583,-90.343,http://starwars.wikia.com/wiki/Uogo%27cor
+Trax,Bissillirus,Mid Rim,502.737,-51.602,http://starwars.wikia.com/wiki/Bissillirus
+Kastolar,Sneeve,Mid Rim,559.144,-9.105,http://starwars.wikia.com/wiki/Sneeve
+Kastolar,Durkteel,Mid Rim,579.32,-22.196,http://starwars.wikia.com/wiki/Durkteel
+Kastolar,Ubrikkia,Mid Rim,595.574,-64.688,http://starwars.wikia.com/wiki/Ubrikkia
+Kastolar,Blimph,Mid Rim,545,-45.288,http://starwars.wikia.com/wiki/Blimph
+Kastolar,Yitabo,Mid Rim,590.162,-29.531,http://starwars.wikia.com/wiki/Yitabo
+Kastolar,Chalacta,Mid Rim,654.837,-20.713,http://starwars.wikia.com/wiki/Chalacta
+Kastolar,Kwenn,Mid Rim,652.348,-82.837,http://starwars.wikia.com/wiki/Kwenn
+Maerdocia,Chroma Zed,Mid Rim,515.595,-284.316,http://starwars.wikia.com/wiki/Chroma_Zed
+Maerdocia,Thokosia,Mid Rim,545.847,-305.067,http://starwars.wikia.com/wiki/Thokosia
+Maerdocia,Shador,Mid Rim,537.112,-314.756,http://starwars.wikia.com/wiki/Shador
+Maerdocia,Chokan,Mid Rim,521.228,-330.163,http://starwars.wikia.com/wiki/Chokan
+Maerdocia,Deneba,Mid Rim,516.146,-344.14,http://starwars.wikia.com/wiki/Deneba
+Lanic Space,Dractu,Mid Rim,589.209,-339.057,http://starwars.wikia.com/wiki/Dractu
+Lanic Space,Lannik,Mid Rim,610.374,-330.513,http://starwars.wikia.com/wiki/Lannik
+Tandon,Bresnia,Mid Rim,555.377,-407.514,http://starwars.wikia.com/wiki/Bresnia
+Tandon,Spirador,Mid Rim,568.243,-448.811,http://starwars.wikia.com/wiki/Spirador
+Noolian,Nooli,Mid Rim,568.878,-368.918,http://starwars.wikia.com/wiki/Nooli
+Noolian,Dressel,Mid Rim,579.52,-376.884,http://starwars.wikia.com/wiki/Dressel
+Noolian,Torolis,Mid Rim,595.721,-395.443,http://starwars.wikia.com/wiki/Torolis
+Trans-Nebular,Iskalon,Mid Rim,635.588,-627.815,http://starwars.wikia.com/wiki/Iskalon
+Trans-Nebular,Goroth,Mid Rim,616.401,-647.932,http://starwars.wikia.com/wiki/Goroth
+Trans-Nebular,Milarian,Mid Rim,618.099,-646.851,http://starwars.wikia.com/wiki/Milarian
+Endocray,Argovia,Mid Rim,704.997,-477.559,http://starwars.wikia.com/wiki/Argovia
+Taldot,Rearqu Cluster,Mid Rim,483.264,134.887,http://starwars.wikia.com/wiki/Rearqu_Cluster
+Taldot,Togoria,Mid Rim,473.465,72.963,http://starwars.wikia.com/wiki/Togoria
+Taldot,Balamak,Mid Rim,561.584,43.076,http://starwars.wikia.com/wiki/Balamak
+Taldot,Charros,Mid Rim,613.486,71.459,http://starwars.wikia.com/wiki/Charros
+Freestanding Subsectors,Codia,Mid Rim,-340.957,-520.631,http://starwars.wikia.com/wiki/Codia
+Freestanding Subsectors,Murgo,Mid Rim,-258.746,233.338,http://starwars.wikia.com/wiki/Murgo
+Freestanding Subsectors,Burska,Mid Rim,-257.793,263.675,http://starwars.wikia.com/wiki/Burska
+Freestanding Subsectors,Ankus,Mid Rim,-261.607,280.62,http://starwars.wikia.com/wiki/Ankus
+Chiss Ascendancy,Naporar,Unknown Regions,-581.843,150.45,http://starwars.wikia.com/wiki/Naporar
+Freestanding Subsectors,The Red Twins,Mid Rim,-250.275,293.842,http://starwars.wikia.com/wiki/The_Red_Twins
+Freestanding Subsectors,Geroon,Mid Rim,-298.613,172.187,http://starwars.wikia.com/wiki/Geroon
+Freestanding Subsectors,Utegetu Nebula,Mid Rim,-290.036,188.706,http://starwars.wikia.com/wiki/Utegetu_Nebula
+Herdessa,Herdessa,Mid Rim,539.812,-637.98,http://starwars.wikia.com/wiki/Herdessa
+Herdessa,Habassa,Mid Rim,534.57,-643.539,http://starwars.wikia.com/wiki/Habassa
+Daimar,Retep,Mid Rim,530.758,-654.499,http://starwars.wikia.com/wiki/Retep
+Daimar,Radnor,Mid Rim,554.424,-654.022,http://starwars.wikia.com/wiki/Radnor
+Daimar,Ragna,Mid Rim,578.09,-665.776,http://starwars.wikia.com/wiki/Ragna
+Doldur,Monor,Mid Rim,425.929,-540.139,http://starwars.wikia.com/wiki/Monor
+Doldur,Doldur,Mid Rim,430.535,-524.574,http://starwars.wikia.com/wiki/Doldur
+Doldur,Druckenwell,Mid Rim,437.206,-533.945,http://starwars.wikia.com/wiki/Druckenwell
+Doldur,Linuri,Mid Rim,489.462,-546.016,http://starwars.wikia.com/wiki/Linuri
+Doldur,Falleen,Mid Rim,476.914,-554.434,http://starwars.wikia.com/wiki/Falleen_(planet)
+Paqwepori,Paqwepor Major,Mid Rim,450.389,-555.069,http://starwars.wikia.com/wiki/Paqwepor_Major
+,Bogo Rai,Unknown Regions,-671.026,103.171,http://starwars.wikia.com/wiki/Bogo_Rai
+,Celwis,Unknown Regions,-523.694,107.253,http://starwars.wikia.com/wiki/Celwis
+,Klasse Ephemora,Unknown Regions,-560.524,62.274,http://starwars.wikia.com/wiki/Klasse_Ephemora
+,Yashuvhu,Unknown Regions,-530.679,66.084,http://starwars.wikia.com/wiki/Yashuvhu
+,Zonama Sekot,Unknown Regions,-509.697,-350.583,http://starwars.wikia.com/wiki/Zonama_Sekot
+,Ilum,Unknown Regions,-413.014,245.642,http://starwars.wikia.com/wiki/Ilum
+,Pesfavri,Unknown Regions,-423.394,188.747,http://starwars.wikia.com/wiki/Pesfavri
+,Rakata Prime,Unknown Regions,-460.075,-185.671,http://starwars.wikia.com/wiki/Rakata_Prime
+,The Redoubt,Unknown Regions,-322.354,210.386,http://starwars.wikia.com/wiki/The_Redoubt
+Chiss Ascendancy,Avidich,Unknown Regions,-610.083,120.375,http://starwars.wikia.com/wiki/Avidich
+Chiss Ascendancy,Ool,Unknown Regions,-620.173,115.789,http://starwars.wikia.com/wiki/Ool
+Chiss Ascendancy,Shihon,Unknown Regions,-618.197,110.92,http://starwars.wikia.com/wiki/Shihon
+Chiss Ascendancy,Oyokal,Unknown Regions,-629.75,106.769,http://starwars.wikia.com/wiki/Oyokal
+Chiss Ascendancy,Kinoss,Unknown Regions,-650.811,122.433,http://starwars.wikia.com/wiki/Kinoss
+Chiss Ascendancy,Thearterra,Unknown Regions,-620.437,135.662,http://starwars.wikia.com/wiki/Thearterra
+Chiss Ascendancy,Rhigar,Unknown Regions,-603.281,84.604,http://starwars.wikia.com/wiki/Rhigar
+Chiss Ascendancy,Csilla,Unknown Regions,-592.921,122.131,http://starwars.wikia.com/wiki/Csilla
+Chiss Ascendancy,Jamiron,Unknown Regions,-587.435,133.639,http://starwars.wikia.com/wiki/Jamiron
+Chiss Ascendancy,Rentor,Unknown Regions,-584.401,126.654,http://starwars.wikia.com/wiki/Rentor
+Chiss Ascendancy,Cioral,Unknown Regions,-589.975,115.648,http://starwars.wikia.com/wiki/Cioral
+Chiss Ascendancy,Cormit,Unknown Regions,-557.731,111.838,http://starwars.wikia.com/wiki/Cormit
+Chiss Ascendancy,Colonial Station Cam'co,Unknown Regions,-591.262,174.369,http://starwars.wikia.com/wiki/Colonial_Station_Cam%27co
+Chiss Ascendancy,Sposia,Unknown Regions,-591.897,142.09,http://starwars.wikia.com/wiki/Sposia
+Chiss Ascendancy,Ornfra,Unknown Regions,-556.761,152.673,http://starwars.wikia.com/wiki/Ornfra
+Chiss Ascendancy,Schesa,Unknown Regions,-559.83,166.643,http://starwars.wikia.com/wiki/Schesa
+Chiss Ascendancy,Noris,Unknown Regions,-559.936,162.41,http://starwars.wikia.com/wiki/Noris
+Chiss Ascendancy,Sharb,Unknown Regions,-550.093,158.811,http://starwars.wikia.com/wiki/Sharb
+Chiss Ascendancy,Csaus,Unknown Regions,-581.479,89.155,http://starwars.wikia.com/wiki/Csaus
+Chiss Ascendancy,Copero,Unknown Regions,-571.637,92.754,http://starwars.wikia.com/wiki/Copero
+Chiss Ascendancy,Sarvchi,Unknown Regions,-566.239,98.045,http://starwars.wikia.com/wiki/Sarvchi
+Chiss Ascendancy,Colonial Station Chaf,Unknown Regions,-580.104,67.036,http://starwars.wikia.com/wiki/Colonial_Station_Chaf
+Bakura,Bakura,Outer Rim,-438.157,-670.906,http://starwars.wikia.com/wiki/Bakura
+,Red Nebula,Wild Space,-410.118,-1.134.896,http://starwars.wikia.com/wiki/Red_Nebula
+,Mephout,Wild Space,-368.566,-1.061.236,http://starwars.wikia.com/wiki/Mephout
+,Seoul,Wild Space,-391.231,-1.076.346,http://starwars.wikia.com/wiki/Seoul_5
+,Nirauan,Wild Space,-219.708,403.902,http://starwars.wikia.com/wiki/Nirauan
+,Esfandia,Wild Space,-280.135,351.381,http://starwars.wikia.com/wiki/Esfandia
+,Needan,Wild Space,-230.762,-1.081.871,http://starwars.wikia.com/wiki/Needan
+,Xerton,Wild Space,-143.763,664.844,http://starwars.wikia.com/wiki/Xerton
+,Qonto,Wild Space,-121.053,664.182,http://starwars.wikia.com/wiki/Qonto
+,Huk,Wild Space,-185.611,560.403,http://starwars.wikia.com/wiki/Huk
+,Kalee,Wild Space,-162.247,565.841,http://starwars.wikia.com/wiki/Kalee
+,Guiteica,Wild Space,-176.395,584.146,http://starwars.wikia.com/wiki/Guiteica
+,Tovarskl,Wild Space,-165.541,552.363,http://starwars.wikia.com/wiki/Tovarskl
+,Parshoone,Wild Space,-180.075,530.914,http://starwars.wikia.com/wiki/Parshoone
+,Alashan,Wild Space,-144.146,422.049,http://starwars.wikia.com/wiki/Alashan
+,Marquarra,Wild Space,-151.436,470.275,http://starwars.wikia.com/wiki/Marquarra
+,Adumar,Wild Space,-194.013,352.511,http://starwars.wikia.com/wiki/Adumar
+,Aeten,Wild Space,-169.164,386.96,http://starwars.wikia.com/wiki/Aeten
+,Anoth,Wild Space,-173.689,-1.097.811,http://starwars.wikia.com/wiki/Anoth
+,Zonju,Wild Space,-129.928,-1.153.055,http://starwars.wikia.com/wiki/Zonju
+,Kinooine,Wild Space,-192.622,-1.144.365,http://starwars.wikia.com/wiki/Kinooine
+,Zeta,Wild Space,-75.418,739.073,http://starwars.wikia.com/wiki/Zeta
+,Shiva,Wild Space,28.098,-1.121.778,http://starwars.wikia.com/wiki/Shiva
+,Kesh,Wild Space,970.992,-33.29,http://starwars.wikia.com/wiki/Kesh
+,Gorsh,Wild Space,325.24,669.48,http://starwars.wikia.com/wiki/Gorsh
+Farana,Farana,Wild Space,752.926,626.085,http://starwars.wikia.com/wiki/Farana
+Farana,Hull's Star,Wild Space,748.093,633.324,http://starwars.wikia.com/wiki/Hull's_Star
+Trianii,Trian,Wild Space,683.773,629.708,http://starwars.wikia.com/wiki/Trian
+Trianii,Pypin,Wild Space,691.441,631.118,http://starwars.wikia.com/wiki/Pypin
+Trianii,Ekibo,Wild Space,684.597,628.424,http://starwars.wikia.com/wiki/Ekibo
+Trianii,Brochiib,Wild Space,710.452,635.058,http://starwars.wikia.com/wiki/Brochiib
+,Silken,Wild Space,353.882,-1.008.234,http://starwars.wikia.com/wiki/Silken
+,Gulma,Wild Space,406.845,676.257,http://starwars.wikia.com/wiki/Gulma
+,Morellia,Wild Space,764.98,650.933,http://starwars.wikia.com/wiki/Morellia
+,Mytus,Wild Space,733.426,668.722,http://starwars.wikia.com/wiki/Mytus
+,Velabri,Wild Space,713.876,-848.147,http://starwars.wikia.com/wiki/Velabri
+,Lamaredd,Wild Space,751.119,-838.836,http://starwars.wikia.com/wiki/Lamaredd
+,Naos,Wild Space,770.341,-809.404,http://starwars.wikia.com/wiki/Naos
+,Parthovian Cluster,Wild Space,830.419,587.4,http://starwars.wikia.com/wiki/Parthovian_Cluster
+Colundra,Cholganna,Outer Rim,800.678,467.583,http://starwars.wikia.com/wiki/Cholganna
+,Drongar,Wild Space,866.209,435.768,http://starwars.wikia.com/wiki/Drongar
+,Hast,Wild Space,927.011,380.504,http://starwars.wikia.com/wiki/Hast
+,Zigoola,Wild Space,938.776,362.706,http://starwars.wikia.com/wiki/Zigoola
+,Targon,Wild Space,962.691,212.014,http://starwars.wikia.com/wiki/Targon
+,Pluthan,Wild Space,968.585,161.284,http://starwars.wikia.com/wiki/Pluthan
+,Smarteel,Wild Space,950.166,-478.752,http://starwars.wikia.com/wiki/Smarteel
+,Malagarr,Wild Space,1.005.095,162.295,http://starwars.wikia.com/wiki/Malagarr
+Tashtor,Takodana,Mid Rim,-193.124,-632.573,http://starwars.wikia.com/wiki/Takodana
+,Jakku,Inner Rim,-275.511,-316.755,http://starwars.wikia.com/wiki/Jakku
+Sanbra,D'Qar,Outer Rim,337.759,-785.103,http://starwars.wikia.com/wiki/D%27Qar
+,Hosnian Prime,Core,149.768,-277.35,http://starwars.wikia.com/wiki/Hosnian_Prime
+Abrion,Kamino,Outer Rim,710.488,-530.778,http://starwars.wikia.com/wiki/Kamino
+Belderone,Lola Sayu,Outer Rim,637.665,358.748,http://starwars.wikia.com/wiki/Lola_Sayu
+Chorlian,Malachor,Outer Rim,720.114,524.503,http://starwars.wikia.com/wiki/Malachor
+Garis,Azzameen Station,Outer Rim,215.322,-784.895,http://starwars.wikia.com/wiki/Azzameen_Station_system
+Aida,Makeb,Mid Rim,561.21,-321.197,http://starwars.wikia.com/wiki/Makeb
+Sertar,Florrum,Outer Rim,660.291,439.837,http://starwars.wikia.com/wiki/Florrum
+Freestanding Subsectors,Jedha,Mid Rim,-335.869,-6.848,http://starwars.wikia.com/wiki/Jedha
+Abrion,Scarif,Outer Rim,740.025,-544.01,http://starwars.wikia.com/wiki/Scarif
+Dominus,Lothal,Outer Rim,934.763,286.534,http://starwars.wikia.com/wiki/Lothal
+,Mortis,Wild Space,-55.975,733.387,http://starwars.wikia.com/wiki/Mortis
+Kwymar,Jelucan,Outer Rim,515.985,558.55,http://starwars.wikia.com/wiki/Jelucan
+Sprizen,Abafar,Outer Rim,285.056,439.617,http://starwars.wikia.com/wiki/Abafar
+Bright Jewel,Balnab,Mid Rim,8.384,228.279,http://starwars.wikia.com/wiki/Balnab
+,Bardotta,Colonies,-118.899,-345.621,http://starwars.wikia.com/wiki/Bardotta
+Svivreni,Andelm IV,Outer Rim,330.541,-973.767,http://starwars.wikia.com/wiki/Andelm_IV
+,Gorse,Inner Rim,358.316,-80.167,http://starwars.wikia.com/wiki/Gorse
+Ehosiq,Kiros,Expansion Regions,73.389,179.243,http://starwars.wikia.com/wiki/Kiros
+,Zakuul,Unknown Regions,-744.352,-345.692,http://starwars.wikia.com/wiki/Zakuul
+Dominus,Garel,Outer Rim,912.27,244.527,http://starwars.wikia.com/wiki/Garel
+Kessel,The Maw,Outer Rim,829.763,-9.561,http://starwars.wikia.com/wiki/The_Maw
+Hevvrol,Indobok,Mid Rim,410.109,-555.98,http://starwars.wikia.com/wiki/Indobok
+Subterrel,Orax,Outer Rim,15.022,-1.068.917,http://starwars.wikia.com/wiki/Orax
+Kessel,Eadu,Outer Rim,903.274,-37.139,http://starwars.wikia.com/wiki/Eadu
+Thand,Ring of Kafrene,Expansion Regions,-140.118,-515.468,http://starwars.wikia.com/wiki/Ring_of_Kafrene
+Bryx,Wobani,Mid Rim,669.273,190.865,http://starwars.wikia.com/wiki/Wobani
+,Lasan,Wild Space,443.613,-1.028.573,http://starwars.wikia.com/wiki/Lasan
+Raioballo,Lah'mu,Outer Rim,19.345,596.411,http://starwars.wikia.com/wiki/Lah%27mu
+Mytaranor,Trandosha,Mid Rim,473.695,13.126,http://starwars.wikia.com/wiki/Trandosha
+Allied Tion,Voss,Outer Rim,746.931,362.631,http://starwars.wikia.com/wiki/Voss
+Prefsbelt,Poln System,Outer Rim,-114.362,446.382,http://starwars.wikia.com/wiki/Poln_system
+Dominus,Atollon,Outer Rim,928.219,280.625,http://starwars.wikia.com/wiki/Atollon
+Tharin,Oovo,Outer Rim,776.331,175.003,http://starwars.wikia.com/wiki/Oovo
+Hutt Space,Quesh,Hutt Space,781.565,-55.599,http://starwars.wikia.com/wiki/Quesh
+Xappyh,Peragus II,Outer Rim,581.16,593.31,http://starwars.wikia.com/wiki/Peragus_II
+,Dosuun,Wild Space,-368.167,-1.019.857,http://starwars.wikia.com/wiki/Dosuun
+,Yalara,Wild Space,-273.049,-1.174.904,http://starwars.wikia.com/wiki/Yalara
+Belsmuth,Raydonia,Outer Rim,379.202,336.366,http://starwars.wikia.com/wiki/Raydonia
+,Aaeton,Core,-54.005,14.372,http://starwars.wikia.com/wiki/Aaeton
+,Crakull,Unknown Regions,-478.442,-66.017,http://starwars.wikia.com/wiki/Crakull
+,Darada,Core,-26.038,25.026,http://starwars.wikia.com/wiki/Darada
+Minos,Eliad,Outer Rim,186.687,-1.073.861,http://starwars.wikia.com/wiki/Eliad
+,Eshan,Inner Rim,237.663,175.856,http://starwars.wikia.com/wiki/Eshan
+Trax,Genian,Mid Rim,483.021,-63.063,http://starwars.wikia.com/wiki/Genian
+Mandalore,Kalevala,Outer Rim,351.082,284.794,http://starwars.wikia.com/wiki/Kalevala
+Rayter,Karra,Outer Rim,-157.043,-917.722,http://starwars.wikia.com/wiki/Karra
+Belderone,Kodai,Outer Rim,626.302,368.385,http://starwars.wikia.com/wiki/Kodai
+Cademimu,Lenico IV,Outer Rim,62.809,386.906,http://starwars.wikia.com/wiki/Lenico_system
+Meridian,Nim Drovis,Outer Rim,622.668,294.619,http://starwars.wikia.com/wiki/Nim_Drovis
+Esstran,Odacer-Faustin,Outer Rim,564.865,483.091,http://starwars.wikia.com/wiki/Odacer-Faustin
+Brema,Ord Ibanna,Outer Rim,136.716,-781.355,http://starwars.wikia.com/wiki/Ord_Ibanna
+Noonian,Ord Sigatt,Outer Rim,212.334,315.442,http://starwars.wikia.com/wiki/Ord_Sigatt
+Mandalore,Ordo,Outer Rim,356.867,267.676,http://starwars.wikia.com/wiki/Ordo
+,Osadia,Core,-60.099,-16.946,http://starwars.wikia.com/wiki/Osadia
+Pacanth Reach,Panatha,Outer Rim,-388.465,-626.018,http://starwars.wikia.com/wiki/Panatha
+Quelii,Quelii,Outer Rim,317.67,372.077,http://starwars.wikia.com/wiki/Quelii
+Chorlian,Rekkiad,Outer Rim,737.229,540.97,http://starwars.wikia.com/wiki/Rekkiad
+Meridian,Sorjus,Outer Rim,609.912,294.792,http://starwars.wikia.com/wiki/Sorjus
+Calamari,Taral V,Outer Rim,911.978,290.647,http://starwars.wikia.com/wiki/Taral_V
+Meerian,Vanquo,Outer Rim,323.235,311.108,http://starwars.wikia.com/wiki/Vanquo
+Eucer,Ringo Vinda,Mid Rim,609.018,215.224,http://starwars.wikia.com/wiki/Ringo_Vinda
+Sluis,Bpfassh,Outer Rim,138.399,-925.996,http://starwars.wikia.com/wiki/Bpfassh
+Vensensor,Sarrish,Expansion Regions,-17.079,-613.832,http://starwars.wikia.com/wiki/Sarrish
+,Uphrades,Inner Rim,171.34,175.131,http://starwars.wikia.com/wiki/Uphrades
+Ojoster,Denova,Outer Rim,283.797,266.483,http://starwars.wikia.com/wiki/Denova
+Tion Hegemony,Kaon,Outer Rim,773.665,393.386,http://starwars.wikia.com/wiki/Kaon
+Corva,Oricon,Outer Rim,446.339,634.704,http://starwars.wikia.com/wiki/Oricon
+Chorlian,Nathema,Outer Rim,734.736,513.701,http://starwars.wikia.com/wiki/Nathema
+,Utrost,Core,14.195,4.175,http://starwars.wikia.com/wiki/Utrost
+Grumani,Phaegon_III,Outer Rim,214.776,-738.459,http://starwars.wikia.com/wiki/Phaegon_III
+Esstran,Jagomir,Outer Rim,579.813,464.877,http://starwars.wikia.com/wiki/Jagomir
+Calaron,Fwillsving,Outer Rim,848.966,-1.514,http://starwars.wikia.com/wiki/Fwillsving
+Nembus,Kirtania,Outer Rim,442.97,519.558,http://starwars.wikia.com/wiki/Kirtania
+,Transel,Colonies,58.777,-387.26,http://starwars.wikia.com/wiki/Transel
+Thrasybule,Malrev IV,Outer Rim,433.752,332.386,http://starwars.wikia.com/wiki/Malrev_IV
+Prefsbelt,Carlac,Outer Rim,-91.509,413.975,http://starwars.wikia.com/wiki/Carlac
+,Kadavo,Wild Space,789.335,556.938,http://starwars.wikia.com/wiki/Kadavo
+Hutt Space,Orondia,Hutt Space,722.483,-180.722,http://starwars.wikia.com/wiki/Orondia
+Bright Jewel,Patitite Pattuna,Mid Rim,23.876,224.665,http://starwars.wikia.com/wiki/Patitite_Pattuna
+,Quarzite,Inner Rim,189.691,-370.86,http://starwars.wikia.com/wiki/Quarzite
+Boeus,Stobar,Expansion Regions,140.302,-530.096,http://starwars.wikia.com/wiki/Stobar
+Mandalore,Zanbar,Outer Rim,373.4,287.645,http://starwars.wikia.com/wiki/Zanbar
+,Zardossa Stix,Colonies,-145.978,-314.636,http://starwars.wikia.com/wiki/Zardossa_Stix
+Meridian,Cybloc,Outer Rim,643.249,295.6,http://starwars.wikia.com/wiki/Cybloc
+Kriz,Taul,Outer Rim,-110.947,-878.579,http://starwars.wikia.com/wiki/Taul
+Piryn SHar,Noe'ha'on,Expansion Regions,-75.985,-623.321,http://starwars.wikia.com/wiki/Noe%27ha%27on/Canon
+,Ahch-To,Unknown Regions,-651.605,-371.236,http://starwars.wikia.com/wiki/Ahch-To
+Corporate Sector,Cantonica,Outer Rim,737.407,585.696,http://starwars.wikia.com/wiki/Cantonica
+Grumani,Crait,Outer Rim,248.05,-744.476,http://starwars.wikia.com/wiki/Crait
+,Trantor,Core,146.12,-64.355,http://starwars.wikia.com/wiki/Trantor
+Corporate Sector,Salient,Outer Rim,752.63,614.099,http://starwars.wikia.com/wiki/Salient_system
+,Ganthel,Core,75.948,27.57,http://starwars.wikia.com/wiki/Ganthel
+Nuiri,Quell,Outer Rim,586.648,323.269,http://starwars.wikia.com/wiki/Quell_system
+Kwymar,Seelos,Outer Rim,509.133,545.761,http://starwars.wikia.com/wiki/Seelos
+Nuiri,Stygeon Prime,Outer Rim,572.269,289.747,http://starwars.wikia.com/wiki/Stygeon_Prime
+Wazta,Lotho Minor,Outer Rim,-210.993,-792.941,http://starwars.wikia.com/wiki/Lotho_Minor
+Savareen,Savareen,Outer Rim,591.877,-688.263,http://starwars.wikia.com/wiki/Savareen
+Sloo,Vandor,Mid Rim,427.165,-443.769,http://starwars.wikia.com/wiki/Vandor-1
+,Crustai,Unknown Regions,-387.053,125.905,http://starwars.wikia.com/wiki/Crustai
+Pakuuni,Telaris,Outer Rim,849.259,354.859,http://starwars.wikia.com/wiki/Telaris_system
+Lostar,Teya IV,Expansion Regions,138.666,216.79,http://starwars.wikia.com/wiki/Teya_IV
+Sujimis,Orto Plutonia,Outer Rim,431.578,-968.659,http://starwars.wikia.com/wiki/Orto_Plutonia
+Savareen,Apatros,Outer Rim,563.024,-685.06,http://starwars.wikia.com/wiki/Apatros_system
+Jospro,Chad,Outer Rim,671.009,263.914,http://starwars.wikia.com/wiki/Chad
+Kuat,Drurish,Core,185.277,-58.825,http://starwars.wikia.com/wiki/Drurish_system
+Hutt Space,Vodran,Hutt Space,773.218,71.262,http://starwars.wikia.com/wiki/Vodran
+Sluis,Orto,Outer Rim,146.339,-910.468,http://starwars.wikia.com/wiki/Orto
+Corellian,Plympto,Core,144.717,-187.766,http://starwars.wikia.com/wiki/Plympto
+Suolriep,Laboi II,Outer Rim,730.602,132.707,http://starwars.wikia.com/wiki/Laboi_II
+Farlax,Widek,Core,-77.56,-4.912,http://starwars.wikia.com/wiki/Widek
+Thursa,Bedlam,Mid Rim,356.622,224.747,http://starwars.wikia.com/wiki/Bedlam
+Calaron,Dweem,Outer Rim,869.579,10.169,http://starwars.wikia.com/wiki/Dweem
+Halthor,Doan,Outer Rim,116.856,353.335,https://starwars.fandom.com/wiki/Doan
+Mandalore,Krownest,Outer Rim,328.188,264.487,https://starwars.fandom.com/wiki/Krownest
+Belsmuth,Katraasii,Outer Rim,360.22,321.285,https://starwars.fandom.com/wiki/Katraasii
+Morshdine,Altyr V,Outer Rim,346.673,487.02,https://starwars.fandom.com/wiki/Altyr_V
+Lahara,Chrellis,Outer Rim,181.22,425.989,https://starwars.fandom.com/wiki/Chrellis
+Sprizen,Keeper's World,Outer Rim,318.98,483.316,https://starwars.fandom.com/wiki/Keeper%27s_World
+,Tholoth,Colonies,223.73,-234.721,https://starwars.fandom.com/wiki/Tholoth
+Kessel,Oba Diah,Outer Rim,884.828,-14.437,https://starwars.fandom.com/wiki/Oba_Diah
+,Yanibar,Wild Space,642.725,-917.056,https://starwars.fandom.com/wiki/Yanibar
+Seswenna,Uvena Prime,Outer Rim,174.147,-810.728,https://starwars.fandom.com/wiki/Uvena_Prime
+,Kaikielius,Core,1.471,-10.018,https://starwars.fandom.com/wiki/Kaikielius
+D'Aelgoth,Argul,Mid Rim,16.852,-775.336,https://starwars.fandom.com/wiki/Argul
+,Diab,Wild Space,-189.276,384.362,https://starwars.fandom.com/wiki/Diab
+,Exegol,Unknown Regions,-597.906,237.279,https://starwars.fandom.com/wiki/Exegol
+Trilon,Batuu,Outer Rim,-387.826,-555.59,https://starwars.fandom.com/wiki/Batuu
+Ombakond,Pasaana,Expansion Regions,400.369,-298.679,https://starwars.fandom.com/wiki/Pasaana
+Hune,Sinta,Mid Rim,556.005,-183.709,https://starwars.fandom.com/wiki/Sinta
+Bryx,Kijimi,Mid Rim,649.226,169.863,https://starwars.fandom.com/wiki/Kijimi
+Cademimu,Ajan Kloss,Outer Rim,56.074,401.682,https://starwars.fandom.com/wiki/Ajan_Kloss
